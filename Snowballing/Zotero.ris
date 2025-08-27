@@ -1,0 +1,907 @@
+TY  - GEN
+TI  - LearnLM: Improving Gemini for Learning
+AU  - Team, LearnLM
+AU  - Modi, Abhinit
+AU  - Veerubhotla, Aditya Srikanth
+AU  - Rysbek, Aliya
+AU  - Huber, Andrea
+AU  - Wiltshire, Brett
+AU  - Veprek, Brian
+AU  - Gillick, Daniel
+AU  - Kasenberg, Daniel
+AU  - Ahmed, Derek
+AU  - Jurenka, Irina
+AU  - Cohan, James
+AU  - She, Jennifer
+AU  - Wilkowski, Julia
+AU  - Alarakyia, Kaiz
+AU  - McKee, Kevin R.
+AU  - Wang, Lisa
+AU  - Kunesch, Markus
+AU  - Schaekermann, Mike
+AU  - Pîslar, Miruna
+AU  - Joshi, Nikhil
+AU  - Mahmoudieh, Parsa
+AU  - Jhun, Paul
+AU  - Wiltberger, Sara
+AU  - Mohamed, Shakir
+AU  - Agarwal, Shashank
+AU  - Phal, Shubham Milind
+AU  - Lee, Sun Jae
+AU  - Strinopoulos, Theofilos
+AU  - Ko, Wei-Jen
+AU  - Wang, Amy
+AU  - Anand, Ankit
+AU  - Bhoopchand, Avishkar
+AU  - Wild, Dan
+AU  - Pandya, Divya
+AU  - Bar, Filip
+AU  - Graham, Garth
+AU  - Winnemoeller, Holger
+AU  - Nagda, Mahvish
+AU  - Kolhar, Prateek
+AU  - Schneider, Renee
+AU  - Zhu, Shaojian
+AU  - Chan, Stephanie
+AU  - Yadlowsky, Steve
+AU  - Sounderajah, Viknesh
+AU  - Assael, Yannis
+AB  - Today's generative AI systems are tuned to present information by default rather than engage users in service of learning as a human tutor would. To address the wide range of potential education use cases for these systems, we reframe the challenge of injecting pedagogical behavior as one of \textit{pedagogical instruction following}, where training and evaluation examples include system-level instructions describing the specific pedagogy attributes present or desired in subsequent model turns. This framing avoids committing our models to any particular definition of pedagogy, and instead allows teachers or developers to specify desired model behavior. It also clears a path to improving Gemini models for learning -- by enabling the addition of our pedagogical data to post-training mixtures -- alongside their rapidly expanding set of capabilities. Both represent important changes from our initial tech report. We show how training with pedagogical instruction following produces a LearnLM model (available on Google AI Studio) that is preferred substantially by expert raters across a diverse set of learning scenarios, with average preference strengths of 31\% over GPT-4o, 11\% over Claude 3.5, and 13\% over the Gemini 1.5 Pro model LearnLM was based on.
+DA  - 2024/12/25/
+PY  - 2024
+DO  - 10.48550/arXiv.2412.16429
+DP  - arXiv.org
+PB  - arXiv
+ST  - LearnLM
+UR  - http://arxiv.org/abs/2412.16429
+Y2  - 2025/02/05/10:16:00
+L2  - http://arxiv.org/abs/2412.16429
+KW  - Computer Science - Artificial Intelligence
+KW  - Computer Science - Computers and Society
+KW  - Computer Science - Machine Learning
+ER  - 
+
+TY  - JOUR
+TI  - Towards Responsible Development of Generative AI for Education: An Evaluation-Driven Approach
+AU  - Jurenka, Irina
+AU  - Kunesch, Markus
+AU  - McKee, Kevin R
+AU  - Gillick, Daniel
+AU  - Zhu, Shaojian
+AU  - Phal, Shubham Milind
+AU  - Hermann, Katherine
+AU  - Kasenberg, Daniel
+AU  - Bhoopchand, Avishkar
+AU  - Anand, Ankit
+AU  - Pîslar, Miruna
+AU  - Chan, Stephanie
+AU  - Wang, Lisa
+AU  - She, Jennifer
+AU  - Mahmoudieh, Parsa
+AU  - Ko, Wei-Jen
+AU  - Huber, Andrea
+AU  - Wiltshire, Brett
+AU  - Elidan, Gal
+AU  - Rabin, Roni
+AU  - Rubinovitz, Jasmin
+AU  - McAllister, Mac
+AU  - Wilkowski, Julia
+AU  - Choi, David
+AU  - Engelberg, Roee
+AU  - Hackmon, Lidan
+AU  - Levin, Adva
+AU  - Griffin, Rachel
+AU  - Sears, Michael
+AU  - Bar, Filip
+AU  - Mesar, Mia
+AU  - Jabbour, Mana
+AU  - Chaudhry, Arslan
+AU  - Cohan, James
+AU  - Thiagarajan, Sridhar
+AU  - Levine, Nir
+AU  - Brown, Ben
+AU  - Gorur, Dilan
+AU  - Grant, Svetlana
+AU  - Hashimshoni, Rachel
+AU  - Hu, Jieru
+AU  - Chen, Dawn
+AU  - Dolecki, Kuba
+AU  - Akbulut, Canfer
+AU  - Bileschi, Maxwell
+AU  - Culp, Laura
+AU  - Dong, Wen-Xin
+AU  - Marchal, Nahema
+AU  - Deman, Kelsie Van
+AU  - Misra, Hema Bajaj
+AU  - Duah, Michael
+AU  - Ambar, Moran
+AU  - Caciularu, Avi
+AU  - Lefdal, Sandra
+AU  - Summerfield, Chris
+AU  - An, James
+AU  - Kamienny, Pierre-Alexandre
+AU  - Mohdi, Abhinit
+AU  - Strinopoulous, Theofilos
+AU  - Hale, Annie
+AU  - Anderson, Wayne
+AU  - Cobo, Luis C
+AU  - Efron, Niv
+AU  - Ananda, Muktha
+AU  - Mohamed, Shakir
+AU  - Heymans, Maureen
+AU  - Ghahramani, Zoubin
+AU  - Matias, Yossi
+AU  - Gomes, Ben
+AU  - Ibrahim, Lila
+DP  - Zotero
+LA  - en
+L1  - https://storage.googleapis.com/deepmind-media/LearnLM/LearnLM_paper.pdf
+ER  - 
+
+TY  - GEN
+TI  - Students' Perceptions and Preferences of Generative Artificial Intelligence Feedback for Programming
+AU  - Zhang, Zhengdong
+AU  - Dong, Zihan
+AU  - Shi, Yang
+AU  - Matsuda, Noboru
+AU  - Price, Thomas
+AU  - Xu, Dongkuan
+AB  - The rapid evolution of artificial intelligence (AI), specifically large language models (LLMs), has opened opportunities for various educational applications. This paper explored the feasibility of utilizing ChatGPT, one of the most popular LLMs, for automating feedback for Java programming assignments in an introductory computer science (CS1) class. Specifically, this study focused on three questions: 1) To what extent do students view LLM-generated feedback as formative? 2) How do students see the comparative affordances of feedback prompts that include their code, vs. those that exclude it? 3) What enhancements do students suggest for improving AI-generated feedback? To address these questions, we generated automated feedback using the ChatGPT API for four lab assignments in the CS1 class. The survey results revealed that students perceived the feedback as aligning well with formative feedback guidelines established by Shute. Additionally, students showed a clear preference for feedback generated by including the students' code as part of the LLM prompt, and our thematic study indicated that the preference was mainly attributed to the specificity, clarity, and corrective nature of the feedback. Moreover, this study found that students generally expected specific and corrective feedback with sufficient code examples, but had diverged opinions on the tone of the feedback. This study demonstrated that ChatGPT could generate Java programming assignment feedback that students perceived as formative. It also offered insights into the specific improvements that would make the ChatGPT-generated feedback useful for students.
+DA  - 2023/12/17/
+PY  - 2023
+DO  - 10.48550/arXiv.2312.11567
+DP  - arXiv.org
+PB  - arXiv
+UR  - http://arxiv.org/abs/2312.11567
+Y2  - 2025/02/06/09:46:42
+L2  - https://arxiv.org/abs/2312.11567
+KW  - Computer Science - Artificial Intelligence
+KW  - Computer Science - Computers and Society
+KW  - Computer Science - Human-Computer Interaction
+ER  - 
+
+TY  - CONF
+TI  - Investigating the Essential of Meaningful Automated Formative Feedback for Programming Assignments
+AU  - Hao, Qiang
+AU  - Wilson, Jack P.
+AU  - Ottaway, Camille
+AU  - Iriumi, Naitra
+AU  - Arakawa, Kai
+AU  - IV, David H. Smith
+AB  - This study investigated the essential of meaningful automated feedback for programming assignments. Three different types of feedback were tested, including (a) What's wrong - what test cases were testing and which failed, (b) Gap - comparisons between expected and actual outputs, and (c) Hint - hints on how to fix problems if test cases failed. 46 students taking a CS2 participated in this study. They were divided into three groups, and the feedback configurations for each group were different: (1) Group One - What's wrong, (2) Group Two - What's wrong + Gap, (3) Group Three - What's wrong + Gap + Hint. This study found that simply knowing what failed did not help students sufficiently, and might stimulate system gaming behavior. Hints were not found to be impactful on student performance or their usage of automated feedback. Based on the findings, this study provides practical guidance on the design of automated feedback.
+C3  - 2019 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)
+DA  - 2019/10//
+PY  - 2019
+DO  - 10.1109/VLHCC.2019.8818922
+DP  - arXiv.org
+SP  - 151
+EP  - 155
+UR  - http://arxiv.org/abs/1906.08937
+Y2  - 2025/02/06/09:47:52
+L1  - http://arxiv.org/pdf/1906.08937v2
+L2  - https://arxiv.org/abs/1906.08937
+KW  - Computer Science - Human-Computer Interaction
+ER  - 
+
+TY  - JOUR
+TI  - Embracing LLM Feedback: the role of feedback providers and provider information for feedback effectiveness
+AU  - Ruwe, Theresa
+AU  - Mayweg-Paus, Elisabeth
+T2  - Frontiers in Education
+AB  - <p>Feedback is an integral part of learning in higher education and is increasingly being provided to students via modern technologies like Large Language Models (LLMs). But students’ perception of feedback from LLMs vs. feedback from educators remains unclear even though it is an important facet of feedback effectiveness. Further, feedback effectiveness can be negatively influenced by various factors; For example, (not) knowing certain characteristics about the feedback provider may bias a student’s reaction to the feedback process. To assess perceptions of LLM feedback and mitigate the negative effects of possible biases, this study investigated the potential of providing provider-information about feedback providers. In a 2×2 between-subjects design with the factors feedback provider (LLM vs. educator) and provider-information (yes vs. no), 169 German students evaluated feedback message and provider perceptions. Path analyses showed that the LLM was perceived as more trustworthy than an educator and that the provision of provider-information led to improved perceptions of the feedback. Furthermore, the effect of the provider and the feedback on perceived trustworthiness and fairness changed when provider-information was provided. Overall, our study highlights the importance of further research on feedback processes that include LLMs due to their influential nature and suggests practical recommendations for designing digital feedback processes.</p>
+DA  - 2024/10/16/
+PY  - 2024
+DO  - 10.3389/feduc.2024.1461362
+DP  - Frontiers
+VL  - 9
+J2  - Front. Educ.
+LA  - English
+SN  - 2504-284X
+ST  - Embracing LLM Feedback
+UR  - https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1461362/full
+Y2  - 2025/02/06/09:55:59
+L1  - https://www.frontiersin.org/articles/10.3389/feduc.2024.1461362/pdf
+KW  - Artificial intelligence in education
+KW  - feedback message perceptions
+KW  - Feedback provider
+KW  - Large language models
+KW  - provider-information
+KW  - trustworthiness
+ER  - 
+
+TY  - CONF
+TI  - Automatic Feedback Generation on K-12 Students' Data Science Education by Prompting Cloud-based Large Language Models
+AU  - Fung, Sze Ching Evelyn
+AU  - Wong, Man Fai
+AU  - Tan, Chee Wei
+T2  - L@S '24: Eleventh ACM Conference on Learning @ Scale
+C1  - Atlanta GA USA
+C3  - Proceedings of the Eleventh ACM Conference on Learning @ Scale
+DA  - 2024/07/09/
+PY  - 2024
+DO  - 10.1145/3657604.3664673
+DP  - DOI.org (Crossref)
+SP  - 255
+EP  - 258
+LA  - en
+PB  - ACM
+SN  - 979-8-4007-0633-2
+UR  - https://dl.acm.org/doi/10.1145/3657604.3664673
+Y2  - 2025/02/07/08:41:08
+ER  - 
+
+TY  - CONF
+TI  - MuFIN: A Framework for Automating Multimodal Feedback Generation using Generative Artificial Intelligence
+AU  - Lin, Jionghao
+AU  - Chen, Eason
+AU  - Gurung, Ashish
+AU  - Koedinger, Kenneth R.
+T2  - L@S '24: Eleventh ACM Conference on Learning @ Scale
+C1  - Atlanta GA USA
+C3  - Proceedings of the Eleventh ACM Conference on Learning @ Scale
+DA  - 2024/07/09/
+PY  - 2024
+DO  - 10.1145/3657604.3664720
+DP  - DOI.org (Crossref)
+SP  - 550
+EP  - 552
+LA  - en
+PB  - ACM
+SN  - 979-8-4007-0633-2
+ST  - MuFIN
+UR  - https://dl.acm.org/doi/10.1145/3657604.3664720
+Y2  - 2025/02/07/08:49:05
+L1  - https://osf.io/3asxz/download
+ER  - 
+
+TY  - CONF
+TI  - Bridging the Novice-Expert Gap via Models of Decision-Making: A Case Study on Remediating Math Mistakes
+AU  - Wang, Rose
+AU  - Zhang, Qingyang
+AU  - Robinson, Carly
+AU  - Loeb, Susanna
+AU  - Demszky, Dorottya
+T2  - Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)
+AB  - Scaling high-quality tutoring remains a major challenge in education. Due to growing demand, many platforms employ novice tutors who, unlike experienced educators, struggle to address student mistakes and thus fail to seize prime learning opportunities. Our work explores the potential of large language models (LLMs) to close the novice-expert knowledge gap in remediating math mistakes. We contribute Bridge, a method that uses cognitive task analysis to translate an expert’s latent thought process into a decision-making model for remediation. This involves an expert identifying (A) the student’s error, (B) a remediation strategy, and (C) their intention before generating a response. We construct a dataset of 700 real tutoring conversations, annotated by experts with their decisions. We evaluate state-of-the-art LLMs on our dataset and find that the expert’s decision-making model is critical for LLMs to close the gap: responses from GPT4 with expert decisions (e.g., “simplify the problem”) are +76% more preferred than without. Additionally, context-sensitive decisions are critical to closing pedagogical gaps: random decisions decrease GPT4’s response quality by -97% than expert decisions. Our work shows the potential of embedding expert thought processes in LLM generations to enhance their capability to bridge novice-expert knowledge gaps. Our dataset and code can be found at: https://github.com/rosewang2008/bridge.
+C1  - Mexico City, Mexico
+C3  - Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)
+DA  - 2024///
+PY  - 2024
+DO  - 10.18653/v1/2024.naacl-long.120
+DP  - Semantic Scholar
+SP  - 2174
+EP  - 2199
+LA  - en
+PB  - Association for Computational Linguistics
+ST  - Bridging the Novice-Expert Gap via Models of Decision-Making
+UR  - https://aclanthology.org/2024.naacl-long.120
+Y2  - 2025/02/11/11:53:52
+L1  - https://www.aclanthology.org/2024.naacl-long.120.pdf
+L2  - https://www.semanticscholar.org/reader/ff4b455af2ef2c3f7372c47209a617ddafd4e203
+ER  - 
+
+TY  - JOUR
+TI  - A scoping review on how generative artificial intelligence transforms assessment in higher education
+AU  - Xia, Qi
+AU  - Weng, Xiaojing
+AU  - Ouyang, Fan
+AU  - Lin, Tzung Jin
+AU  - Chiu, Thomas K.F.
+T2  - International Journal of Educational Technology in Higher Education
+AB  - Generative artificial intelligence provides both opportunities and challenges for higher education. Existing literature has not properly investigated how this technology would impact assessment in higher education. This scoping review took a forward-thinking approach to investigate how generative artificial intelligence transforms assessment in higher education. We used the PRISMA extension for scoping reviews to select articles for review and report the results. In the screening, we retrieved 969 articles and selected 32 empirical studies for analysis. Most of the articles were published in 2023. We used three levels—students, teachers, and institutions—to analyses the articles. Our results suggested that assessment should be transformed to cultivate students’ self-regulated learning skills, responsible learning, and integrity. To successfully transform assessment in higher education, the review suggested that (i) teacher professional development activities for assessment, AI, and digital literacy should be provided, (ii) teachers’ beliefs about human and AI assessment should be strengthened, and (iii) teachers should be innovative and holistic in their teaching to reflect the assessment transformation. Educational institutions are recommended to review and rethink their assessment policies, as well as provide more inter-disciplinary programs and teaching.
+DA  - 2024/05/24/
+PY  - 2024
+DO  - 10.1186/s41239-024-00468-z
+DP  - BioMed Central
+VL  - 21
+IS  - 1
+SP  - 40
+J2  - International Journal of Educational Technology in Higher Education
+SN  - 2365-9440
+UR  - https://doi.org/10.1186/s41239-024-00468-z
+Y2  - 2025/02/13/08:59:38
+L1  - https://educationaltechnologyjournal.springeropen.com/counter/pdf/10.1186/s41239-024-00468-z
+L2  - https://educationaltechnologyjournal.springeropen.com/articles/10.1186/s41239-024-00468-z
+KW  - AI literacy
+KW  - Assessment
+KW  - Assessment literacy
+KW  - Educational policy
+KW  - Generative artificial intelligence
+KW  - Higher education
+KW  - Professional development
+KW  - Scoping review
+ER  - 
+
+TY  - JOUR
+TI  - A Systematic Review of Generative AI and (English Medium Instruction) Higher Education
+AU  - Bannister, Peter
+AU  - Urbieta, Alexandra Santamaría
+AU  - Peñalver, Elena Alcalde
+T2  - Aula Abierta
+AB  - This systematic review investigates the current state of research on Generative Artificial Intelligence (GenAI) and its implications for (EMI) Higher Education. The study employs a methodology based on an evidence-informed and theoretically credible framework to answer two research questions: (1) What studies of relevance to (EMI) Higher Education have been published thus far, considering the most recent developments of GenAI? and (2) Which key areas are currently lacking in extant literature and in need of further scholarly exploration in this regard in (EMI) Higher Education research? The results of the study reveal a limited number of pertinent publications, indicating a sparse scholarly landscape with a dearth of work on the implications of Generative AI in EMI Higher Education. Based on these findings, preliminary recommendations have been made to guide future research in this area. This study contributes to the literature by highlighting the need for further research on the potential of GenAI to enhance the teaching and learning experience in (EMI) Higher Education and provides a theoretical framework to guide future research. These findings may inform researchers and educators interested in exploring how GenAI may be leveraged from different educational perspectives.
+DA  - 2023/12/20/
+PY  - 2023
+DO  - 10.17811/rifie.52.4.2023.401-409
+DP  - reunido.uniovi.es
+VL  - 52
+IS  - 4
+SP  - 401
+EP  - 409
+LA  - en
+SN  - 2341-2313
+UR  - https://reunido.uniovi.es/index.php/AA/article/view/19642
+Y2  - 2025/02/13/08:59:47
+L1  - https://reunido.uniovi.es/index.php/AA/article/download/19642/16186
+KW  - educación universitaria
+KW  - inglés como medio de instrucción
+KW  - inteligencia artificial generativa
+KW  - revisión sistemática
+KW  - síntesis de investigación cualitativa
+ER  - 
+
+TY  - JOUR
+TI  - Transforming Education: A Comprehensive Review of Generative Artificial Intelligence in Educational Settings through Bibliometric and Content Analysis
+AU  - Bahroun, Zied
+AU  - Anane, Chiraz
+AU  - Ahmed, Vian
+AU  - Zacca, Andrew
+T2  - Sustainability
+AB  - In the ever-evolving era of technological advancements, generative artificial intelligence (GAI) emerges as a transformative force, revolutionizing education. This review paper, guided by the PRISMA framework, presents a comprehensive analysis of GAI in education, synthesizing key insights from a selection of 207 research papers to identify research gaps and future directions in the field. This study begins with a content analysis that explores GAI’s transformative impact in specific educational domains, including medical education and engineering education. The versatile applications of GAI encompass assessment, personalized learning support, and intelligent tutoring systems. Ethical considerations, interdisciplinary collaboration, and responsible technology use are highlighted, emphasizing the need for transparent GAI models and addressing biases. Subsequently, a bibliometric analysis of GAI in education is conducted, examining prominent AI tools, research focus, geographic distribution, and interdisciplinary collaboration. ChatGPT emerges as a dominant GAI tool, and the analysis reveals significant and exponential growth in GAI research in 2023. Moreover, this paper identifies promising future research directions, such as GAI-enhanced curriculum design and longitudinal studies tracking its long-term impact on learning outcomes. These findings provide a comprehensive understanding of GAI’s potential in reshaping education and offer valuable insights to researchers, educators, and policymakers interested in the intersection of GAI and education.
+DA  - 2023/01//
+PY  - 2023
+DO  - 10.3390/su151712983
+DP  - www.mdpi.com
+VL  - 15
+IS  - 17
+SP  - 12983
+LA  - en
+SN  - 2071-1050
+ST  - Transforming Education
+UR  - https://www.mdpi.com/2071-1050/15/17/12983
+Y2  - 2025/02/13/08:59:55
+L1  - https://www.mdpi.com/2071-1050/15/17/12983/pdf?version=1693276970
+KW  - ChatGPT
+KW  - education
+KW  - educational technology
+KW  - ethics
+KW  - generative artificial intelligence
+KW  - review
+ER  - 
+
+TY  - JOUR
+TI  - Does Generative Artificial Intelligence Improve the Academic Achievement of College Students? A Meta-Analysis
+AU  - Sun, Lihui
+AU  - Zhou, Liang
+T2  - Journal of Educational Computing Research
+AB  - The use of generative artificial intelligence (Gen-AI) to assist college students in their studies has become a trend. However, there is no academic consensus on whether Gen-AI can enhance the academic achievement of college students. Using a meta-analytic approach, this study aims to investigate the effectiveness of Gen-AI in improving the academic achievement of college students and to explore the effects of different moderating variables. A total of 28 articles (65 independent studies, 1909 participants) met the inclusion criteria for this study. The results showed that Gen-AI significantly improved college students? academic achievement with a medium effect size (Hedges?s g = 0.533, 95% CI [0.408,0.659], p < .05). There were within-group differences in the three moderator variables, activity categories, sample size, and generated content, when the generated content was text (g = 0.554, p < .05), and sample size of 21?40 (g = 0.776, p < .05), the use of independent learning styles (g = 0.600, p < .05) had the most significant improvement in college student?s academic achievement. The intervention duration, the discipline types, and the assessment tools also had a moderate positive impact on college students? academic achievement, but there were no significant within-group differences in any of the moderating variables. This study provides a theoretical basis and empirical evidence for the scientific application of Gen-AI and the development of educational technology policy.
+DA  - 2024/12/01/
+PY  - 2024
+DO  - 10.1177/07356331241277937
+DP  - SAGE Journals
+VL  - 62
+IS  - 7
+SP  - 1896
+EP  - 1933
+SN  - 0735-6331
+ST  - Does Generative Artificial Intelligence Improve the Academic Achievement of College Students?
+UR  - https://doi.org/10.1177/07356331241277937
+Y2  - 2025/02/13/09:00:49
+ER  - 
+
+TY  - ELEC
+TI  - ChatGPT on Student Learning Outcomes in Higher Education: A Meta-Analysis of Early Studies
+T2  - ResearchGate
+AB  - Access 135+ million publications and connect with 20+ million researchers. Join for free and gain visibility by uploading your research.
+LA  - en
+ST  - ChatGPT on Student Learning Outcomes in Higher Education
+UR  - https://www.researchgate.net/publication/380540021_ChatGPT_on_Student_Learning_Outcomes_in_Higher_Education_A_Meta-Analysis_of_Early_Studies
+Y2  - 2025/02/13/09:02:43
+L2  - https://www.researchgate.net/publication/380540021_ChatGPT_on_Student_Learning_Outcomes_in_Higher_Education_A_Meta-Analysis_of_Early_Studies
+ER  - 
+
+TY  - JOUR
+TI  - AI-TA: Towards an Intelligent Question-Answer Teaching Assistant using Open-Source LLMs
+AU  - Hicke, Yann
+AU  - Agarwal, Anmol
+AU  - Ma, Qianou
+AU  - Denny, Paul
+AB  - Responding to the thousands of student questions on online QA platforms each semester has a considerable human cost, particularly in computing courses with rapidly growing enrollments. To address the challenges of scalable and intelligent question-answering (QA), we introduce an innovative solution that leverages open-source Large Language Models (LLMs) from the LLaMA-2 family to ensure data privacy. Our approach combines augmentation techniques such as retrieval augmented generation (RAG), supervised fine-tuning (SFT), and learning from human preferences data using Direct Preference Optimization (DPO). Through extensive experimentation on a Piazza dataset from an introductory CS course, comprising 10,000 QA pairs and 1,500 pairs of preference data, we demonstrate a significant 30% improvement in the quality of answers, with RAG being a particularly impactful addition. Our contributions include the development of a novel architecture for educational QA, extensive evaluations of LLM performance utilizing both human assessments and LLM-based metrics, and insights into the challenges and future directions of educational data processing. This work paves the way for the development of AI-TA, an intelligent QA assistant customizable for courses with an online QA platform
+DA  - 2023///
+PY  - 2023
+DO  - 10.48550/ARXIV.2311.02775
+DP  - Semantic Scholar
+ST  - AI-TA
+UR  - https://arxiv.org/abs/2311.02775
+Y2  - 2025/02/13/09:31:19
+L2  - https://www.semanticscholar.org/paper/ChaTA%3A-Towards-an-Intelligent-Question-Answer-using-Hicke-Agarwal/ff2d0198820cd97421ab6a8626d7e10f07c2c4ba
+KW  - Artificial Intelligence (cs.AI)
+KW  - Computation and Language (cs.CL)
+KW  - FOS: Computer and information sciences
+KW  - Machine Learning (cs.LG)
+ER  - 
+
+TY  - JOUR
+TI  - ChatGPT-generated help produces learning gains equivalent to human tutor-authored help on mathematics skills
+AU  - Pardos, Zachary A.
+AU  - Bhandari, Shreya
+T2  - PLOS ONE
+A2  - Carvalho, Paulo F.
+AB  - Authoring of help content within educational technologies is labor intensive, requiring many iterations of content creation, refining, and proofreading. In this paper, we conduct an efficacy evaluation of ChatGPT-generated help using a 3 x 4 study design (N = 274) to compare the learning gains of ChatGPT to human tutor-authored help across four mathematics problem subject areas. Participants are randomly assigned to one of three hint conditions (control, human tutor, or ChatGPT) paired with one of four randomly assigned subject areas (Elementary Algebra, Intermediate Algebra, College Algebra, or Statistics). We find that only the ChatGPT condition produces statistically significant learning gains compared to a no-help control, with no statistically significant differences in gains or time-on-task observed between learners receiving ChatGPT vs human tutor help. Notably, ChatGPT-generated help failed quality checks on 32% of problems. This was, however, reducible to nearly 0% for algebra problems and 13% for statistics problems after applying self-consistency, a “hallucination” mitigation technique for Large Language Models.
+DA  - 2024/05/24/
+PY  - 2024
+DO  - 10.1371/journal.pone.0304013
+DP  - Semantic Scholar
+VL  - 19
+IS  - 5
+SP  - e0304013
+J2  - PLoS ONE
+LA  - en
+SN  - 1932-6203
+UR  - https://dx.plos.org/10.1371/journal.pone.0304013
+Y2  - 2025/02/13/09:39:06
+L1  - https://pdfs.semanticscholar.org/fbb5/27b3843cb6e1a44c5e2889ac730c839e79e7.pdf
+L2  - https://www.semanticscholar.org/reader/fbb527b3843cb6e1a44c5e2889ac730c839e79e7
+ER  - 
+
+TY  - CONF
+TI  - Automated Feedback for Student Math Responses Based on Multi-Modality and Fine-Tuning
+AU  - Li, Hai
+AU  - Li, Chenglu
+AU  - Xing, Wanli
+AU  - Baral, Sami
+AU  - Heffernan, Neil
+T3  - LAK '24
+AB  - Open-ended mathematical problems are a commonly used method for assessing students’ abilities by teachers. In previous automated assessments, natural language processing focusing on students’ textual answers has been the primary approach. However, mathematical questions often involve answers containing images, such as number lines, geometric shapes, and charts. Several existing computer-based learning systems allow students to upload their handwritten answers for grading. Yet, there are limited methods available for automated scoring of these image-based responses, with even fewer multi-modal approaches that can simultaneously handle both texts and images. In addition to scoring, another valuable scaffolding to procedurally and conceptually support students while lacking automation is comments. In this study, we developed a multi-task model to simultaneously output scores and comments using students’ multi-modal artifacts (texts and images) as inputs by extending BLIP, a multi-modal visual reasoning model. Benchmarked with three baselines, we fine-tuned and evaluated our approach on a dataset related to open-ended questions as well as students’ responses. We found that incorporating images with text inputs enhances feedback performance compared to using texts alone. Meanwhile, our model can effectively provide coherent and contextual feedback in mathematical settings.
+C1  - New York, NY, USA
+C3  - Proceedings of the 14th Learning Analytics and Knowledge Conference
+DA  - 2024/03/18/
+PY  - 2024
+DO  - 10.1145/3636555.3636860
+DP  - ACM Digital Library
+SP  - 763
+EP  - 770
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-1618-8
+UR  - https://dl.acm.org/doi/10.1145/3636555.3636860
+Y2  - 2025/02/13/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3636555.3636860
+ER  - 
+
+TY  - ELEC
+TI  - Challenges in using ChatGPT for assessing conceptual understanding in mathematics education
+T2  - ResearchGate
+AB  - Access 135+ million publications and connect with 20+ million researchers. Join for free and gain visibility by uploading your research.
+LA  - en
+UR  - https://www.researchgate.net/publication/385939014_Challenges_in_using_ChatGPT_for_assessing_conceptual_understanding_in_mathematics_education
+Y2  - 2025/02/13/14:26:00
+L2  - https://www.researchgate.net/publication/385939014_Challenges_in_using_ChatGPT_for_assessing_conceptual_understanding_in_mathematics_education
+ER  - 
+
+TY  - JOUR
+TI  - Educational innovation: Exploring the Potential of Generative Artificial Intelligence in cognitive schema building
+AU  - Granda, Bernarda Salgado
+AU  - Inzhivotkina, Yana
+AU  - Apolo, María Fernanda Ibáñez
+AU  - Fajardo, Jorge Gustavo Ugarte
+T2  - Edutec, Revista Electrónica de Tecnología Educativa
+AB  - This study explores the use of generative artificial intelligence to enhance teaching and learning experience, focusing on strengthening and consolidating cognitive schemas. Research reveals that schemas can profoundly influence the improvement of the learning experience and promote the assimilation of new types of information and retention in students' memory. To improve the teaching and learning experience, the advantages, obstacles, and potential future trajectories of utilizing these technologies were examined by conducting a thorough literature review and analyzing relevant studies. Findings indicate that generative artificial intelligence has the potential to personalize learning, diversify educational content, and improve teaching efficiency and scalability. However, it also poses challenges related to content quality, data privacy, and equity in access to personalized learning. Future research should focus on the effectiveness of educational tools based on generative AI that promote equity and inclusion, ethical approaches, and interdisciplinary collaboration. Overall, this study provides a solid foundation for understanding and harnessing the potential of generative artificial intelligence in enhancing cognitive schemas, thereby promoting more effective, inclusive, and personalized education.
+DA  - 2024/09/30/
+PY  - 2024
+DO  - 10.21556/edutec.2024.89.3251
+DP  - www.edutec.es
+IS  - 89
+SP  - 44
+EP  - 63
+LA  - en
+SN  - 1135-9250
+ST  - Educational innovation
+UR  - https://www.edutec.es/revista/index.php/edutec-e/article/view/3251
+Y2  - 2025/02/14/09:40:47
+L1  - https://www.edutec.es/revista/index.php/edutec-e/article/download/3251/1233
+ER  - 
+
+TY  - JOUR
+TI  - Exploring generative AI assisted feedback writing for students’ written responses to a physics conceptual question with prompt engineering and few-shot learning
+AU  - Wan, Tong
+AU  - Chen, Zhongzhou
+T2  - Physical Review Physics Education Research
+AB  - Instructor’s feedback plays a critical role in students’ development of conceptual understanding and reasoning skills. However, grading student written responses and providing personalized feedback can take a substantial amount of time, especially in large enrollment courses. In this study, we explore using GPT-3.5 to write feedback on students’ written responses to conceptual questions with prompt engineering and few-shot learning techniques. In stage I, we used a small portion (
+              
+                
+                  n
+                  =
+                  2
+                  0
+                
+              
+              ) of the student responses on one conceptual question to iteratively train GPT to generate feedback. Four of the responses paired with human-written feedback were included in the prompt as examples for GPT. We tasked GPT to generate feedback for another 16 responses and refined the prompt through several iterations. In stage II, we gave four student researchers (one graduate and three undergraduate researchers) the 16 responses as well as two versions of feedback, one written by the authors and the other by GPT. Students were asked to rate the correctness and usefulness of each feedback and to indicate which one was generated by GPT. The results showed that students tended to rate the feedback by human and GPT equally on correctness, but they all rated the feedback by GPT as more useful. Additionally, the success rates of identifying GPT’s feedback were low, ranging from 0.1 to 0.6. In stage III, we tasked GPT to generate feedback for the rest of the students’ responses (
+              
+                
+                  n
+                  =
+                  6
+                  5
+                
+              
+              ). The feedback messages were rated by four instructors based on the extent of modification needed if they were to give the feedback to students. All four instructors rated approximately 70% (ranging from 68% to 78%) of the feedback statements needing only minor or no modification. This study demonstrated the feasibility of using generative artificial intelligence (AI) as an assistant to generate feedback for student written responses with only a relatively small number of examples in the prompt. An AI assistant can be one of the solutions to substantially reduce time spent on grading student written responses.
+            
+            
+              
+              
+                
+                  Published by the American Physical Society
+                  2024
+DA  - 2024/06/13/
+PY  - 2024
+DO  - 10.1103/PhysRevPhysEducRes.20.010152
+DP  - DOI.org (Crossref)
+VL  - 20
+IS  - 1
+SP  - 010152
+J2  - Phys. Rev. Phys. Educ. Res.
+LA  - en
+SN  - 2469-9896
+UR  - https://link.aps.org/doi/10.1103/PhysRevPhysEducRes.20.010152
+Y2  - 2025/02/20/09:16:24
+L1  - https://link.aps.org/pdf/10.1103/PhysRevPhysEducRes.20.010152
+ER  - 
+
+TY  - JOUR
+TI  - Exploring generative AI in higher education: a RAG system to enhance student engagement with scientific literature
+AU  - Thüs, Dominik
+AU  - Malone, Sarah
+AU  - Brünken, Roland
+T2  - Frontiers in Psychology
+AB  - <sec><title>Introduction</title><p>This study explores the implementation and evaluation of OwlMentor, an AI-powered learning environment designed to assist university students in comprehending scientific texts. OwlMentor was developed participatorily and then integrated into a course, with development and evaluation taking place over two semesters. It offers features like document-based chats, automatic question generation, and quiz creation.</p></sec><sec><title>Methods</title><p>We used the Technology Acceptance Model to assess system acceptance, examined learning outcomes, and explored the influence of general self-efficacy on system acceptance and OwlMentor use.</p></sec><sec><title>Results</title><p>The results indicated complex relationships between perceived ease of use, perceived usefulness, and actual use, suggesting the need for more dynamic models of system acceptance. Although no direct correlation between OwlMentor use and learning gains was found, descriptive results indicated higher gains among users compared to non-users. Additionally, general self-efficacy was strongly related to perceived usefulness, intention to use, and actual use of the system.</p></sec><sec><title>Discussion</title><p>These findings highlight the importance of aligning AI tools with students’ needs and existing learning strategies to maximize their educational benefits.</p></sec>
+DA  - 2024/10/11/
+PY  - 2024
+DO  - 10.3389/fpsyg.2024.1474892
+DP  - Frontiers
+VL  - 15
+J2  - Front. Psychol.
+LA  - English
+SN  - 1664-1078
+ST  - Exploring generative AI in higher education
+UR  - https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1474892/full
+Y2  - 2025/02/20/09:33:55
+L1  - https://www.frontiersin.org/articles/10.3389/fpsyg.2024.1474892/pdf
+KW  - ChatGPT
+KW  - AI in Education
+KW  - AI-powered Learning Environment
+KW  - higher education
+KW  - Scientific text comprehension
+KW  - self-efficacy
+KW  - Technology acceptance model
+ER  - 
+
+TY  - JOUR
+TI  - Impact of Generative AI on Learning Programming
+AU  - Bang, Kenny
+AU  - Dang, Michael
+AB  - Generative AI has become a powerful tool, particularly in code generation for nonprogrammers. Despite its potential, non-experienced programmers may face challenges and limited knowledge acquisition.
+DP  - Zotero
+LA  - en
+L1  - https://odr.chalmers.se/server/api/core/bitstreams/25ac4620-6024-4fb0-a195-090de0e08cac/content
+ER  - 
+
+TY  - JOUR
+TI  - ChatGMP: A case of AI chatbots in chemical engineering education towards the automation of repetitive tasks
+AU  - Caccavale, Fiammetta
+AU  - Gargalo, Carina L.
+AU  - Kager, Julian
+AU  - Larsen, Steen
+AU  - Gernaey, Krist V.
+AU  - Krühne, Ulrich
+T2  - Computers and Education: Artificial Intelligence
+DA  - 2025/06//
+PY  - 2025
+DO  - 10.1016/j.caeai.2024.100354
+DP  - DOI.org (Crossref)
+VL  - 8
+SP  - 100354
+J2  - Computers and Education: Artificial Intelligence
+LA  - en
+SN  - 2666920X
+ST  - ChatGMP
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S2666920X24001577
+Y2  - 2025/02/27/08:35:32
+ER  - 
+
+TY  - JOUR
+TI  - Student experiences of ChatGPT as a feedback tool in higher education
+AU  - Bruhn, Tommy
+AU  - Marquart, Franziska
+T2  - Tidsskriftet Læring og Medier (LOM)
+AB  - Generative artificial intelligence provides both challenges and opportunities for higher education. Few studies to date have accounted for student experiences of purposeful use of generative AI. This article reports on a mixed methods study of two university classes using ChatGPT to generate feedback on written assignments. Students’ attitudes were collected through a survey, lab reports, and in-class discussions. The analyses show that students experienced their role as feedback receiver qualitatively different in the AI feedback situation compared to teacher- and peer feedback, because they themselves had to assume all the responsibility for the critical judgment of prompts and replies. Students felt that asking ChatGPT for feedback was more frustrating but emotionally easier than asking peers or teachers, which points to important differences in the dynamics of sociality and interaction between feedback receivers and human vs. AI feedback givers.
+DA  - 2025/02/08/
+PY  - 2025
+DO  - 10.7146/lom.v17i31.144043
+DP  - tidsskrift.dk
+VL  - 17
+IS  - 31
+LA  - en
+SN  - 1903-248X
+UR  - https://tidsskrift.dk/lom/article/view/144043
+Y2  - 2025/03/03/11:55:42
+L1  - https://tidsskrift.dk/lom/article/download/144043/195840
+KW  - ChatGPT
+KW  - AI-feedback
+KW  - digital læring
+KW  - digitale interaktioner
+KW  - generativ AI
+ER  - 
+
+TY  - GEN
+TI  - Towards the Pedagogical Steering of Large Language Models for Tutoring: A Case Study with Modeling Productive Failure
+AU  - Puech, Romain
+AU  - Macina, Jakub
+AU  - Chatain, Julia
+AU  - Sachan, Mrinmaya
+AU  - Kapur, Manu
+AB  - One-to-one tutoring is one of the most efficient methods of teaching. Following the rise in popularity of Large Language Models (LLMs), there have been efforts to use them to create conversational tutoring systems, which can make the benefits of one-to-one tutoring accessible to everyone. However, current LLMs are primarily trained to be helpful assistants and thus lack crucial pedagogical skills. For example, they often quickly reveal the solution to the student and fail to plan for a richer multi-turn pedagogical interaction. To use LLMs in pedagogical scenarios, they need to be steered towards using effective teaching strategies: a problem we introduce as Pedagogical Steering and believe to be crucial for the efficient use of LLMs as tutors. We address this problem by formalizing a concept of tutoring strategy, and introducing StratL, an algorithm to model a strategy and use prompting to steer the LLM to follow this strategy. As a case study, we create a prototype tutor for high school math following Productive Failure (PF), an advanced and effective learning design. To validate our approach in a real-world setting, we run a field study with 17 high school students in Singapore. We quantitatively show that StratL succeeds in steering the LLM to follow a Productive Failure tutoring strategy. We also thoroughly investigate the existence of spillover effects on desirable properties of the LLM, like its ability to generate human-like answers. Based on these results, we highlight the challenges in Pedagogical Steering and suggest opportunities for further improvements. We further encourage follow-up research by releasing a dataset of Productive Failure problems and the code of our prototype and algorithm.
+DA  - 2024/10/03/
+PY  - 2024
+DO  - 10.48550/arXiv.2410.03781
+DP  - arXiv.org
+PB  - arXiv
+ST  - Towards the Pedagogical Steering of Large Language Models for Tutoring
+UR  - http://arxiv.org/abs/2410.03781
+Y2  - 2025/03/18/12:39:35
+L1  - http://arxiv.org/pdf/2410.03781v1
+L2  - https://arxiv.org/abs/2410.03781
+KW  - Computer Science - Artificial Intelligence
+KW  - Computer Science - Computers and Society
+KW  - Computer Science - Human-Computer Interaction
+KW  - Computer Science - Multiagent Systems
+ER  - 
+
+TY  - GEN
+TI  - Training LLM-based Tutors to Improve Student Learning Outcomes in Dialogues
+AU  - Scarlatos, Alexander
+AU  - Liu, Naiming
+AU  - Lee, Jaewook
+AU  - Baraniuk, Richard
+AU  - Lan, Andrew
+AB  - Generative artificial intelligence (AI) has the potential to scale up personalized tutoring through large language models (LLMs). Recent AI tutors are adapted for the tutoring task by training or prompting LLMs to follow effective pedagogical principles, though they are not trained to maximize student learning throughout the course of a dialogue. Therefore, they may engage with students in a suboptimal way. We address this limitation by introducing an approach to train LLMs to generate tutor utterances that maximize the likelihood of student correctness, while still encouraging the model to follow good pedagogical practice. Specifically, we generate a set of candidate tutor utterances and score them using (1) an LLM-based student model to predict the chance of correct student responses and (2) a pedagogical rubric evaluated by GPT-4o. We then use the resulting data to train an open-source LLM, Llama 3.1 8B, using direct preference optimization. We show that tutor utterances generated by our model lead to significantly higher chances of correct student responses while maintaining the pedagogical quality of GPT-4o. We also conduct qualitative analyses and a human evaluation to demonstrate that our model generates high quality tutor utterances.
+DA  - 2025/03/09/
+PY  - 2025
+DO  - 10.48550/arXiv.2503.06424
+DP  - arXiv.org
+PB  - arXiv
+UR  - http://arxiv.org/abs/2503.06424
+Y2  - 2025/03/18/13:03:17
+L1  - http://arxiv.org/pdf/2503.06424v1
+L2  - https://arxiv.org/abs/2503.06424
+KW  - Computer Science - Computers and Society
+KW  - Computer Science - Computation and Language
+ER  - 
+
+TY  - GEN
+TI  - SEFL: Harnessing Large Language Model Agents to Improve Educational Feedback Systems
+AU  - Zhang, Mike
+AU  - Dilling, Amalie Pernille
+AU  - Gondelman, Léon
+AU  - Lyngdorf, Niels Erik Ruan
+AU  - Lindsay, Euan D.
+AU  - Bjerva, Johannes
+AB  - Providing high-quality feedback is crucial for student success but is constrained by time, cost, and limited data availability. We introduce Synthetic Educational Feedback Loops (SEFL), a novel framework designed to deliver immediate, on-demand feedback at scale without relying on extensive, real-world student data. In SEFL, two large language models (LLMs) operate in teacher--student roles to simulate assignment completion and formative feedback, generating abundant synthetic pairs of student work and corresponding critiques. We then fine-tune smaller, more computationally efficient LLMs on these synthetic pairs, enabling them to replicate key features of high-quality, goal-oriented feedback. Unlike personalized tutoring approaches that offer multi-turn, individualized instruction, SEFL specifically focuses on replicating the teacher-->student feedback loop for diverse assignments. Through both LLM-as-a-judge and human evaluations, we demonstrate that SEFL-tuned models outperform their non-tuned counterparts in feedback quality, clarity, and timeliness. These findings reveal SEFL's potential to transform feedback processes for higher education and beyond, offering an ethical and scalable alternative to conventional manual feedback cycles.
+DA  - 2025/02/18/
+PY  - 2025
+DO  - 10.48550/arXiv.2502.12927
+DP  - arXiv.org
+PB  - arXiv
+ST  - SEFL
+UR  - http://arxiv.org/abs/2502.12927
+Y2  - 2025/03/18/13:04:38
+L1  - http://arxiv.org/pdf/2502.12927v1
+L2  - https://arxiv.org/abs/2502.12927
+KW  - Computer Science - Computation and Language
+ER  - 
+
+TY  - JOUR
+TI  - Does ChatGPT enhance student learning? A systematic review and meta-analysis of experimental studies
+AU  - Deng, Ruiqi
+AU  - Jiang, Maoli
+AU  - Yu, Xinlu
+AU  - Lu, Yuyan
+AU  - Liu, Shasha
+T2  - Computers & Education
+AB  - Chat Generative Pre-Trained Transformer (ChatGPT) has generated excitement and concern in education. While cross-sectional studies have highlighted correlations between ChatGPT use and learning performance, they fall short of establishing causality. This review examines experimental studies on ChatGPT's impact on student learning to address this gap. A comprehensive search across five databases identified 69 articles published between 2022 and 2024 for analysis. The findings reveal that ChatGPT interventions are predominantly implemented at the university level, cover various subject areas focusing on language education, are integrated into classroom environments as part of regular educational practices, and primarily involve direct student use of ChatGPT. Overall, ChatGPT improves academic performance, affective-motivational states, and higher-order thinking propensities; it reduces mental effort and has no significant effect on self-efficacy. However, methodological limitations, such as the lack of power analysis and concerns regarding post-intervention assessments, warrant cautious interpretation of results. This review presents four propositions from the findings: (1) distinguish between the quality of ChatGPT outputs and the positive effects of interventions on academic performance by shifting from well-defined problems in post-intervention assessments to more complex, project-based assessments that require skill demonstration, adopting proctored assessments, or incorporating metrics such as originality alongside quality; (2) evaluate long-term impacts to determine whether the positive effects on affective-motivational states are sustained or merely owing to novelty effect; (3) prioritise objective measures to complement subjective assessments of higher-order thinking; and (4) use power analysis to determine adequate sample sizes to avoid Type II errors and provide reliable effect size estimates. This review provides valuable insights for researchers, instructors, and policymakers evaluating the effectiveness of generative AI integration in educational practice.
+DA  - 2025/04/01/
+PY  - 2025
+DO  - 10.1016/j.compedu.2024.105224
+DP  - ScienceDirect
+VL  - 227
+SP  - 105224
+J2  - Computers & Education
+SN  - 0360-1315
+ST  - Does ChatGPT enhance student learning?
+UR  - https://www.sciencedirect.com/science/article/pii/S0360131524002380
+Y2  - 2025/03/25/08:27:37
+L2  - https://www.sciencedirect.com/science/article/pii/S0360131524002380
+KW  - Elementary education
+KW  - Improve classroom teaching
+KW  - Post-secondary education
+KW  - Secondary education
+KW  - Teaching/learning strategies
+ER  - 
+
+TY  - GEN
+TI  - TeachTune: Reviewing Pedagogical Agents Against Diverse Student Profiles with Simulated Students
+AU  - Jin, Hyoungwook
+AU  - Yoo, Minju
+AU  - Park, Jeongeon
+AU  - Lee, Yokyung
+AU  - Wang, Xu
+AU  - Kim, Juho
+AB  - Large language models (LLMs) can empower teachers to build pedagogical conversational agents (PCAs) customized for their students. As students have different prior knowledge and motivation levels, teachers must review the adaptivity of their PCAs to diverse students. Existing chatbot reviewing methods (e.g., direct chat and benchmarks) are either manually intensive for multiple iterations or limited to testing only single-turn interactions. We present TeachTune, where teachers can create simulated students and review PCAs by observing automated chats between PCAs and simulated students. Our technical pipeline instructs an LLM-based student to simulate prescribed knowledge levels and traits, helping teachers explore diverse conversation patterns. Our pipeline could produce simulated students whose behaviors correlate highly to their input knowledge and motivation levels within 5% and 10% accuracy gaps. Thirty science teachers designed PCAs in a between-subjects study, and using TeachTune resulted in a lower task load and higher student profile coverage over a baseline.
+DA  - 2025/01/30/
+PY  - 2025
+DO  - 10.48550/arXiv.2410.04078
+DP  - arXiv.org
+PB  - arXiv
+ST  - TeachTune
+UR  - http://arxiv.org/abs/2410.04078
+Y2  - 2025/04/02/08:20:18
+L1  - http://arxiv.org/pdf/2410.04078v3
+L2  - https://arxiv.org/abs/2410.04078
+KW  - Computer Science - Human-Computer Interaction
+ER  - 
+
+TY  - JOUR
+TI  - AI-Assisted Co-Creation: Bridging Skill Gaps in Student-Generated Content
+AU  - Pozdniakov, Stanislav
+AU  - Brazil, Jonathan
+AU  - Mohammadi, Mehrnoush
+AU  - Dollinger, Mollie
+AU  - Sadiq, Shazia
+AU  - Khosravi, Hassan
+T2  - Journal of Learning Analytics
+AB  - Engaging students in creating high-quality novel content, such as educational resources, promotes deep and higher-order learning. However, students often lack the necessary training or knowledge to produce such content. To address this gap, this paper explores the potential of incorporating generative AI (GenAI) to review students’ work and provide them with real-time feedback and assistance during content creation. Specifically, we use RiPPLE, which enables students to create bite-size learning resources and incorporates instant GenAI feedback, highlighting strengths and suggesting improvements to enhance quality. The AI reviews the resource and provides feedback encompassing three main components: a summary of the resource, a list of strengths, and suggestions for improvement. We evaluate this approach by analyzing log data from 1063 student-created multiple-choice questions (MCQs) and the corresponding AI feedback. This analysis aims to understand the depth, scope, and tone of the feedback provided by the AI, as well as the way students engage with and utilize this feedback in their content creation process. Additionally, we examined the perceived helpfulness of the GenAI feedback analyzed via 3324 student ratings and thematically analyzed 601 comments they provided about the feedback. Our findings demonstrate the potential value of AI-generated feedback for students when integrated into pedagogical design. Our analysis suggests that not only can AI-generated feedback provide students with a breadth of feedback to improve their writing and/or discipline-specific content knowledge, but also it is largely well received by students for both its clarity and its positive tone. Despite challenges in ensuring the accuracy of AI-generated feedback, this study shows how this feedback can enable students to make actionable changes in their academic performance.
+DA  - 2025/03/19/
+PY  - 2025
+DO  - 10.18608/jla.2025.8601
+DP  - www.learning-analytics.info
+VL  - 12
+IS  - 1
+SP  - 129
+EP  - 151
+LA  - en
+SN  - 1929-7750
+ST  - AI-Assisted Co-Creation
+UR  - https://www.learning-analytics.info/index.php/JLA/article/view/8601
+Y2  - 2025/04/02/08:53:32
+L1  - https://www.learning-analytics.info/index.php/JLA/article/download/8601/7889
+KW  - research paper
+ER  - 
+
+TY  - JOUR
+TI  - From Queries to Courses: SKYRAG’s Revolution in Learning Path Generation via Keyword-Based Document Retrieval
+AU  - Setyawan Soekamto, Yosua
+AU  - Christopher Limanjaya, Leonard
+AU  - Kaleb Purwanto, Yoshua
+AU  - Kang, Dae-Ki
+T2  - IEEE Access
+AB  - Large Language Models (LLMs) hold immense potential for transforming education by automating the generation of personalized learning paths. However, traditional LLMs often suffer from hallucinations and content irrelevance. To address these challenges, we propose SKYRAG, a Separated Keyword Retrieval Augmentation Generation system that enhances the learning path generation process by integrating advanced retrieval mechanisms with LLMs. SKYRAG retrieves relevant course materials from Massive Open Online Course (MOOC) platforms, aligning them with individual learner profiles to provide personalized and coherent learning paths. Compared with Naïve RAG, SKYRAG demonstrates superior performance in terms of accuracy, relevance, and user satisfaction, as confirmed by human evaluations across four domains. By improving retrieval precision and addressing the limitations of traditional methods, SKYRAG represents a significant advancement in educational technology. This study contributes to the growing body of research on AI-driven learning systems and highlights SKYRAG’s potential for widespread adoption in dynamic educational environments.
+DA  - 2025///
+PY  - 2025
+DO  - 10.1109/ACCESS.2025.3535618
+DP  - IEEE Xplore
+VL  - 13
+SP  - 21434
+EP  - 21455
+SN  - 2169-3536
+ST  - From Queries to Courses
+UR  - https://ieeexplore.ieee.org/document/10856105/?arnumber=10856105
+Y2  - 2025/04/02/09:01:56
+L1  - https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=10856105&ref=
+L2  - https://ieeexplore.ieee.org/document/10856105/?arnumber=10856105
+KW  - Accuracy
+KW  - Computational modeling
+KW  - Context modeling
+KW  - Data models
+KW  - educational technology
+KW  - human-centric design
+KW  - Large language models
+KW  - large language models
+KW  - Mathematical models
+KW  - personalized learning path
+KW  - Retrieval augmented generation
+KW  - Semantics
+KW  - Training data
+KW  - Transformers
+ER  - 
+
+TY  - CONF
+TI  - Ruffle&Riley: From Lesson Text to Conversational Tutoring
+AU  - Schmucker, Robin
+AU  - Xia, Meng
+AU  - Azaria, Amos
+AU  - Mitchell, Tom
+T3  - L@S '24
+AB  - Conversational tutoring systems (CTSs) offer learning experiences driven by natural language interactions. They are recognized for promoting cognitive engagement and improving learning outcomes, especially in reasoning tasks. Ruffle&amp;Riley is a novel type of CTS that explores the potential of LLMs for efficient AI-assisted content authoring and for facilitating structured free-form conversational tutoring. This interactive event enables participants to engage with the LLM-based CTS introduced in our recent AIED2024 paper in two ways: (1) Attendees will interact with the web application using their personal devices. (2) Attendees will learn how to import learning materials into the system and generate custom tutoring scripts through a detailed tutorial. Ruffle&amp;Riley is an extendable, open-source framework that promotes research on effective instructional design of LLM-based learning technologies. The interactive event will foster related discussions.
+C1  - New York, NY, USA
+C3  - Proceedings of the Eleventh ACM Conference on Learning @ Scale
+DA  - 2024/07/15/
+PY  - 2024
+DO  - 10.1145/3657604.3664719
+DP  - ACM Digital Library
+SP  - 547
+EP  - 549
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-0633-2
+ST  - Ruffle&Riley
+UR  - https://dl.acm.org/doi/10.1145/3657604.3664719
+Y2  - 2025/04/02/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3657604.3664719
+ER  - 
+
+TY  - GEN
+TI  - Supervised Fine-Tuning LLMs to Behave as Pedagogical Agents in Programming Education
+AU  - Ross, Emily
+AU  - Kansal, Yuval
+AU  - Renzella, Jake
+AU  - Vassar, Alexandra
+AU  - Taylor, Andrew
+AB  - Large language models (LLMs) are increasingly being explored in higher education, yet their effectiveness as teaching agents remains underexamined. In this paper, we present the development of GuideLM, a fine-tuned LLM designed for programming education. GuideLM has been integrated into the Debugging C Compiler (DCC), an educational C compiler that leverages LLMs to generate pedagogically sound error explanations. Previously, DCC relied on off-the-shelf OpenAI models, which, while accurate, often over-assisted students by directly providing solutions despite contrary prompting. To address this, we employed supervised fine-tuning (SFT) on a dataset of 528 student-question/teacher-answer pairs, creating two models: GuideLM and GuideLM-mini, fine-tuned on ChatGPT-4o and 4o-mini, respectively. We conducted an expert analysis of 400 responses per model, comparing their pedagogical effectiveness against base OpenAI models. Our evaluation, grounded in constructivism and cognitive load theory, assessed factors such as conceptual scaffolding, clarity, and Socratic guidance. Results indicate that GuideLM and GuideLM-mini improve pedagogical performance, with an 8% increase in Socratic guidance and a 58% improvement in economy of words compared to GPT-4o. However, this refinement comes at the cost of a slight reduction in general accuracy. While further work is needed, our findings suggest that fine-tuning LLMs with targeted datasets is a promising approach for developing models better suited to educational contexts.
+DA  - 2025/02/27/
+PY  - 2025
+DO  - 10.48550/arXiv.2502.20527
+DP  - arXiv.org
+PB  - arXiv
+UR  - http://arxiv.org/abs/2502.20527
+Y2  - 2025/04/03/07:33:57
+L1  - http://arxiv.org/pdf/2502.20527v1
+L2  - https://arxiv.org/abs/2502.20527
+KW  - Computer Science - Computation and Language
+KW  - Computer Science - Computers and Society
+ER  - 
+
+TY  - JOUR
+TI  - Generative AI in Undergraduate Classrooms: Lessons from Implementing a Customized GPT Chatbot for Learning Enhancement
+AU  - Qadir, Junaid
+AB  - The advent of Generative Artificial Intelligence (GenAI) has sparked significant interest in education, offering ways to support learning, personalize student experiences, and boost engagement. Generative AI holds the promise of transforming education
+DP  - www.techrxiv.org
+ST  - Generative AI in Undergraduate Classrooms
+UR  - https://www.authorea.com/doi/full/10.36227/techrxiv.173609986.65771022?commit=95d0bbaaae8a81da308148a75e14184fd8e0383b
+Y2  - 2025/04/03/07:38:17
+L1  - https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.173609986.65771022
+ER  - 
+
+TY  - JOUR
+TI  - LLM-CDM: A Large Language Model Enhanced Cognitive Diagnosis for Intelligent Education
+AU  - Chen, Xin
+AU  - Zhang, Jin
+AU  - Zhou, Tong
+AU  - Zhang, Feng
+T2  - IEEE Access
+AB  - Cognitive diagnosis is a key component of intelligent education to assess students’ comprehension of specific knowledge concepts. Current methodologies predominantly rely on students’ historical performance records and manually annotated knowledge concepts for analysis. However, the extensive semantic information embedded in exercises, including latent knowledge concepts, has not been fully utilized. This paper presents a novel cognitive diagnosis model based on the LLAMA3-70B framework (referred to as LLM-CDM), which integrates prompt engineering with the rich semantic information inherent in exercise texts to uncover latent knowledge concepts and improve diagnostic accuracy. Specifically, this study first inputs exercise texts into a large language model and develops an innovative prompting method to facilitate deep mining of implicit knowledge concepts within these texts by the model. Following the integration of these newly extracted knowledge concepts into the existing Q matrix, this paper employs a neural network to diagnose students’ understanding of knowledge concepts while applying the monotonicity assumption to ensure the interpretability of model factors. Experimental results from an examination data set for course completion assessments demonstrate that LLM-CDM exhibits superior performance in both accuracy and explainability.
+DA  - 2025///
+PY  - 2025
+DO  - 10.1109/ACCESS.2025.3549309
+DP  - IEEE Xplore
+VL  - 13
+SP  - 47165
+EP  - 47180
+SN  - 2169-3536
+ST  - LLM-CDM
+UR  - https://ieeexplore.ieee.org/document/10916617/?arnumber=10916617
+Y2  - 2025/04/03/07:43:17
+L1  - https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=10916617&ref=
+L2  - https://ieeexplore.ieee.org/document/10916617/?arnumber=10916617
+KW  - Accuracy
+KW  - Annotations
+KW  - Cognitive diagnosis
+KW  - Education
+KW  - exercise texts
+KW  - higher education and intelligent education
+KW  - Large language models
+KW  - large language models
+KW  - Long short term memory
+KW  - Manuals
+KW  - Optimization
+KW  - Printers
+KW  - Prompt engineering
+KW  - Semantics
+ER  - 
+

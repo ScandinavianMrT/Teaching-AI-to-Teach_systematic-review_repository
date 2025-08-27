@@ -1,0 +1,1881 @@
+﻿TY  - CONF
+AU  - Sarshartehrani, F.
+AU  - Mohammadrezaei, E.
+AU  - Behravan, M.
+AU  - Gracanin, D.
+TI  - Enhancing E-Learning Experience Through Embodied AI Tutors in Immersive Virtual Environments: A Multifaceted Approach for Personalized Educational Adaptation
+PY  - 2024
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 14727 LNCS
+SP  - 272
+EP  - 287
+DO  - 10.1007/978-3-031-60609-0_20
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85196174389&doi=10.1007%2f978-3-031-60609-0_20&partnerID=40&md5=3801d0959781b1a191a3eb14f47bd8d8
+AD  - Virginia Tech, Blacksburg, 24061, VA, United States
+AB  - As digital education transcends traditional boundaries, e-learning experiences are increasingly shaped by cutting-edge technologies like artificial intelligence (AI), virtual reality (VR), and adaptive learning systems. This study examines the integration of AI-driven personalized instruction within immersive VR environments, targeting enhanced learner engagement-a core metric in online education effectiveness. Employing a user-centric design, the research utilizes embodied AI tutors, calibrated to individual learners’ emotional intelligence and cognitive states, within a Python programming curriculum-a key area in computer science education. The methodology relies on intelligent tutoring systems and personalized learning pathways, catering to a diverse participant pool from Virginia Tech. Our data-driven approach, underpinned by the principles of educational psychology and computational pedagogy, indicates that AI-enhanced virtual learning environments significantly elevate user engagement and proficiency in programming education. Although the scope is limited to a single academic institution, the promising results advocate for the scalability of such AI-powered educational tools, with potential implications for distance learning, MOOCs, and lifelong learning platforms. This research contributes to the evolving narrative of smart education and the role of large language models (LLMs) in crafting bespoke educational experiences, suggesting a paradigm shift towards more interactive, personalized e-learning solutions that align with global educational technology trends. © The Author(s), under exclusive license to Springer Nature Switzerland AG 2024.
+KW  - Adaptive Learning
+KW  - Artificial Intelligence in Education
+KW  - Immersive Virtual Environments
+KW  - Learner Engagement
+KW  - Personalized Instruction
+KW  - Artificial intelligence
+KW  - Computer aided instruction
+KW  - Computer programming
+KW  - Education computing
+KW  - Engineering education
+KW  - Learning systems
+KW  - Virtual reality
+KW  - Adaptive learning
+KW  - Artificial intelligence in education
+KW  - E - learning
+KW  - Embodied artificial intelligence
+KW  - Immersive virtual environments
+KW  - Learner engagement
+KW  - Learning experiences
+KW  - Multi-faceted approach
+KW  - Personalized instruction
+KW  - Traditional boundaries
+KW  - E-learning
+A2  - Sottilare R.A.
+A2  - Schwarz J.
+PB  - Springer Science and Business Media Deutschland GmbH
+SN  - 03029743 (ISSN); 978-303160608-3 (ISBN)
+LA  - English
+J2  - Lect. Notes Comput. Sci.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 27 June 2025; Cited By: 10; Correspondence Address: F. Sarshartehrani; Virginia Tech, Blacksburg, 24061, United States; email: fatemehst@vt.edu
+ER  -
+
+TY  - CONF
+AU  - Core, M.G.
+AU  - Nye, B.
+AU  - Carr, K.
+AU  - Li, S.
+AU  - Shiel, A.
+AU  - Auerbach, D.
+AU  - Leeds, A.
+AU  - Swartout, W.
+TI  - Usability and Preferences for a Personalized Adaptive Learning System for AI Upskilling
+PY  - 2025
+T2  - Proceedings of the International Florida Artificial Intelligence Research Society Conference, FLAIRS
+VL  - 38
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105007944933&partnerID=40&md5=ce57146a1c34b4edbdb26306b7a170c1
+AD  - University of Southern California, Institute for Creative Technologies, Playa Vista, CA, United States
+AB  - As AI tools become common across jobs and industries, it is critical to broaden education about AI beyond teaching computer scientists how to build AI systems. To expand AI education, we are researching AI for AI learning: a personalized and adaptive learning system that integrates dialog-based tutoring and gamified programming activities. To study this problem, we adapted and expanded an existing smartphone adaptive coach to develop the Game-if-AI system. Using a design-based research approach, Game-if-AI was iteratively tested and improved across four semesters of optional use in a course designed for technician-level understanding of AI: mastering programming skills to apply AI libraries and established models. In this study, we measured the interests and needs of these technical learners, based on both survey data and on how they engaged with topics in the system. Based on this data, new topics were added and the system was refined. In this paper, we report students’ usability ratings for system components and student preferences based on completion rates of AI topics available each semester. Students rated the adaptive system positively overall (93% rated as a “good idea”), but more complex learning activities (tutoring dialogs, programming) were rated lower than traditional ones (e.g., multiple choice, reading). Students were most likely to master topics highly aligned to the course materials, as well as self-directed learning toward easier high-interest topics (e.g., LLM Prompting). Copyright © 2025 by the authors.
+KW  - Computer aided instruction
+KW  - Computer systems programming
+KW  - Curricula
+KW  - Education computing
+KW  - Federated learning
+KW  - Learning systems
+KW  - Software testing
+KW  - Teaching
+KW  - Adaptive learning systems
+KW  - AI systems
+KW  - Computer scientists
+KW  - Design-based research
+KW  - Personalized learning systems
+KW  - Programming activities
+KW  - Programming skills
+KW  - Research approach
+KW  - Smart phones
+KW  - Survey data
+KW  - Students
+PB  - Florida Online Journals, University of Florida
+SN  - 23340754 (ISSN)
+LA  - English
+J2  - Proc. Int. Fla. Artif. Intell. Res. Soc. Conf., FLAIRS
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 27 June 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Jhajj, G.
+AU  - Zhang, X.
+AU  - Gustafson, J.R.
+AU  - Lin, F.
+AU  - Lin, M.P.-C.
+TI  - Educational Knowledge Graph Creation and Augmentation via LLMs
+PY  - 2024
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 14799 LNCS
+SP  - 292
+EP  - 304
+DO  - 10.1007/978-3-031-63031-6_25
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85196063004&doi=10.1007%2f978-3-031-63031-6_25&partnerID=40&md5=af799c3b00baacc63de5fa550c9a0ae8
+AD  - School of Computing and Information Systems, Athabasca University, Edmonton, AB, Canada
+AD  - Faculty of Education, Mount Saint Vincent University, Halifax, NS, Canada
+AB  - In this study, we explore the efficacy of Generative AI and Large Language Models (LLMs) in the tasks of constructing and completing Educational Knowledge Graphs (EduKGs). Knowledge Graphs (KGs) help represent real-world relationships. This can take the form of modeling course domains and student progression in educational settings. Through this work, we leverage GPT-4 to aid KG construction and align it with predefined learning objectives, course structure, and human interaction in validating and refining the generated KGs. The methodology employed utilized prompting LLMs with course materials and evaluating the generation of KGs through automatic and human assessment. Through a series of experiments, we show the potential of LLMs in enhancing the EduKG construction process, particularly for course modeling. Our findings suggest that LLMs such as GPT-4 can augment EduKGs by suggesting valuable and contextually relevant triplets. This KG creation and augmentation approach shows the potential to reduce the workload on educators and adaptive learning systems, paving the way for future applications in content recommendation and personalized learning experiences. © The Author(s), under exclusive license to Springer Nature Switzerland AG 2024.
+KW  - Educational Knowledge Graphs
+KW  - Knowledge Graphs
+KW  - Large Language Models
+KW  - Computational linguistics
+KW  - Graphic methods
+KW  - Learning systems
+KW  - Educational knowledge
+KW  - Educational knowledge graph
+KW  - Educational settings
+KW  - Graph construction
+KW  - Knowledge graphs
+KW  - Language model
+KW  - Large language model
+KW  - Modeling course
+KW  - Real-world
+KW  - Knowledge graph
+A2  - Sifaleras A.
+A2  - Lin F.
+PB  - Springer Science and Business Media Deutschland GmbH
+SN  - 03029743 (ISSN); 978-303163030-9 (ISBN)
+LA  - English
+J2  - Lect. Notes Comput. Sci.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 27 June 2025; Cited By: 2; Correspondence Address: G. Jhajj; School of Computing and Information Systems, Athabasca University, Edmonton, Canada; email: gjhajj@athabascau.ca
+ER  -
+
+TY  - JOUR
+AU  - Xuan, Y.
+TI  - Transformer-LSTM Models for Automatic Scoring and Feedback in English Writing Assessment
+PY  - 2025
+T2  - IEEE Access
+VL  - 13
+SP  - 82084
+EP  - 82096
+DO  - 10.1109/ACCESS.2025.3562493
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105002848517&doi=10.1109%2fACCESS.2025.3562493&partnerID=40&md5=7558862c800c8746eebf42dd33ff3519
+AD  - Universiti Putra Malaysia, Faculty of Modern Languages and Communication, Department of English, Kuala Lumpur, 43400, Malaysia
+AD  - No.2 Middle School of Guiding, Guizhou, Guiyang, 551300, China
+AB  - Writing assessment is one of the most important stages in the educational process, but it is also the most resource-demanding one. To address the challenges of scalability and inconsistency, this study proposes a Transformer-LSTM model for automated scoring and feedback generation, enhancing accuracy and reliability in assessment. Integrating the contextual reading abilities of transformers with the sequential analysis strength of LSTMs, the model analyzes significant metrics of writing quality, including grammar, coherence, and structure, while providing individualized, actionable feedback. Using annotated datasets and evaluation metrics like RMSE and feedback relevance, it was established that the model performs well overall and that improvements in grammar and coherence seemed to be the most significant contributors to writing ability. It was also demonstrated that feedback relevance enhances these outcomes, thus confirming its valuable role in promoting structural and grammatical accuracy. Understanding that most existing systems do not encourage significant human feedback, this work demonstrates a scalable approach with potential alignment with human evaluation standards. Finally, this study shows hybrid models’ promise for automated writing assessment as promising scalable, equitable, impact-based tools for global enhancement of educational outcomes. © 2013 IEEE.
+KW  - Automated writing assessment
+KW  - educational AI
+KW  - feedback generation
+KW  - grammar and coherence scoring
+KW  - transformer-LSTM models
+KW  - Scalability
+KW  - Automated writing assessments
+KW  - Automatic feedback
+KW  - Automatic scoring
+KW  - Educational AI
+KW  - Educational process
+KW  - English writings
+KW  - Feedback generation
+KW  - Grammar and coherence scoring
+KW  - Reading abilities
+KW  - Transformer-LSTM model
+KW  - Distribution transformers
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 21693536 (ISSN)
+LA  - English
+J2  - IEEE Access
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 27 June 2025; Cited By: 0; Correspondence Address: Y. Xuan; Universiti Putra Malaysia, Faculty of Modern Languages and Communication, Department of English, Kuala Lumpur, 43400, Malaysia; email: gs58977@student.upm.edu.my
+ER  -
+
+TY  - JOUR
+AU  - Delaney, V.
+AU  - Adisa, I.O.
+AU  - Mah, C.
+AU  - Lee, V.R.
+TI  - Teaching high school students about generative AI: Cases of teacher lesson design
+PY  - 2025
+T2  - Journal of Educational Research
+DO  - 10.1080/00220671.2025.2510415
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105008064398&doi=10.1080%2f00220671.2025.2510415&partnerID=40&md5=e8055ad2b28c9bfbe7dc73bb970a6b82
+AD  - Department of Mathematics and Statistics, San Diego State University, San Diego, CA, United States
+AD  - Graduate School of Education, Institute for Human-Centered Artificial Intelligence, Stanford University, Stanford, CA, United States
+AD  - Graduate School of Education, Stanford University, Stanford, CA, United States
+AB  - Teachers who wish to enact lessons about generative AI are required to simultaneously learn about it and develop curricula with activities that align with their discipline. We present two cases of high school teachers, June and Margot, who had different prior experiences, resources, and learning goals related to GenAI instruction. We found that they designed lessons that positioned GenAI as an object-of-study or subject-specific, but neither lesson solely focused on either approach. Prior disciplinary and lesson planning knowledge and in-the moment student reactions to activities shaped their appraisals of lesson effectiveness. However, we observed that co-design experiences and activities were central for helping to develop teachers’ pedagogical design capacity for GenAI. We contribute two cases that illustrate how co-design can support high school teachers who wish to integrate GenAI into their discipline, and by offering contrasting models of pedagogical approaches. © 2025 The Author(s). Published with license by Taylor & Francis Group, LLC.
+KW  - AI education
+KW  - co-design
+KW  - curriculum design
+KW  - high school
+PB  - Routledge
+SN  - 00220671 (ISSN)
+LA  - English
+J2  - J. Educ. Res.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 27 June 2025; Cited By: 1; Correspondence Address: V. Delaney; Department of Mathematics and Statistics, San Diego State University, San Diego, United States; email: vldelaney@sdsu.edu
+ER  -
+
+TY  - CONF
+AU  - Fraoua, K.E.
+AU  - David, A.
+TI  - Developing Self LLM to Enhance Student Knowledge Based on AIED for Personalized Learning Pathways
+PY  - 2025
+T2  - Lecture Notes in Computer Science
+VL  - 15807 LNCS
+SP  - 229
+EP  - 246
+DO  - 10.1007/978-3-031-93567-1_16
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105008213461&doi=10.1007%2f978-3-031-93567-1_16&partnerID=40&md5=df257ff9a0711e530ad3592edeb6af9c
+AD  - Université Gustave Eiffel, Champs-sur-Marne, France
+AD  - Université de Lorraine, Metz, France
+AD  - Equipe Dispositifs d’Information et de Communication à l’Ere Numérique (DICEN IDF), Conservatoire National des Arts et Métiers, Université Paris-Nanterre, Nanterre, 7339, France
+AB  - This paper explores the integration of Large Language Models (LLMs) with Artificial Intelligence in Education (AIED) to create personalized learning experiences. It examines how LLMs can adapt educational content and delivery methods according to individual student needs and learning styles, aligning with the Felder-Silverman Learning Style Model. The research details how AIED can leverage LLMs and Retrieval-Augmented Generation (RAG) technology to provide adaptive learning experiences and automated assessments. It helps to show how the RAG system enhances the capabilities of LLMs by enabling access to knowledge sources that thus ensure accurate and up-to-date information delivery. The paper addresses traditional education challenges in personalizing education for students and proposes LLM-based solutions to create individualized learning paths while maintaining educational quality. © The Author(s), under exclusive license to Springer Nature Switzerland AG 2025.
+KW  - AIED (Artificial Intelligence in Education)
+KW  - Intelligent tutoring systems
+KW  - Learning styles
+KW  - LLM (Large Language Models)
+KW  - Personalized learning
+KW  - Student assessment
+KW  - Computer aided instruction
+KW  - Education computing
+KW  - Federated learning
+KW  - Intelligent systems
+KW  - Knowledge based systems
+KW  - Knowledge management
+KW  - Learning systems
+KW  - Artificial intelligence in education
+KW  - Intelligent tutoring
+KW  - Intelligent tutoring system
+KW  - Language model
+KW  - Large language model
+KW  - Learningstyles
+KW  - Personalized learning
+KW  - Student assessment
+KW  - Tutoring system
+KW  - Students
+A2  - Smith B.K.
+A2  - Borge M.
+PB  - Springer Science and Business Media Deutschland GmbH
+SN  - 03029743 (ISSN); 978-303193566-4 (ISBN)
+LA  - English
+J2  - Lect. Notes Comput. Sci.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 27 June 2025; Cited By: 0; Correspondence Address: K.E. Fraoua; Université Gustave Eiffel, Champs-sur-Marne, France; email: fraoua@u-pem.fr
+ER  -
+
+TY  - CONF
+AU  - Khennouche, F.
+AU  - Elmir, Y.
+AU  - Djebari, N.
+AU  - Boubchir, L.
+AU  - Laouid, A.
+AU  - Bounceur, A.
+TI  - Comparative Analysis and Application of Large Language Models on FAQ Chatbots
+PY  - 2024
+T2  - CINS 2024 - 2nd International Conference on Computational Intelligence and Network Systems
+DO  - 10.1109/CINS63881.2024.10864428
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85219557085&doi=10.1109%2fCINS63881.2024.10864428&partnerID=40&md5=fd9da1b07264e6ec034e4618b0683938
+AD  - Laboratoire LITAN, École supérieure en Sciences et Technologies de l’Informatique et du Numérique Amizour, Bejaia, 06300, Algeria
+AD  - SGRE-lab, Bechar, Algeria
+AD  - Laboratoire d’informatique Médical (LIMED), Université de Bejaia, Targa Ouzemour, Bejaia, 06000, Algeria
+AD  - LIASD research Laboratory, University of Paris, 8 2 rue de la Liberté, Saint-Denis, 93526, France
+AD  - LIAP Laboratory, University of El Oued, PO Box 789, El Oued, 39000, Algeria
+AD  - College of Computing and Informatics, University of Sharjah, Sharjah, United Arab Emirates
+AB  - This paper presents a comprehensive evaluation of advanced large language models (LLMs) including GPT, BART, BERT, and T5, fine-tuned using a specialized FAQ dataset from ESTIN, a higher education institution. The study aims to assess the performance of these LLM models in generating accurate and contextually relevant responses to common queries. These models were evaluated using key metrics such as evaluation loss (eval loss) and ROUGE scores (ROUGE-1 and ROUGE-2), which measure the alignment between the generated responses and the reference answers. The experiment results show that BERT outperforms the other models, achieving a lowest eval loss and highest ROUGE-1 and ROUGE-2 scores, making it the most effective model in this context. The findings underscore the potential of BERT in educational AI applications. Finally, some future research directions are discussed, including the integration of additional models and the enhancement of the FAQ dataset to further improve performance. ©2024 IEEE.
+KW  - BART
+KW  - BERT
+KW  - FAQ Chatbot
+KW  - fine-tunning
+KW  - GPT
+KW  - LLM
+KW  - T5
+KW  - BART
+KW  - BERT
+KW  - Chatbots
+KW  - Comparative analyzes
+KW  - FAQ chatbot
+KW  - Fine-tunning
+KW  - GPT
+KW  - Language model
+KW  - Large language model
+KW  - T5
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 979-833150410-6 (ISBN)
+LA  - English
+J2  - CINS - Int. Conf. Comput. Intell. Netw. Syst.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 27 June 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Vartiainen, H.
+AU  - Valtonen, T.
+AU  - Kahila, J.
+AU  - Tedre, M.
+TI  - ChatGPT and imaginaries of the future of education: insights of Finnish teacher educators
+PY  - 2025
+T2  - Information and Learning Science
+VL  - 126
+IS  - 1-2
+SP  - 75
+EP  - 90
+DO  - 10.1108/ILS-10-2023-0146
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85200765535&doi=10.1108%2fILS-10-2023-0146&partnerID=40&md5=65d996b92f2bc592081640a802d0a391
+AD  - School of Applied Educational Science and Teacher Education, University of Eastern Finland, Joensuu, Finland
+AD  - School of Computing, University of Eastern Finland, Joensuu, Finland
+AB  - Purpose: In 2022 generative AI took the Internet world by storm. Free access to tools that can generate text and images that pass for human creations triggered fiery debates about the potential uses and misuses of generative AI in education. There has risen a need to check the popular utopian and dystopian narratives about AI against the diversity of hopes, concerns and future imaginaries that educators themselves associate with generative AI. The purpose of this study is to investigate the perspectives of Finnish teacher educators on the use of AI in education. Design/methodology/approach: This article reports findings from a hands-on workshop in teacher training, where participants learned about how generative AI works, collaboratively explored generative AI and then reflected on its potential and challenges. Findings: The results reveal nuanced, calm and thoughtful imaginaries rooted in deep understanding of educational policy, evaluation and the sociocultural context of education. The results cover teachers’ views on the impact of AI on learners’ agency, metacognition, self-regulation and more. Originality/value: This article offers a unique exploration into the perceptions and imaginaries of educators regarding generative AI in specific (instead of “monolithic AI”), moving beyond dystopian views and instead focusing on the potential of AI to align with existing pedagogical practices. The educators contrasted the common techno-deterministic narratives and perceived AI as an avenue to support formative assessment practices and development of metacognition, self-regulation, responsibility and well-being. The novel insights also include the need for AI education that critically incorporates social and ethical viewpoints and fosters visions for a future with culturally, socially and environmentally sustainable AI. © 2024, Henriikka Vartiainen, Teemu Valtonen, Juho Kahila and Matti Tedre.
+KW  - Artificial intelligence
+KW  - ChatGPT
+KW  - Generative AI
+KW  - Imaginaries
+KW  - Teacher training
+KW  - Tertiary education
+KW  - University
+PB  - Emerald Publishing
+SN  - 23985348 (ISSN)
+LA  - English
+J2  - inform.Learn.Sci
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 27 June 2025; Cited By: 3; Correspondence Address: M. Tedre; School of Computing, University of Eastern Finland, Joensuu, Finland; email: matti.tedre@uef.fi
+ER  -
+
+TY  - CONF
+AU  - Liu, S.
+AU  - Yu, Z.
+AU  - Huang, F.
+AU  - Bulbulia, Y.
+AU  - Bergen, A.
+AU  - Liut, M.
+TI  - Can Small Language Models With Retrieval-Augmented Generation Replace Large Language Models When Learning Computer Science?
+PY  - 2024
+T2  - Annual Conference on Innovation and Technology in Computer Science Education, ITiCSE
+VL  - 1
+SP  - 388
+EP  - 393
+DO  - 10.1145/3649217.3653554
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85198907269&doi=10.1145%2f3649217.3653554&partnerID=40&md5=db210ee3ac7fa614c6209f2f0ac5e3dd
+AD  - University of Toronto Mississauga, Mississauga, ON, Canada
+AB  - Leveraging Large Language Models (LLMs) for personalized learning and support is becoming a promising tool in computing education. AI Assistants can help students with programming, problem-solving, converse with them to clarify course content, explain error messages to help with debugging, and much more. However, using cloud-based LLMs poses risks around data security, privacy, but also control of the overarching system. To address these concerns, we created a locally-stored Small Language Model (SLM) that leverages different Retrieval-Augmented Generation (RAG) methods to support computing students' learning. We compare one SLM (neural-chat-7b-v3 - fine-tuned version of Mistral-7B-v0.1) against two popular LLMs (gpt-3.5-turbo and gpt-4-32k) to see the viability for computing educators to use in their course(s). We use conversations from a CS1 course (N = 1,260), providing students with an AI Assistant (using gpt-3.5-turbo) to help them learn content and support problem-solving while completing their Python programming assignment. In total, we had 269 students use the AI Assistant, with a total of 1,988 questions asked. Using this real conversational data, we re-ran student questions using our novel SLM (neural-chat-7b-v3 testing nine different RAG methods) and gpt-4-32k, then compared those results against the original gpt-3.5-turbo responses. Our findings indicate that using an SLM with RAG can perform similarly, if not better, than LLMs. This shows that it is possible for computing educators to use SLMs (with RAG) in their course(s) as a tool for scalable learning, supporting content understanding and problem-solving needs, while employing their own policies on data privacy and security. © 2024 ACM.
+KW  - computing education
+KW  - conversational agent
+KW  - cs1
+KW  - intelligence concentration
+KW  - intelligent teaching assistant
+KW  - intelligent tutoring system
+KW  - large language models
+KW  - locally deployable ai
+KW  - personalized ai agent
+KW  - retrieval augmented generation
+KW  - small language models
+KW  - Computational linguistics
+KW  - Curricula
+KW  - Data privacy
+KW  - Education computing
+KW  - Learning systems
+KW  - Program debugging
+KW  - Computing education
+KW  - Conversational agents
+KW  - Cs1
+KW  - Intelligence concentration
+KW  - Intelligent teaching assistant
+KW  - Intelligent tutoring
+KW  - Intelligent tutoring system
+KW  - Language model
+KW  - Large language model
+KW  - Locally deployable ai
+KW  - Personalized ai agent
+KW  - Retrieval augmented generation
+KW  - Small language model
+KW  - Teaching assistants
+KW  - Tutoring system
+KW  - Students
+PB  - Association for Computing Machinery
+SN  - 1942647X (ISSN); 979-840070600-4 (ISBN)
+LA  - English
+J2  - Annu. Conf. Innov. Technol. Comput. Sci. Educ. ITiCSE
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 27 June 2025; Cited By: 5
+ER  -
+
+TY  - CONF
+AU  - Escobar, A.-D.O.
+AU  - Suarez Jasso, E.
+AU  - Anota, M.-M.M.
+TI  - Comparative Analysis of Generative Language Tools for Higher Education
+PY  - 2024
+T2  - 2024 IEEE International Conference on Engineering Veracruz, ICEV 2024
+DO  - 10.1109/ICEV63254.2024.10765986
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85213399554&doi=10.1109%2fICEV63254.2024.10765986&partnerID=40&md5=681cae2a5866d7c67123fe6f0df94185
+AD  - Universidad Veracruzana, Facultad de Contaduria y Administración, Xalapa, Mexico
+AB  - The development of technology has marked great changes in all areas, especially in education, the incorporation of various tools supported by artificial intelligence has brought positive and negative consequences, in many cases there is a lack of knowledge of these and therefore they have not been properly used. This study attempts to evaluate and compare some generative language tools through a literature search and their practical use. Using content analysis, the seven selected tools were compared considering the criteria of: Efficiency, Quality, Usability, Scalability and Costs. The results show that tools such as ChatGPT, GitHub Copilot, Whisper, Hugging Face and Grammarly stand out for their high efficiency, quality, usability and scalability, being the most robust options for various educational applications. While tools such as Google Bard and Khan Academy's AI Tutor offer good evaluations in usability and scalability, with relatively low costs, making them accessible and effective in educational environments. Some limitations were identified in tools such as Talk to Books and ChatPDF that present challenges in efficiency and usability, limiting their applicability compared to more advanced tools. In addition, GPT for Slides, although functional for presentations, shows limitations in scalability and security. It was identified that there is a positive correlation between efficiency and quality in most tools, although there are exceptions where these aspects are not aligned. It is concluded that generative tools in Higher Education are crucial to modernize teaching and are aligned with the UN Sustainable Development Goals. Choosing the right tool should consider factors such as security, costs and ease of use to maximize its educational impact. © 2024 IEEE.
+KW  - analysis
+KW  - generative language
+KW  - higher education
+KW  - tools
+KW  - Generative adversarial networks
+KW  - Scalability
+KW  - Analyze
+KW  - Comparative analyzes
+KW  - Content analysis
+KW  - Generative language
+KW  - High educations
+KW  - High scalabilities
+KW  - Higher efficiency
+KW  - Language tools
+KW  - Literature search
+KW  - Practical use
+KW  - Costs
+A2  - Castillo Dr.
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 979-835039161-9 (ISBN)
+LA  - English
+J2  - IEEE Int. Conf. Eng. Veracruz, ICEV
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 27 June 2025; Cited By: 0; Correspondence Address: A.-D.O. Escobar; Universidad Veracruzana, Facultad de Contaduria y Administración, Xalapa, Mexico; email: aotero@uv.mx
+ER  -
+
+TY  - CONF
+AU  - Yadav, G.
+AU  - Tseng, Y.-J.
+AU  - Ni, X.
+TI  - Contextualizing Problems to Student Interests at Scale in Intelligent Tutoring System Using Large Language Models
+PY  - 2023
+T2  - CEUR Workshop Proceedings
+VL  - 3487
+SP  - 17
+EP  - 25
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85174198026&partnerID=40&md5=336a86c776c64f767d62244b495ebd29
+AD  - Carnegie Mellon University, 5000 Forbes Ave, Pittsburgh, 15213, PA, United States
+AB  - Contextualizing problems to align with student interests can significantly improve learning outcomes. However, this task often presents scalability challenges due to resource and time constraints. Recent advancements in Large Language Models (LLMs) like GPT-4 [1]offer potential solutions to these issues. This study explores the ability of GPT-4 in the contextualization of problems within CTAT [2], an authoring tool for the intelligent tutoring system, aiming to increase student engagement and enhance learning outcomes. Through iterative prompt engineering, we achieved meaningful contextualization that preserved the difficulty and original intent of the problem, thereby not altering values or overcomplicating the questions. To evaluate the effectiveness of these newly generated questions, we conducted focus groups and interviews with instructional designers. The positive assessment from the instructional designers signifies that these questions are suitable for implementation, potentially saving significant time spent on manual contextualization. Despite these promising findings, we acknowledge current limitations of our research, particularly with geometry problems, and emphasize the need for ongoing evaluation and research. Future work includes systematic studies to measure the impact of this tool on students' learning outcomes and enhancements to handle a broader range of problems. © 2023 Copyright for this paper by its authors. Use permitted under Creative Commons License Attribution 4.0 International (CC BY 4.0).
+KW  - Intelligent Tutoring System
+KW  - Large Language Models
+KW  - Mass Production
+KW  - Student Interests
+KW  - Computational linguistics
+KW  - Computer aided instruction
+KW  - Education computing
+KW  - Contextualization
+KW  - Instructional designer
+KW  - Intelligent tutoring
+KW  - Intelligent tutoring system
+KW  - Language model
+KW  - Large language model
+KW  - Learning outcome
+KW  - Mass production
+KW  - Students' interests
+KW  - Tutoring system
+KW  - Students
+A2  - Moore S.
+A2  - Stamper J.
+A2  - Tong R.
+A2  - Cao C.
+A2  - Liu Z.
+A2  - Hu X.
+A2  - Lu Y.
+A2  - Liang J.
+A2  - Khosravi H.
+A2  - Denny P.
+A2  - Singh A.
+A2  - Brooks C.
+PB  - CEUR-WS
+SN  - 16130073 (ISSN)
+LA  - English
+J2  - CEUR Workshop Proc.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 27 June 2025; Cited By: 3; Correspondence Address: G. Yadav; Carnegie Mellon University, Pittsburgh, 5000 Forbes Ave, 15213, United States; email: gyadav@andrew.cmu.edu
+ER  -
+
+TY  - CONF
+AU  - Mattiello, H.
+AU  - Mattiello, D.
+AU  - Wittberg, V.
+TI  - Driving Sex-Gender Equity and Ethical Integration in Edu X.0: Harnessing GenAI for Human-Centric Innovation, Responsibility, and Industry X.0 (When X.0 = 5.0)
+PY  - 2025
+T2  - IEEE Global Engineering Education Conference, EDUCON
+DO  - 10.1109/EDUCON62633.2025.11016475
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105008218710&doi=10.1109%2fEDUCON62633.2025.11016475&partnerID=40&md5=cc4b8c8433df188a4022941e1cd9bcda
+AD  - University of Applied Sciences (FHM), Department of Business and Economics, Bielefeld, Germany
+AD  - University of Applied Sciences (FHM), Department of Business and Economics, Switzerland
+AD  - Surgery Clinic, Spital Limmattal, Zurich, Switzerland
+AB  - The transformative potential of Generative AI (GenAI) in higher education necessitates a critical examination of its ethical integration, particularly in fostering sex-gender equity and ensuring human-centric innovation. This paper addresses the multifaceted impact of GenAI, exploring both its opportunities and the ethical challenges it presents within educational contexts. As AI technologies, including large language models and diffusion models, rapidly advance, concerns regarding bias, privacy, accountability, and explainability in their application to educational settings must be addressed. It argues that ethical considerations must guide the integration of AI into educational systems, with a particular focus on gender equity and the promotion of inclusive learning environments. The rise of personalized learning, facilitated by AI systems, offers vast potential for tailoring educational experiences to individual needs. However, it also raises significant risks, including algorithmic bias, privacy violations, and the unintended misuse of AI technologies by students in ways that may perpetuate social inequities or ethical lapses. It underscores the urgent need for higher education institutions to address the ethics education gap, ensuring that students are not only equipped with cutting-edge technical knowledge but also a deep understanding of the societal and ethical implications of AI technologies. To bridge this gap, we propose practical strategies for the ethical integration of GenAI in education. These include project-based learning, cross-disciplinary collaboration, and comprehensive faculty development programs aimed at embedding ethical decision-making frameworks within AI curricula. By cultivating a cultural ethical responsibility, higher education can foster an environment where AI innovation is pursued with a commitment to social justice, diversity, and inclusion. Rooted in the X.0 wave, which highlights the evolution of technological paradigms from traditional models to the next wave of innovation, this paper aligns with the principles of Industry X.0 (when X.0 = 5.0). This theory emphasizes humancentric innovation, sustainability, and ethical responsibility as foundational elements for future technological advancements. In this context, it provides a roadmap for the responsible use of AI in education, advocating for the integration of human welfare as a guiding principle in AI-driven innovation. This ensures that AI technologies are utilized as tools for advancing societal well-being rather than exacerbating existing inequalities. By applying X.0 theory, this research calls for a paradigm shift in higher education - one that prioritizes ethical AI education and prepares students to lead with responsibility, equity, and integrity as they navigate the evolving technological landscape. © 2025 IEEE.
+KW  - Edu X.0
+KW  - Ethical AI
+KW  - Ethical Integration
+KW  - GenAI
+KW  - Industry X.0 Responsible Innovation
+KW  - Sex-Gender Equity
+KW  - The X.0 Wave Theory
+KW  - Artificial intelligence
+KW  - Computer aided instruction
+KW  - Curricula
+KW  - Education computing
+KW  - Engineering education
+KW  - Ethical technology
+KW  - Integration
+KW  - Learning systems
+KW  - Students
+KW  - Teaching
+KW  - AI Technologies
+KW  - Edu x.0
+KW  - Ethical AI
+KW  - Ethical integration
+KW  - Gender equity
+KW  - Generative AI
+KW  - Industry x.0 responsible innovation
+KW  - Sex-gender equity
+KW  - The x.0 wave theory
+KW  - Wave theory
+KW  - Decision making
+PB  - IEEE Computer Society
+SN  - 21659559 (ISSN); 979-833153949-8 (ISBN)
+LA  - English
+J2  - IEEE Global Eng. Edu. Conf., EDUCON
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 27 June 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Kusuma, R.S.
+AU  - Oktavia, T.
+TI  - Leveraging AI-Powered Adaptive Tutoring to Address Motivation Challenges in University Pedagogy
+PY  - 2024
+T2  - Journal of Logistics, Informatics and Service Science
+VL  - 11
+IS  - 8
+SP  - 42
+EP  - 60
+DO  - 10.33168/JLISS.2024.0804
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105001630788&doi=10.33168%2fJLISS.2024.0804&partnerID=40&md5=7313cafe68936186b8d747d2df5752cc
+AD  - Information System Management, Bina Nusantara University, Jakarta, 11480, Indonesia
+AB  - This study develops an intelligent tutoring system powered by ChatGPT and VARK framework to deliver personalized and adaptive learning experiences addressing low student motivation levels. The web-based prototype is tested on student samples at an Indonesian university using black box and usability analyses. Results indicate the system can enhance motivation by aligning teaching with individual learning styles and interests. The research contributes by demonstrating the potential of AI-based personalized education models to improve teaching quality and efficiency amidst prevailing pedagogical challenges. Practical insights are offered for institutes seeking technology-enabled solutions to re-engage students. Further testing on academic performance impact is warranted. © 2024, Success Culture Press. All rights reserved.
+KW  - Intelligent Tutoring System
+KW  - Large Language Model
+KW  - Personalize Learning
+KW  - VARK
+PB  - Success Culture Press
+SN  - 24092665 (ISSN)
+LA  - English
+J2  - J.  Logist. Inform.  Serv. Sci.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 27 June 2025; Cited By: 0; Correspondence Address: R.S. Kusuma; Information System Management, Bina Nusantara University, Jakarta, 11480, Indonesia; email: rendy.kusuma@binus.ac.id
+ER  -
+
+TY  - CONF
+AU  - Riello, P.
+AU  - Quille, K.
+AU  - Jaiswal, R.
+AU  - Sansone, C.
+TI  - Reimagining Student Success Prediction: Applying LLMs in Educational AI with XAI
+PY  - 2024
+T2  - ACM International Conference Proceeding Series
+SP  - 34
+EP  - 40
+DO  - 10.1145/3701268.3701274
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85216529458&doi=10.1145%2f3701268.3701274&partnerID=40&md5=9e5f39cf673724b9425fbf2a9299bfd3
+AD  - University of Naples Federico II, Naples, Italy
+AD  - Technological University Dublin, Dublin, Ireland
+AB  - Since the conception of Large Language Models (LLMs), their areas of application have increased significantly over time. This is due to their nature of being able to perform natural language processing (NLP) tasks (like question answering, text generation, text summarization, text classification etc.), which gives them flexibility in a multitude of spaces, including in Educational AI (EdAI). Despite their incredible wide range of use, LLMs are typically applied to generative AI, from text to image generation.This paper aims to apply LLMs for a classification task in EdAI, by reproposing the original PreSS (Predicting Student Success) model which makes use of more traditional Machine Learning (ML) algorithms for predicting CS1 students at risk of failing or dropping out. There are two main goals for this work: the first is to identify the best and most accurate method to re-purpose LLMs for a classification task; the second is to explore and access the explainability of the model outputs. For the former we investigate different techniques for using LLMs like Few-Shot Prompting, Fine-Tuning and Transfer Learning using Gemma 2B as base model along with two different kind of prompting techniques. For the latter we focus on attention scores of LLMs transformers, aiming to understanding what are the most important features that the model considers for generating the response. The obtained results are then compared with the previous PreSS model to evaluate whether LLMs can outperform traditional ML algorithms: this paper finds that Naïve Bayes still outperforms all the others, once again confirmed as the best algorithm for predicting student success. © 2024 Copyright held by the owner/author(s).
+KW  - Computer Science Education
+KW  - Explainability
+KW  - Large Language Models
+KW  - Contrastive Learning
+KW  - Learning systems
+KW  - Natural language processing systems
+KW  - Prediction models
+KW  - Students
+KW  - Transfer learning
+KW  - Classification tasks
+KW  - Computer Science Education
+KW  - Explainability
+KW  - Language model
+KW  - Language processing
+KW  - Large language model
+KW  - Machine learning algorithms
+KW  - Natural languages
+KW  - Student success
+KW  - Student success models
+KW  - Presses (machine tools)
+PB  - Association for Computing Machinery
+SN  - 979-840071159-6 (ISBN)
+LA  - English
+J2  - ACM Int. Conf. Proc. Ser.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 27 June 2025; Cited By: 0; Correspondence Address: P. Riello; University of Naples Federico II, Naples, Italy; email: pas.riello@studenti.unina.it
+ER  -
+
+TY  - CONF
+AU  - Feng, T.
+AU  - Liu, S.
+AU  - Ghosal, D.
+TI  - CourseAssist: Pedagogically Appropriate AI Tutor for Computer Science Education
+PY  - 2024
+T2  - SIGCSE Virtual 2024 - Proceedings of the 2024 ACM Virtual Global Computing Education Conference V. 2
+SP  - 310
+EP  - 311
+DO  - 10.1145/3649409.3691094
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85218026274&doi=10.1145%2f3649409.3691094&partnerID=40&md5=285826abfdb7678c460339d8b2056251
+AD  - CourseAssist, Inc., Davis, CA, United States
+AD  - University of California, Davis, Davis, CA, United States
+AB  - The growing enrollments in computer science courses and increase in class sizes necessitate scalable, automated tutoring solutions to adequately support student learning. While Large Language Models (LLMs) like GPT-4 have demonstrated potential in assisting students through question-answering, educators express concerns over student overreliance, miscomprehension of generated code, and the risk of inaccurate answers. Rather than banning these tools outright, we advocate for a constructive approach that harnesses the capabilities of AI while mitigating potential risks. This poster introduces CourseAssist, a novel LLM-based tutoring system tailored for computer science education. Unlike generic LLM systems, CourseAssist uses retrieval-augmented generation, user intent classification, and question decomposition to align AI responses with specific course materials and learning objectives, thereby ensuring pedagogical appropriateness of LLMs in educational settings. We evaluated CourseAssist against a baseline of GPT-4 using a dataset of 50 question-answer pairs from a programming languages course, focusing on the criteria of usefulness, accuracy, and pedagogical appropriateness. Evaluation results show that CourseAssist significantly outperforms the baseline, demonstrating its potential to serve as an effective learning assistant. We have also deployed CourseAssist in 6 computer science courses at a large public R1 research university reaching over 500 students. Interviews with 20 student users show that CourseAssist improves computer science instruction by increasing the accessibility of course-specific tutoring help and shortening the feedback loop on their programming assignments. Future work will include extensive pilot testing at more universities and exploring better collaborative relationships between students, educators, and AI that improve computer science learning experiences. © 2024 Copyright held by the owner/author(s).
+KW  - AI Tutor
+KW  - Computer Science Education
+KW  - Intelligent Tutoring Systems
+KW  - Large Language Models
+KW  - Question Answering
+KW  - Adversarial machine learning
+KW  - Classification (of information)
+KW  - Computer aided instruction
+KW  - Computer programming languages
+KW  - Contrastive Learning
+KW  - Curricula
+KW  - Federated learning
+KW  - Public risks
+KW  - Teaching
+KW  - AI tutor
+KW  - Class size
+KW  - Computer Science course
+KW  - Computer Science Education
+KW  - Intelligent tutoring
+KW  - Intelligent tutoring system
+KW  - Language model
+KW  - Large language model
+KW  - Question Answering
+KW  - Tutoring system
+KW  - Students
+PB  - Association for Computing Machinery, Inc
+SN  - 979-840070604-2 (ISBN)
+LA  - English
+J2  - SIGCSE Virtual - Proc. ACM Virtual Global Comput. Educ. Conf. V. 2
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 27 June 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Crum, S.
+AU  - Li, B.
+AU  - Kou, X.
+TI  - Generative Artificial Intelligence and Interactive Learning Platforms: Second Language Vocabulary Acquisition
+PY  - 2024
+T2  - Communications in Computer and Information Science
+VL  - 2117 CCIS
+SP  - 48
+EP  - 53
+DO  - 10.1007/978-3-031-61953-3_6
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85196758768&doi=10.1007%2f978-3-031-61953-3_6&partnerID=40&md5=4f7e2fb28d848c57cc9075311557fb3e
+AD  - Indiana University, Bloomington, 47405, IN, United States
+AD  - Purdue University, West Lafayette, 47907, IN, United States
+AB  - This study examines Q-Chat, a new tool developed by Quizlet that integrates ChatGPT API, for its potential for L2 vocabulary learning. As a generative AI tool, ChatGPT has shown significant potential in enhancing language learning through interactive conversations, grammar corrections, and personalized learning experiences. However, challenges such as the learning optimization gap and the knowledge comprehension gap have been identified by previous research, affecting beginners’ ability to fully utilize these technologies for language learning. Q-Chat, as an Intelligent Tutoring System enhanced by OpenAI’s ChatGPT API, addresses the gaps by offering structured, scaffolded learning experiences that adapt to various learning styles and skill levels. The paper introduces the design principles of Q-chat, detailing how this tool leverages AI-empowered conversational interface to engage and guide learners in a more structured manner of learning. The paper highlights the importance of aligning design of AI-enhanced learning products with pedagogical and learning needs, and the importance of training language educators in understanding AI concepts to ensure meaningful integration of AI in teaching. It calls for future empirical studies to explore the practical implementation of ITSs in L2 classrooms and their impact on students’ learning process. © The Author(s), under exclusive license to Springer Nature Switzerland AG 2024.
+KW  - Generative Artificial Intelligence
+KW  - Intelligent Tutoring Systems
+KW  - Language Learning
+KW  - Q-Chat
+KW  - vocabulary Acquisition
+KW  - Computer aided instruction
+KW  - Education computing
+KW  - Learning systems
+KW  - Product design
+KW  - Students
+KW  - Artificial intelligence learning
+KW  - Generative artificial intelligence
+KW  - Intelligent tutoring
+KW  - Intelligent tutoring system
+KW  - Interactive learning
+KW  - Language learning
+KW  - Learning experiences
+KW  - Q-chat
+KW  - Tutoring system
+KW  - Vocabulary acquisition
+KW  - Artificial intelligence
+A2  - Stephanidis C.
+A2  - Antona M.
+A2  - Ntoa S.
+A2  - Salvendy G.
+PB  - Springer Science and Business Media Deutschland GmbH
+SN  - 18650929 (ISSN); 978-303161952-6 (ISBN)
+LA  - English
+J2  - Commun. Comput. Info. Sci.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 27 June 2025; Cited By: 4; Correspondence Address: S. Crum; Indiana University, Bloomington, 47405, United States; email: sariogul@indiana.edu
+ER  -
+
+TY  - CONF
+AU  - Lui, R.W.C.
+AU  - Bai, H.
+AU  - Zhang, A.W.Y.
+AU  - Chu, E.T.H.
+TI  - GPTutor: A Generative AI-powered Intelligent Tutoring System to Support Interactive Learning with Knowledge-Grounded Question Answering
+PY  - 2024
+T2  - Proceedings - 2024 International Conference on Advances in Electrical Engineering and Computer Applications, AEECA 2024
+SP  - 702
+EP  - 707
+DO  - 10.1109/AEECA62331.2024.00124
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105000780157&doi=10.1109%2fAEECA62331.2024.00124&partnerID=40&md5=d13853d5da6d820ccfaa39d224783f37
+AD  - The Hong Kong Polytechnic University, Department of Computing, Hong Kong, Hong Kong
+AB  - With increasing popularity of artificial intelligence (AI) in the education industry, intelligent tutoring system (ITS) powered by AI have been widely adopted to optimize the learning experience. However, the relationship between students' engagement level of Generative AI (GenAI) and their academic performance is still under exploration. Also current popular GenAI products like ChatGPT suffer from the hallucination problem, which includes factuality, faithfulness, and maliciousness issues in the generated answer. This paper presents GPTutor, an ITS leveraging GenAI to support students' learning processes. GPTutor integrates a Retrieval-Augmented Generation (RAG) pipeline to deliver actual and contextually rich answers aligned to student questions and intended learning outcomes (ILO). A pilot evaluation involving undergraduate and postgraduate students assessed the system's association with user experience, engagement, and academic performance. Results demonstrated that students generally recognize the effectiveness of GPTutor. Some students also provided insightful feedback on the benefits of GPTutor in improving learning efficiency and some limitations to be addressed. Notably, students with higher engagement levels showed significantly better academic performance on the final exam. This study proposed GPTutor to provide an interactive and knowledge-grounded learning experience and showed the strong association between students' engagement in GPTutor and academic performance.  © 2024 IEEE.
+KW  - generative AI
+KW  - intelligent tutoring system
+KW  - interactive learning
+KW  - knowledge-grounded question-answering
+KW  - retrieval-augmented generation
+KW  - Adversarial machine learning
+KW  - Computer aided instruction
+KW  - Federated learning
+KW  - Students
+KW  - Teaching
+KW  - Academic performance
+KW  - Generative artificial intelligence
+KW  - Intelligent tutoring
+KW  - Intelligent tutoring system
+KW  - Interactive learning
+KW  - Knowledge-grounded question-answering
+KW  - Learning experiences
+KW  - Question Answering
+KW  - Retrieval-augmented generation
+KW  - Tutoring system
+KW  - Contrastive Learning
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 979-835035525-3 (ISBN)
+LA  - English
+J2  - Proc. - Int. Conf. Adv. Electr. Eng. Comput. Appl., AEECA
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 27 June 2025; Cited By: 0; Correspondence Address: R.W.C. Lui; The Hong Kong Polytechnic University, Department of Computing, Hong Kong, Hong Kong; email: richard.lui@polyu.edu.hk
+ER  -
+
+TY  - CONF
+AU  - Mueller, M.
+AU  - List, C.
+AU  - Kipp, M.
+TI  - The Power of Context: An LLM-based Programming Tutor with Focused and Proactive Feedback
+PY  - 2025
+T2  - Proceedings of the 6th ECSEE 2025 - European Conference on Software Engineering Education
+SP  - 1
+EP  - 10
+DO  - 10.1145/3723010.3723034
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105008420062&doi=10.1145%2f3723010.3723034&partnerID=40&md5=cafea0ed2b0652d95ac63d49b366d3ac
+AD  - Technische Hochschule Augsburg, Augsburg, Germany
+AB  - Current research aims to utilize Large Language Models (LLMs) for tutoring beginning programming students efficiently and at scale. Students often struggle to interact effectively with LLMs to obtain meaningful feedback. We introduce an LLM-based Intelligent Tutoring System (ITS) with a structured interface and prompts aligned with Hattie’s feedback model. To provide more focused feedback, we utilize the user interaction history for context. Additionally, we explore the question of proactivity. A user study with 9 participants compared history-based and current-state feedback methods using ChatGPT, showing a preference for history-based feedback in 69% of cases and with higher usefulness ratings (M = 7.57 vs. M = 4.1, p = 0.03 (statistically significant at p < 0.05)). This effect became more pronounced in later learning stages. For proactivity, we collected user data from the study, where participants explicitly requested feedback, and trained a neural network (NN) to predict optimal feedback timing. While the model achieved 97% accuracy on test data, the small sample size (N = 10) and the use of oversampling limit its generalizability. Future work will refine history-based feedback with eye-tracking data and integrate NN-driven proactive behavior to further enhance the effectiveness of LLM-based ITS in programming education. © 2025 Copyright held by the owner/author(s).
+KW  - CS in higher education
+KW  - focused feedback
+KW  - intelligent tutoring
+KW  - Large Language Models
+KW  - neural networks
+KW  - proactive feedback
+KW  - Behavioral research
+KW  - Computer aided instruction
+KW  - Computer systems programming
+KW  - Education computing
+KW  - Human computer interaction
+KW  - Human engineering
+KW  - Students
+KW  - Teaching
+KW  - User interfaces
+KW  - 'current
+KW  - CS in high education
+KW  - Focused feedback
+KW  - High educations
+KW  - Intelligent tutoring
+KW  - Language model
+KW  - Large language model
+KW  - Model-based OPC
+KW  - Neural-networks
+KW  - Proactive feedback
+KW  - Neural networks
+PB  - Association for Computing Machinery, Inc
+SN  - 979-840071282-1 (ISBN)
+LA  - English
+J2  - Proc. ECSEE - European Conf. Softw. Eng. Educ.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 27 June 2025; Cited By: 0; Correspondence Address: M. Mueller; Technische Hochschule Augsburg, Augsburg, Germany; email: moritz.mueller@tha.de
+ER  -
+
+TY  - CONF
+AU  - Moussa, Y.
+TI  - Advancing Learning Systems: Enhancing Explanation Generation Through AI Innovations
+PY  - 2024
+T2  - Lecture Notes in Networks and Systems
+VL  - 1058 LNNS
+SP  - 334
+EP  - 347
+DO  - 10.1007/978-3-031-65522-7_30
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85200996722&doi=10.1007%2f978-3-031-65522-7_30&partnerID=40&md5=2f6d36ab2320c7df1491399733fc225e
+AD  - School of Computing, University of Leeds, Leeds, United Kingdom
+AB  - AI-enhanced adaptive learning systems, such as Intelligent Tutoring Systems (ITS), improve teaching methods and enhance learning experiences across various domains, especially in technical subjects like mathematics and sciences. They provide personalized and adaptable environments, fostering engagement and academic achievement through tailored educational approaches. Despite the significant advancements in mathematical language processing driven by the advent of Large Language Models (LLMs), fine-tuning these expansive models for specialized mathematical tasks poses notable challenges. This is often a consequence of the scarcity of labeled datasets in this domain. To bridge this gap, this study curates a unique dataset, comprising around 4,000 formulas from mathematics, physics, and engineering, which features computationally rearranged equations paired with expert-reviewed, student-friendly explanations. Developed using the SymPy Python library, it serves as a comprehensive resource for evaluating language models in mathematical education. Furthermore, utilizing both the mathematical LaTeX and the string format of equations, this research fine-tunes several LLMs to highlight the differences between the models’ explanation generation capabilities and performance in generating accurate and informative mathematical explanations. Additionally, the comparison between outputs generated using LaTeX and string representations offers insights into the effectiveness of each format in conveying mathematical semantics. This research study contributes to the field of automated mathematics education, providing a deeper understanding of the potential of language models in creating explanations for intelligent tutoring systems. Our key achievements include the tbs17/MathBERT-custom model's enhanced Rouge-1 score, which marginally increased from 0.9678 in LaTeX format to 0.9679 in string format. More notably, the AnReu_math_pretrained_bert model's Rouge-1 score significantly improved from 0.9116 when using LaTeX to 0.9479 with string representations. This underscores the superior handling of string formats by these models, leading to improved explanation generation in the field of mathematics. © The Author(s), under exclusive license to Springer Nature Switzerland AG 2024.
+KW  - Embedding Enhancement in Computer Science Education
+KW  - Intelligent Tutoring Systems
+KW  - Large Language Models Fine-Tuning
+KW  - Mathematical Explanation Generation
+KW  - Mathematical Language Processing
+KW  - Bridges
+KW  - Computational linguistics
+KW  - Computer aided instruction
+KW  - Conveying
+KW  - Education computing
+KW  - Engineering education
+KW  - Intelligent vehicle highway systems
+KW  - Python
+KW  - Semantics
+KW  - Computer Science Education
+KW  - Embedding enhancement in computer science education
+KW  - Embeddings
+KW  - Fine tuning
+KW  - Intelligent tutoring
+KW  - Intelligent tutoring system
+KW  - Language model
+KW  - Language processing
+KW  - Large language model fine-tuning
+KW  - Mathematical explanation generation
+KW  - Mathematical language processing
+KW  - Mathematical languages
+KW  - Tutoring system
+KW  - Learning systems
+A2  - Daimi K.
+A2  - Al Sadoon A.
+PB  - Springer Science and Business Media Deutschland GmbH
+SN  - 23673370 (ISSN); 978-303165521-0 (ISBN)
+LA  - English
+J2  - Lect. Notes Networks Syst.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 27 June 2025; Cited By: 0; Correspondence Address: Y. Moussa; School of Computing, University of Leeds, Leeds, United Kingdom; email: youmnamoussa@hotmail.com
+ER  -
+
+TY  - CONF
+AU  - Lee, J.
+AU  - Huang, J.-X.
+AU  - Cho, M.
+AU  - Roh, Y.-H.
+AU  - Kwon, O.-W.
+AU  - Lee, Y.
+TI  - Developing Conversational Intelligent Tutoring for Speaking Skills in Second Language Learning
+PY  - 2024
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 14798 LNCS
+SP  - 131
+EP  - 148
+DO  - 10.1007/978-3-031-63028-6_11
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85195863079&doi=10.1007%2f978-3-031-63028-6_11&partnerID=40&md5=f9220c342ed2433020bea2b5a8cd51e9
+AD  - Electronics and Telecommunications Research Institute (ETRI), Daejeon, South Korea
+AD  - University of Science and Technology (UST), Daejeon, South Korea
+AD  - Hyundai Motor Group, Seoul, South Korea
+AB  - In this study, we introduce a Conversational Intelligent Tutoring System designed to create an interactive and immersive learning experience aimed at improving the speaking abilities of second language learners. This system mimics a human tutor by engaging in role-play dialogues with the learner, based on predefined scenarios, and offers corrective feedback on the learners’ utterance, while also engaging in chat to encourage student participation. The tutoring system includes a deep-learning classifier to assess students’ utterances, a dialogue generator customized for responding to students’ free-form chats, and a straightforward dialogue manager to determine the sequence of conversational turns. To tackle the challenge posed by the scarcity of tutoring dialogue resources, a significant hurdle for deep learning methods, we present a cost-effective approach that efficiently extends existing Korean dialogue datasets for the purpose of intelligent language tutoring. We carried out a series of experiments to compare various fine-tuned models based on language models of different sizes, and included a comparative analysis with ChatGPT. We discovered that smaller, specialized, fine-tuned models can either surpass or match the performance of GPT-4 in specific tutoring applications. Given the educational sector’s demand for cost-effective solutions, our contributions, spanning system design, dataset development, and comparative analysis, serve as valuable references to address these needs. © The Author(s), under exclusive license to Springer Nature Switzerland AG 2024.
+KW  - Conversational Intelligent Tutoring Systems
+KW  - Cost-effective Language Tutoring
+KW  - Generative AI for tutoring
+KW  - Second language learning
+KW  - Computer aided instruction
+KW  - Cost benefit analysis
+KW  - Cost effectiveness
+KW  - Deep learning
+KW  - Education computing
+KW  - Learning systems
+KW  - Systems analysis
+KW  - Comparative analyzes
+KW  - Conversational intelligent tutoring system
+KW  - Cost effective
+KW  - Cost-effective language tutoring
+KW  - Generative AI for tutoring
+KW  - Intelligent tutoring
+KW  - Language learning
+KW  - Second language
+KW  - Second language learning
+KW  - Tutoring system
+KW  - Students
+A2  - Sifaleras A.
+A2  - Lin F.
+PB  - Springer Science and Business Media Deutschland GmbH
+SN  - 03029743 (ISSN); 978-303163027-9 (ISBN)
+LA  - English
+J2  - Lect. Notes Comput. Sci.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 27 June 2025; Cited By: 0; Correspondence Address: J.-X. Huang; Electronics and Telecommunications Research Institute (ETRI), Daejeon, South Korea; email: hgh@etri.re.kr
+ER  -
+
+TY  - CONF
+AU  - Yosobumi, A.B.
+AU  - Martha, A.S.D.
+AU  - Laksitowening, K.A.
+TI  - Development of a Pedagogical Agent Utilizing ChatGPT as a Response Mechanism and Scaffolding Method for CSS Learning
+PY  - 2024
+T2  - 2024 International Conference on Intelligent Cybernetics Technology and Applications, ICICyTA 2024
+SP  - 99
+EP  - 104
+DO  - 10.1109/ICICYTA64807.2024.10913323
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105001662337&doi=10.1109%2fICICYTA64807.2024.10913323&partnerID=40&md5=4f94623ef82bc1d2bdfbac5c788e08e3
+AD  - School of Computing, Telkom University, West Java, Bandung, Indonesia
+AB  - Cascading Style Sheets (CSS) are fundamental to modern web development, yet many learners encounter significant challenges with its intricate syntax and extensive styling capabilities. Approximately 85.7% of students report difficulties in mastering CSS concepts, which are often compounded by motivational issues that hinder the learning process. To tackle these challenges, this paper introduces a web-based educational application designed to enhance CSS learning through the integration of an innovative pedagogical agent that employs advanced scaffolding methods. The application utilizes a dual-phase scaffolding approach, including procedural scaffolding, which offers structured guidance through pre-designed dialogues, and strategic scaffolding, which employs ChatGPT to deliver personalized, adaptive feedback tailored to individual learning needs. The implementation of these scaffolding techniques has led to significant improvements in both user engagement and learning outcomes. Thematic analysis revealed that 80% of participants found the learning style provided by the pedagogical agent aligned with their personal preferences, compared to only 40% with conventional methods. Additionally, 90% of participants experienced increased motivation using the application with the pedagogical agent, versus 40% with the conventional approach. These findings highlight the effectiveness of the pedagogical agent in fostering a personalized and engaging learning experience, enhancing both motivation and learning. This research lays the chance for future advancements in interactive and adaptive learning systems, demonstrating the potential of combining pedagogical agents with sophisticated language models like ChatGPT to address educational and motivational challenges.  © 2024 IEEE.
+KW  - cascading style sheets
+KW  - ChatGPT integration
+KW  - interactive learning
+KW  - pedagogical agent
+KW  - scaffolding methodology
+KW  - Adversarial machine learning
+KW  - Contrastive Learning
+KW  - Federated learning
+KW  - Intelligent agents
+KW  - Learning systems
+KW  - Scaffolds
+KW  - Scaffolds (biology)
+KW  - Web Design
+KW  - Cascading style sheets
+KW  - ChatGPT integration
+KW  - Educational Applications
+KW  - Interactive learning
+KW  - Learning process
+KW  - Pedagogical agents
+KW  - Response mechanisms
+KW  - Scaffolding methodology
+KW  - Web based
+KW  - Web development
+KW  - Chatbots
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 979-833150649-0 (ISBN)
+LA  - English
+J2  - Int. Conf. Intell. Cybern. Technol. Appl., ICICyTA
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 27 June 2025; Cited By: 0; Correspondence Address: A.S.D. Martha; School of Computing, Telkom University, Bandung, West Java, Indonesia; email: aciantha@gmail.com
+ER  -
+
+TY  - JOUR
+AU  - Nuankaew, P.
+AU  - Nasa-Ngium, P.
+AU  - Nuankaew, W.S.
+TI  - Artificial intelligence and educational data mining technologies for the 4th SDG quality education: A systematic review
+PY  - 2025
+T2  - International Journal of Innovative Research and Scientific Studies
+VL  - 8
+IS  - 3
+SP  - 4217
+EP  - 4235
+DO  - 10.53894/ijirss.v8i3.7468
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105007874771&doi=10.53894%2fijirss.v8i3.7468&partnerID=40&md5=1870b75075f76cd21cce119630b91106
+AD  - Department of Digital Business, School of Information and Communication Technology, University of Phayao, Phayao, Thailand
+AD  - Department of Computer Science, Faculty of Science and Technology, Rajabhat Maha Sarakham University, Maha Sarakham, Thailand
+AD  - Department of Computer Science, School of Information and Communication Technology, University of Phayao, Phayao, Thailand
+AB  - This systematic review covers the role of artificial intelligence (AI) in education relating to the United Nations' Sustainable Development Goal 4 (SDG 4), covering studies from 2020 to 2024. The review examines AI's transformative potential in six key educational areas. Following PRISMA guidelines, 366 research works were initially identified from two databases, with 19 meeting the inclusion criteria for detailed analysis. The findings reveal that AI enhances personalized learning, fosters inclusivity, and improves accessibility through adaptive learning systems, virtual classrooms, and predictive analytics. AI tools, including chatbots and machine learning models, significantly contribute to equity in educational guidance and performance prediction, while immersive technologies offer culturally responsive learning environments. However, algorithmic bias and data privacy are challenges where concerns persist, underscoring the need for transparent, accountable AI systems and robust data governance to prevent inequities. Policymakers and educators are urged to develop ethical guidelines, adopt responsible AI practices, and ensure equitable access to educational technologies. These actions are essential for aligning AI applications with SDG 4 objectives, providing sustainable and inclusive educational outcomes globally. © 2025 by the authors.
+KW  - AI for education
+KW  - Digital transformation in education
+KW  - Educational data analytics
+KW  - Educational data mining
+KW  - Learning analytics
+PB  - Innovative Research Publishing
+SN  - 26176548 (ISSN)
+LA  - English
+J2  - Int. J. Innov. Res. Sci. Stud.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 27 June 2025; Cited By: 0; Correspondence Address: W.S. Nuankaew; Department of Computer Science, School of Information and Communication Technology, University of Phayao, Phayao, Thailand; email: wongpanya.nu@up.ac.th
+ER  -
+
+TY  - CONF
+AU  - Sonkar, S.
+AU  - Chen, X.
+AU  - Le, M.
+AU  - Liu, N.
+AU  - Basu Mallick, D.
+AU  - Baraniuk, R.
+TI  - Code Soliloquies for Accurate Calculations in Large Language Models
+PY  - 2024
+T2  - ACM International Conference Proceeding Series
+SP  - 828
+EP  - 835
+DO  - 10.1145/3636555.3636889
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85187555630&doi=10.1145%2f3636555.3636889&partnerID=40&md5=226cd6b55edf034b34fcd238960d77ff
+AD  - Rice University, Houston, TX, United States
+AD  - OpenStax, Rice University, Houston, TX, United States
+AB  - High-quality conversational datasets are crucial for the successful development of Intelligent Tutoring Systems (ITS) that utilize a Large Language Model (LLM) backend. Synthetic student-teacher dialogues, generated using advanced GPT-4 models, are a common strategy for creating these datasets. However, subjects like physics that entail complex calculations pose a challenge. While GPT-4 presents impressive language processing capabilities, its limitations in fundamental mathematical reasoning curtail its efficacy for such subjects. To tackle this limitation, we introduce in this paper an innovative stateful prompt design. Our design orchestrates a mock conversation where both student and tutorbot roles are simulated by GPT-4. Each student response triggers an internal monologue, or 'code soliloquy' in the GPT-tutorbot, which assesses whether its subsequent response would necessitate calculations. If a calculation is deemed necessary, it scripts the relevant Python code and uses the Python output to construct a response to the student. Our approach notably enhances the quality of synthetic conversation datasets, especially for subjects that are calculation-intensive. The preliminary Subject Matter Expert evaluations reveal that our Higgs model, a fine-tuned LLaMA model, effectively uses Python for computations, which significantly enhances the accuracy and computational reliability of Higgs' responses. © 2024 ACM.
+KW  - Computational linguistics
+KW  - Computer aided instruction
+KW  - Education computing
+KW  - Intelligent vehicle highway systems
+KW  - Large datasets
+KW  - Python
+KW  - Accurate calculations
+KW  - Common strategy
+KW  - High quality
+KW  - Intelligent tutoring
+KW  - Language model
+KW  - Language processing
+KW  - Mathematical reasoning
+KW  - Processing capability
+KW  - Student teachers
+KW  - Tutoring system
+KW  - Students
+PB  - Association for Computing Machinery
+SN  - 979-840071618-8 (ISBN)
+LA  - English
+J2  - ACM Int. Conf. Proc. Ser.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 27 June 2025; Cited By: 6
+ER  -
+
+TY  - JOUR
+AU  - Wei, X.
+AU  - Wang, L.
+AU  - Lee, L.-K.
+AU  - Liu, R.
+TI  - Multiple Generative AI Pedagogical Agents in Augmented Reality Environments: A Study on Implementing the 5E Model in Science Education
+PY  - 2025
+T2  - Journal of Educational Computing Research
+VL  - 63
+IS  - 2
+SP  - 336
+EP  - 371
+DO  - 10.1177/07356331241305519
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85211165915&doi=10.1177%2f07356331241305519&partnerID=40&md5=ab592abf16398732391a5dd3bd4ca7ed
+AD  - School of Educational Technology, Northwest Normal University, Lanzhou, China
+AD  - Department of Curriculum, Instruction, and Technology, Auburn University at Montgomery, Montgomery, AL, United States
+AD  - School of Science and Technology, Hong Kong Metropolitan University, Hong Kong
+AB  - Notwithstanding the growing advantages of incorporating Augmented Reality (AR) in science education, the pedagogical use of AR combined with Pedagogical Agents (PAs) remains underexplored. Additionally, few studies have examined the integration of Generative Artificial Intelligence (GAI) into science education to create GAI-enhanced PAs (GPAs) that enrich the learning experiences. To address these gaps, this study designed and implemented a GPA-enhanced 5E model within AR environments to scaffold students’ science learning. A mixed-methods design was conducted to investigate the effectiveness of the proposed approach on students’ academic achievement, cognitive load, and their perceptions of GPAs as learning aids through using the 5E model. Sixty sixth-grade students from two complete classes were randomly assigned to either an experimental group engaged in AR science learning with a GPA-enhanced 5E approach or a control group that followed the traditional 5E method. The findings revealed that the GPA-enhanced 5E approach in AR environments significantly improved students’ academic achievement and decreased cognitive load. Furthermore, students in the experimental group reported positive perceptions of the GPA-enhanced 5E method during the AR science lessons. The findings offer valuable insights for instructional designers and educators who leverage advanced educational technologies to support science learning aligned with constructivist principles. © The Author(s) 2024.
+KW  - 5E learning model
+KW  - augmented reality
+KW  - elementary science education
+KW  - generative artificial intelligence
+KW  - pedagogical agents
+PB  - SAGE Publications Inc.
+SN  - 07356331 (ISSN)
+LA  - English
+J2  - J. Educ. Comput. Res.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 27 June 2025; Cited By: 4; Correspondence Address: R. Liu; School of Educational Technology, Northwest Normal University, Lanzhou, 967 Anning East Road, Gansu, 730070, China; email: isnow0211@163.com
+ER  -
+
+TY  - JOUR
+AU  - Bousalem, S.
+AU  - Benchikha, F.
+AU  - Marir, N.
+TI  - Personalized Learning Through MBTI Prediction: A Deep Learning Approach Integrated with Learner Profile Ontology
+PY  - 2025
+T2  - IEEE Access
+VL  - 13
+SP  - 30861
+EP  - 30873
+DO  - 10.1109/ACCESS.2025.3542701
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85217922035&doi=10.1109%2fACCESS.2025.3542701&partnerID=40&md5=be65d5b9fb7462565b92a756aa16f065
+AD  - University of Abdelhamid Mehri Constantine 2, LIRE Laboratory, Faculty of New Technologies of Information and Communication, Constantine, 25016, Algeria
+AB  - Personalized e-learning systems have transformed the delivery of educational content, aligning it more closely with individual learners' needs. Among the various approaches to achieving this personalization, the Myers-Briggs Type Indicator (MBTI) personality prediction emerged as a valuable tool for adapting learning content to match individual preferences and learning styles. Despite these advancements, personalized e-learning systems quite struggle with handling large volumes of information, often facing difficulties in balancing prediction accuracy and learning efficiency. To ensure personalization, integrating advanced technologies such as machine learning and deep learning is crucial for creating more sustainable and effective learning environments. This paper proposes a novel framework that integrates MBTI personality prediction with a deep learning approach and a Learner Profile ontology (LPO) to enhance the personalization and recommendation process. The proposed method employs the BERT model, a Transformer-based architecture, for personality prediction, combined with an oversampling technique to handle data imbalance. The predicted personality type is incorporated into a Semantic Web Rule Language (SWRL)-based ontology enriched with WordNet, enabling better alignment of learning resources with individual learner traits. Experimental results validate the efficacy of this integrated approach, demonstrating significant improvements in learner satisfaction and educational outcomes.  © 2025 IEEE.
+KW  - MBTI
+KW  - ontology
+KW  - personalized learning system
+KW  - recommendation
+KW  - transformer
+KW  - Adversarial machine learning
+KW  - Deep reinforcement learning
+KW  - Federated learning
+KW  - Prediction models
+KW  - Self-supervised learning
+KW  - Learner profiles
+KW  - Learning approach
+KW  - Myers-Briggs Type Indicators
+KW  - Ontology's
+KW  - Personality predictions
+KW  - Personalizations
+KW  - Personalized e-learning
+KW  - Personalized learning systems
+KW  - Recommendation
+KW  - Transformer
+KW  - Contrastive Learning
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 21693536 (ISSN)
+LA  - English
+J2  - IEEE Access
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 27 June 2025; Cited By: 2; Correspondence Address: S. Bousalem; University of Abdelhamid Mehri Constantine 2, LIRE Laboratory, Faculty of New Technologies of Information and Communication, Constantine, 25016, Algeria; email: samia.bousalem@univ-constantine2.dz
+ER  -
+
+TY  - CONF
+AU  - Alier-Forment, M.
+AU  - Pereira-Valera, J.
+AU  - Casañ-Guerrero, M.J.
+AU  - Garcia-Penalvo, F.J.
+TI  - Enhancing Learning Assistant Quality Through Automated Feedback Analysis and Systematic Testing in the LAMB Framework
+PY  - 2025
+T2  - Lecture Notes in Computer Science
+VL  - 15807 LNCS
+SP  - 3
+EP  - 12
+DO  - 10.1007/978-3-031-93567-1_1
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105008203325&doi=10.1007%2f978-3-031-93567-1_1&partnerID=40&md5=32b7c57a5c54c7a74460e1d29b001c62
+AD  - Universitat Politècnica de Catalunya, Barcelona, Spain
+AD  - Universidad Pais Vasco EHUS, Donosti, Spain
+AD  - Universidad De Salamanca, Salamanca, Spain
+AB  - The Learning Assistant Manager and Builder (LAMB) is an open-source software framework that lets educators build and deploy AI learning assistants within institutional Learning Management Systems (LMS) without coding expertise. It addresses critical challenges in educational AI by providing privacy-focused integration, controlled knowledge bases, and seamless deployment through standard protocols. This paper presents major enhancements that enable systematic quality assurance and continuous improvement of these learning assistants. The new LAMB includes mechanisms for structured feedback on real-world assistant behavior, transforming it into a test suite with curated prompts and expected correct or incorrect responses. When changes are made—such as prompt engineering, retrieval-augmented generation optimization, or knowledge base expansions—this suite enables automated validation of their impact. A key innovation is using frontier large language models (LLMs) to evaluate responses automatically, generating detailed reports that reveal improvement areas and confirm performance gains. This systematic feedback-driven testing fosters continuous refinement while preserving quality standards. Validation studies show measurable boosts in reliability and consistency. In various educational contexts, the framework identifies edge cases, maintains consistency across iterations, and provides actionable insights. Automated testing is especially beneficial for assistants with extensive knowledge bases and complex interaction patterns. This work advances educational AI by providing a robust methodology for quality assurance and ongoing improvement of learning assistants. Its structured feedback and automated evaluations ensure alignment with educational goals while refining assistants over time. The enhanced LAMB framework offers a scalable and reliable solution for educators aiming to integrate AI-driven support into their LMS environments. © The Author(s), under exclusive license to Springer Nature Switzerland AG 2025.
+KW  - artificial intelligence in education
+KW  - automated testing
+KW  - continuous improvement
+KW  - Learning assistants
+KW  - LLM Evals
+KW  - prompt engineering
+KW  - quality assurance
+KW  - retrieval-augmented generation
+KW  - Automatic test pattern generation
+KW  - Automation
+KW  - Engineering education
+KW  - Knowledge based systems
+KW  - Learning systems
+KW  - Open source software
+KW  - Open systems
+KW  - Quality control
+KW  - Verification
+KW  - Artificial intelligence in education
+KW  - Automated feedback
+KW  - Automated testing
+KW  - Continuous improvements
+KW  - Language model
+KW  - Large language model evals
+KW  - Learning assistant
+KW  - Learning management system
+KW  - Prompt engineering
+KW  - Retrieval-augmented generation
+KW  - Quality assurance
+A2  - Smith B.K.
+A2  - Borge M.
+PB  - Springer Science and Business Media Deutschland GmbH
+SN  - 03029743 (ISSN); 978-303193566-4 (ISBN)
+LA  - English
+J2  - Lect. Notes Comput. Sci.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 27 June 2025; Cited By: 0; Correspondence Address: M. Alier-Forment; Universitat Politècnica de Catalunya, Barcelona, Spain; email: marc.alier@upc.edu
+ER  -
+
+TY  - CONF
+AU  - Keerthichandra, M.
+AU  - Vihidun, T.
+AU  - Lakshan, S.
+AU  - Perera, I.
+TI  - Large Language Model-Based Student Intent Classification for Intelligent Tutoring Systems
+PY  - 2024
+T2  - Proceedings of ICITR 2024 - 9th International Conference on Information Technology Research: Harnessing the Potential of Information Technology
+DO  - 10.1109/ICITR64794.2024.10857758
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85218222117&doi=10.1109%2fICITR64794.2024.10857758&partnerID=40&md5=9eddb288097cf50bf3d607ab3b22f1c5
+AD  - Department of Computer Science & Engineering, University of Moratuwa, Katubedda, Sri Lanka
+AB  - Intent classification is a foundational element in natural language processing, enabling conversational systems to accurately interpret user intent. In educational contexts, effective intent classification within Intelligent Tutoring Systems (ITS) can significantly enhance personalized student interactions. This paper presents the intent classification module for the Learner-Aware AI (LAAI) tutor, a dialogue-based ITS designed to recognize and respond to diverse student behaviors, such as valid answers, questions, expressions of boredom, and requests for clarification. We introduce LAAIIntentD, a custom data set specifically designed for this task, containing 1,244 labeled training records and 278 evaluation records. Leveraging this dataset, we fine-tuned a large language model (LLM) LAAI-intent-classifier using Low-Rank Adaptation (LoRA) techniques to create a lightweight yet powerful intent classifier. Our fine-tuned model achieves better overall Recall (0.86), Precision (0.85), and F1-Score (0.83) compared to GPT-based methods. GPT models with CoT and Few-Shot prompting improve Recall but sacrifice F1 scores. This highlights our model’s efficiency in balancing accuracy and scalability for ITS applications. © 2024 IEEE.
+KW  - Few-shot prompting
+KW  - Intelligent Tutoring System (ITS)
+KW  - Intent classification
+KW  - LAAI tutor
+KW  - Large Language Model (LLM)
+KW  - Adversarial machine learning
+KW  - Federated learning
+KW  - Intelligent systems
+KW  - Modeling languages
+KW  - Natural language processing systems
+KW  - Self-supervised learning
+KW  - Students
+KW  - Teaching
+KW  - Zero-shot learning
+KW  - F1 scores
+KW  - Few-shot prompting
+KW  - Intelligent tutoring
+KW  - Intelligent tutoring system
+KW  - Intent classification
+KW  - Language model
+KW  - Large language model
+KW  - Learner-aware AI tutor
+KW  - Model-based OPC
+KW  - Tutoring system
+KW  - Contrastive Learning
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 979-833151142-5 (ISBN)
+LA  - English
+J2  - Proc. ICITR - Int. Conf. Inf. Technol. Res.: Harnessing Potential Inf. Technol.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 27 June 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Tseng, Y.-J.
+AU  - Yadav, G.
+AU  - Hou, X.
+AU  - Wu, M.
+AU  - Chou, Y.-S.
+AU  - Chen, C.C.
+AU  - Wu, C.-C.
+AU  - Chen, S.-G.
+AU  - Lin, Y.-J.
+AU  - Liao, G.
+AU  - Koedinger, K.R.
+TI  - ActiveAI: The Effectiveness of an Interactive Tutoring System in Developing K-12 AI Literacy
+PY  - 2024
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 15159 LNCS
+SP  - 452
+EP  - 467
+DO  - 10.1007/978-3-031-72315-5_31
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85205130710&doi=10.1007%2f978-3-031-72315-5_31&partnerID=40&md5=e7c86d0e780b86086b14b572532081ba
+AD  - Carnegie Mellon University, Pittsburgh, PA, United States
+AD  - University of Michigan, Ann Arbor, MI, United States
+AD  - National Tsing Hua University, Hsinchu, Taiwan
+AB  - As we witness groundbreaking advancements in Artificial Intelligence (AI), it is clear that the next generation must be equipped with AI literacy: the skill to interact, evaluate, and collaborate with AI systems. This study introduces ActiveAI, a scalable web-based tutoring system aligned with AI4K12’s five big ideas in AI, designed to foster AI literacy among K-12 students through active learning and interaction with intelligent agents. A controlled classroom study involving 171 middle school learners was conducted to assess the effectiveness of ActiveAI in fostering AI literacy skills and competency toward AI. Results showed that, compared to students in the tell-and-practice control condition, students who used ActiveAI exhibited higher post-test performance in the module about how next-word prediction and temperature work in large language models. Students also developed higher self-reported competence toward AI after using ActiveAI than in the control condition. We conclude by suggesting assessment designs that promote deeper engagement with AI concepts by addressing students’ common misconceptions, like “AI thinks just like humans”, in K-12 AI literacy education.  © The Author(s), under exclusive license to Springer Nature Switzerland AG 2024.
+KW  - AI education
+KW  - AI Literacy
+KW  - Classroom Implementation
+KW  - Experiential Learning
+KW  - Instructional Design
+KW  - Intelligent Agents
+KW  - K-12
+KW  - Active learning
+KW  - Contrastive Learning
+KW  - Federated learning
+KW  - Self-supervised learning
+KW  - Students
+KW  - Artificial intelligence education
+KW  - Artificial intelligence literacy
+KW  - Artificial intelligence systems
+KW  - Classroom implementation
+KW  - Condition
+KW  - Experiential learning
+KW  - Instructional designs
+KW  - K-12
+KW  - Tutoring system
+KW  - Web-based tutoring systems
+KW  - Adversarial machine learning
+A2  - Ferreira Mello R.
+A2  - Rummel N.
+A2  - Jivet I.
+A2  - Pishtari G.
+A2  - Ruipérez Valiente J.A.
+PB  - Springer Science and Business Media Deutschland GmbH
+SN  - 03029743 (ISSN); 978-303172314-8 (ISBN)
+LA  - English
+J2  - Lect. Notes Comput. Sci.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 27 June 2025; Cited By: 2; Correspondence Address: Y.-J. Tseng; Carnegie Mellon University, Pittsburgh, United States; email: yingjuit@andrew.cmu.edu
+ER  -
+
+TY  - JOUR
+AU  - Mukherjee, M.
+AU  - Le, J.
+AU  - Chow, Y.-W.
+TI  - Generative AI-Enhanced Intelligent Tutoring System for Graduate Cybersecurity Programs
+PY  - 2025
+T2  - Future Internet
+VL  - 17
+IS  - 4
+C7  - 154
+DO  - 10.3390/fi17040154
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105003478725&doi=10.3390%2ffi17040154&partnerID=40&md5=74395f1672632c4a3bb56bea5a4ba5a8
+AD  - Institute of Cybersecurity and Cryptology, School of Computing and Information Technology, University of Wollongong, Wollongong, 2522, NSW, Australia
+AB  - Due to the widespread applicability of generative artificial intelligence, we have seen it adopted across many areas of education, providing universities with new opportunities, particularly in cybersecurity education. With the industry facing a skills shortage, this paper explores the use of generative artificial intelligence in higher cybersecurity education as an intelligent tutoring system to enhance factors leading to positive student outcomes. Despite its success in content generation and assessment within cybersecurity, the field’s multidisciplinary nature presents additional challenges to scalability and generalisability. We propose a solution using agents to orchestrate specialised large language models and to demonstrate its applicability in graduate level cybersecurity topics offered at a leading Australian university. We aim to show a generalisable and scalable solution to diversified educational paradigms, highlighting its relevant features, and a method to evaluate the quality of content as well as the general effectiveness of the intelligent tutoring system on subjective factors aligned with positive student outcomes. We further explore areas for future research in model efficiency, privacy, security, and scalability. © 2025 by the authors.
+KW  - agent-based systems
+KW  - cybersecurity education
+KW  - educational technology
+KW  - generative artificial intelligence
+KW  - intelligent tutoring system
+KW  - large language models (LLMs)
+KW  - Adversarial machine learning
+KW  - Chatbots
+KW  - Intelligent agents
+KW  - Teaching
+KW  - Agent-based systems
+KW  - Cyber security
+KW  - Cyber-security educations
+KW  - Generative artificial intelligence
+KW  - Intelligent tutoring
+KW  - Intelligent tutoring system
+KW  - Language model
+KW  - Large language model
+KW  - Student outcomes
+KW  - Tutoring system
+KW  - Students
+PB  - Multidisciplinary Digital Publishing Institute (MDPI)
+SN  - 19995903 (ISSN)
+LA  - English
+J2  - Future Internet
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 27 June 2025; Cited By: 0; Correspondence Address: M. Mukherjee; Institute of Cybersecurity and Cryptology, School of Computing and Information Technology, University of Wollongong, Wollongong, 2522, Australia; email: mm544@uowmail.edu.au
+ER  -
+
+TY  - CONF
+AU  - Pereira Júnior, C.
+AU  - Rodrigues, L.
+AU  - Costa, N.
+AU  - Macario Filho, V.
+AU  - Mello, R.
+TI  - Can VLM Understand Children’s Handwriting? An Analysis on Handwritten Mathematical Equation Recognition
+PY  - 2024
+T2  - Communications in Computer and Information Science
+VL  - 2150 CCIS
+SP  - 321
+EP  - 328
+DO  - 10.1007/978-3-031-64315-6_28
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85200259647&doi=10.1007%2f978-3-031-64315-6_28&partnerID=40&md5=ee753c80debd403bdb2bb0cbd2602667
+AD  - Centro de Estudos Avançados de Recife, Recife, Brazil
+AD  - Instituto Federal Goiano, Iporá, Brazil
+AD  - Universidade Federal de Alagoas, Maceio, Brazil
+AD  - Universidade Federal Rural do Pernambuco, Recife, Brazil
+AB  - Handwriting Mathematical Expression Recognition has several applications, including the potential to make Intelligent Tutoring Systems (ITS) more accessible to underserved regions. However, young children’s handwriting pose several challenges, even for instructors, calling for advanced approaches to understand their writings. This paper explores the potential of pre-trained Vision-Language Models (VLM) for recognizing numbers or mathematical expressions handwritten by children by comparing GPT-4V, LLaVA 1.5, and CogVLM on a dataset of 251 images. Results indicate that while pre-trained models offer promise, their performance without fine-tuning or zero-shot learning remains inadequate. Results reveal the challenges of utilizing pre-trained VLMs for recognizing children’s handwriting, particularly in educational settings. Issues such as poor handwriting and partial erasures pose difficulties for existing models, with GPT-4V’s safety system limitations hindering its efficacy. In general, CogVLM presented the best performance. GPT-4V exhibited superior performance in recognizing equations, but still struggles with handwritten content, highlighting the need for model refinement and data policies. This study contributes insights into the potential of existing pre-trained models in educational contexts and demonstrates the importance of, for example, fine-tuning to domain-specific datasets. Continued research is necessary to enhance VLM capabilities for educational support, particularly in children’s handwriting recognition. © The Author(s), under exclusive license to Springer Nature Switzerland AG 2024.
+KW  - Handwriting
+KW  - Mathematical Education
+KW  - VLM
+KW  - Character recognition
+KW  - Computer aided instruction
+KW  - Education computing
+KW  - Intelligent vehicle highway systems
+KW  - Expression recognition
+KW  - Handwriting
+KW  - Intelligent tutoring
+KW  - Language model
+KW  - Mathematical educations
+KW  - Mathematical equations
+KW  - Mathematical expressions
+KW  - Performance
+KW  - Tutoring system
+KW  - Vision-language model
+KW  - Zero-shot learning
+A2  - Olney A.M.
+A2  - Chounta I.-A.
+A2  - Liu Z.
+A2  - Santos O.C.
+A2  - Bittencourt I.I.
+PB  - Springer Science and Business Media Deutschland GmbH
+SN  - 18650929 (ISSN); 978-303164314-9 (ISBN)
+LA  - English
+J2  - Commun. Comput. Info. Sci.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 27 June 2025; Cited By: 2; Correspondence Address: C. Pereira Júnior; Centro de Estudos Avançados de Recife, Recife, Brazil; email: cleon.junior@ifgoiano.edu.br; C. Pereira Júnior; Instituto Federal Goiano, Iporá, Brazil; email: cleon.junior@ifgoiano.edu.br
+ER  -
+
+TY  - CONF
+AU  - Scarlatos, A.
+AU  - Smith, D.
+AU  - Woodhead, S.
+AU  - Lan, A.
+TI  - Improving the Validity of Automatically Generated Feedback via Reinforcement Learning
+PY  - 2024
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 14829 LNAI
+SP  - 280
+EP  - 294
+DO  - 10.1007/978-3-031-64302-6_20
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85199643699&doi=10.1007%2f978-3-031-64302-6_20&partnerID=40&md5=15e59698c8a8353482e09119114690d4
+AD  - University of Massachusetts Amherst, Amherst, United States
+AD  - Eedi, London, United Kingdom
+AB  - Automatically generating feedback via large language models (LLMs) in intelligent tutoring systems and online learning platforms has the potential to improve the learning outcomes of many students. However, both feedback generation and evaluation are challenging: feedback content has to be valid especially in subjects like math, which requires models to understand the problem, the solution, and where the student’s error lies. Feedback also has to be pedagogically valid to reflect effective tutoring strategies, such as explaining possible misconceptions and encouraging the student, among other desirable features. In this work, we address both problems of automatically generating and evaluating feedback while considering both correctness and alignment. First, we propose a rubric for evaluating math feedback and show that GPT-4 is able to effectively use it to annotate human-written and LLM-generated feedback. Second, we propose a framework for feedback generation that optimizes both correctness and alignment using reinforcement learning (RL). Specifically, we use GPT-4’s annotations to create preferences over feedback pairs in an augmented dataset for training via direct preference optimization (DPO). We show that our methods significantly increase the correctness and alignment of generated feedback with Llama 2, an open-source LLM, qualitatively analyze our generation and evaluation systems using case studies, and outline several areas for future work. (Our code is available at https://github.com/umass-ml4ed/feedback-gen-dpo).  © The Author(s), under exclusive license to Springer Nature Switzerland AG 2024.
+KW  - Feedback Generation
+KW  - Human Preference Alignment
+KW  - Math Education
+KW  - Reinforcement Learning
+KW  - Computer aided instruction
+KW  - Education computing
+KW  - Learning systems
+KW  - Online systems
+KW  - Open systems
+KW  - Students
+KW  - Automatically generated
+KW  - Feedback generation
+KW  - Human preference alignment
+KW  - Intelligent tutoring
+KW  - Language model
+KW  - Math education
+KW  - Online learning
+KW  - Reinforcement learnings
+KW  - System learning
+KW  - Tutoring system
+KW  - Reinforcement learning
+A2  - Olney A.M.
+A2  - Chounta I.-A.
+A2  - Liu Z.
+A2  - Santos O.C.
+A2  - Bittencourt I.I.
+PB  - Springer Science and Business Media Deutschland GmbH
+SN  - 03029743 (ISSN); 978-303164301-9 (ISBN)
+LA  - English
+J2  - Lect. Notes Comput. Sci.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 27 June 2025; Cited By: 7; Correspondence Address: A. Scarlatos; University of Massachusetts Amherst, Amherst, United States; email: ajscarlatos@cs.umass.edu
+ER  -
+
+TY  - CONF
+AU  - Ma, I.
+AU  - Krone-Martins, A.
+AU  - Videira Lopes, C.
+TI  - Integrating AI Tutors in a Programming Course
+PY  - 2024
+T2  - SIGCSE Virtual 2024 - Proceedings of the 2024 ACM Virtual Global Computing Education Conference V. 1
+SP  - 130
+EP  - 136
+DO  - 10.1145/3649165.3690094
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85215537555&doi=10.1145%2f3649165.3690094&partnerID=40&md5=59190b5c1b80d401241a6424e5cbeaa8
+AD  - University of California, Irvine, Irvine, CA, United States
+AB  - RAGMan is an LLM-powered tutoring system that can support a variety of course-specific and homework-specific AI tutors. RAGMan leverages Retrieval Augmented Generation (RAG), as well as strict instructions, to ensure the alignment of the AI tutors' responses. By using RAGMan's AI tutors, students receive assistance with their specific homework assignments without directly obtaining solutions, while also having the ability to ask general programming-related questions. RAGMan was deployed as an optional resource in an introductory programming course with an enrollment of 455 students. It was configured as a set of five homework-specific AI tutors. This paper describes the interactions the students had with the AI tutors, the students' feedback, and a comparative grade analysis. Overall, about half of the students engaged with the AI tutors, and the vast majority of the interactions were legitimate homework questions. When students posed questions within the intended scope, the AI tutors delivered accurate responses 98% of the time. Among the students who used AI tutors, 78% reported that the tutors helped their learning. Beyond AI tutors' ability to provide valuable suggestions, students reported appreciating them for fostering a safe learning environment free from judgment. © 2024 Owner/Author.
+KW  - education
+KW  - large language models
+KW  - llms
+KW  - software engineering
+KW  - Curricula
+KW  - Teaching
+KW  - Accurate response
+KW  - General programming
+KW  - Homework assignments
+KW  - Introductory programming course
+KW  - Language model
+KW  - Large language model
+KW  - Llms
+KW  - Programming course
+KW  - Student feedback
+KW  - Tutoring system
+KW  - Students
+PB  - Association for Computing Machinery, Inc
+SN  - 979-840070598-4 (ISBN)
+LA  - English
+J2  - SIGCSE Virtual - Proc. ACM Virtual Global Comput. Educ. Conf. V. 1
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 27 June 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Rudolph, E.
+AU  - Seer, H.
+AU  - Mothes, C.
+AU  - Albrecht, J.
+TI  - Automated feedback generation in an intelligent tutoring system for counselor education
+PY  - 2024
+T2  - Annals of Computer Science and Intelligence Systems
+IS  - 2024
+SP  - 501
+EP  - 512
+DO  - 10.15439/2024F1649
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85212303042&doi=10.15439%2f2024F1649&partnerID=40&md5=4e0b603778cd7ede518b8876cc48d157
+AD  - Nuremberg Institute of Technology Georg Simon Ohm, Germany
+AB  - This paper investigates the implementation of AI-driven feedback in an intelligent tutoring system (ITS) developed for training of counselors. By using LLMs, the study explores the automatic generation of feedback for communication-intensive tasks such as online counseling. The evaluation compares different feedback methods, including the sandwich, WWW and STATE methods, and assesses their emotional and objective impact. The results show that AI-generated feedback fulfills objective criteria better than emotional ones. Fine-tuning an open source LLM can improve both the emotional and objective quality of feedback. Furthermore, the study examines the acceptance of AI feedback among aspiring counselors, highlighting the influence of familiarity with AI on acceptance levels. Ethical considerations, including bias and hallucination, are addressed, with recommendations for risk mitigation through multi-feedback options and expert supervision. This research contributes to the understanding of the role of AI in improving digital counseling practices and highlights the need for continuous evaluation and ethical considerations.  © 2024 Polish Information Processing Society.
+KW  - Adversarial machine learning
+KW  - Federated learning
+KW  - Supervised learning
+KW  - Teaching
+KW  - Automated feedback
+KW  - Automatic Generation
+KW  - Emotional quality
+KW  - Ethical considerations
+KW  - Fine tuning
+KW  - Intelligent tutoring
+KW  - Objective criteria
+KW  - Objective qualities
+KW  - Open-source
+KW  - Tutoring system
+KW  - Contrastive Learning
+A2  - Bolanowski M.
+A2  - Ganzha M.
+A2  - Maciaszek L.
+A2  - Maciaszek L.
+A2  - Paprzycki M.
+A2  - Slezak D.
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 23005963 (ISSN)
+LA  - English
+J2  - Ann. Comput. Sci. Inf. Syst.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 27 June 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Makharia, R.
+AU  - Kim, Y.C.
+AU  - Bin Jo, S.
+AU  - Kim, M.A.
+AU  - Jain, A.
+AU  - Agarwal, P.
+AU  - Srivastava, A.
+AU  - Agarwal, A.V.
+AU  - Agarwal, P.
+TI  - AI Tutor Enhanced with Prompt Engineering and Deep Knowledge Tracing
+PY  - 2024
+T2  - 2024 IEEE International Conference on Interdisciplinary Approaches in Technology and Management for Social Innovation, IATMSI 2024
+DO  - 10.1109/IATMSI60426.2024.10503187
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85192242215&doi=10.1109%2fIATMSI60426.2024.10503187&partnerID=40&md5=2b8ddb29276e48c48ee6e7db3da3d065
+AD  - TagHive Inc., Ai R&d, India
+AD  - TagHive Inc., Ai R&d, South Korea
+AD  - TagHive Inc., Development Team, India
+AD  - Planning Team, TagHive Inc., South Korea
+AD  - TagHive Inc., South Korea
+AB  - The evolving educational landscape necessitates creative solutions to address the demand for immediate and personalized academic support. This study explores the integration of prompt engineering of the OpenAI's Generative Pre-trained Transformer (GPT) and Deep Knowledge Tracing (DKT) to develop an AI tutor capable of shaping responses to students' knowledge levels, promoting a dynamic and adaptive learning experience. By leveraging Large Language Models (LLMs) like GPT-3.5 and integrating DKT, our AI tutor addresses the need for real-time, tailored academic assistance. LLMs serve as virtual instructors, explaining concepts and providing detailed solutions, while DKT ensures responses align with the student's knowledge level, optimizing challenge and engagement. Our research introduces an AI tutor that revolutionizes personalized learning experiences. Students can interact with the AI tutor by shaking their device during quizzes, initiating customized assistance and encouraging a deeper understanding of concepts, ultimately enhancing academic performance through individualized learning experiences.  © 2024 IEEE.
+KW  - chatbots
+KW  - deep knowledge tracing
+KW  - educational technology
+KW  - large language models
+KW  - prompt engineering
+KW  - virtual instructors
+KW  - Computational linguistics
+KW  - Deep learning
+KW  - E-learning
+KW  - Educational technology
+KW  - Engineering education
+KW  - Chatbots
+KW  - Deep knowledge
+KW  - Deep knowledge tracing
+KW  - Knowledge tracings
+KW  - Language model
+KW  - Large language model
+KW  - Learning experiences
+KW  - Prompt engineering
+KW  - Student knowledge
+KW  - Virtual instructors
+KW  - Students
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 979-835036052-3 (ISBN)
+LA  - English
+J2  - IEEE Int. Conf. Interdiscip. Approaches Technol. Manag. Soc. Innov., IATMSI
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 27 June 2025; Cited By: 4; Correspondence Address: R. Makharia; TagHive Inc., Ai R&d, India; email: radhika@tag-hive.com
+ER  -
+
+TY  - CONF
+AU  - Prasongpongchai, T.
+AU  - Pataranutaporn, P.
+AU  - Lapapirojn, A.
+AU  - Kanapornchai, C.
+AU  - Leong, J.
+AU  - Ouppaphan, P.
+AU  - Winson, K.
+AU  - Lertsutthiwong, M.
+AU  - Maes, P.
+TI  - Effects of Proactive Interaction and Instructor Choice in AI-Generated Virtual Instructors for Financial Education
+PY  - 2024
+T2  - Proceedings - Frontiers in Education Conference, FIE
+DO  - 10.1109/FIE61694.2024.10893581
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105000788802&doi=10.1109%2fFIE61694.2024.10893581&partnerID=40&md5=ab351442fe5c45184108ed996604cc61
+AD  - Beacon Interface, Kasikorn Business-Technology Group, Nonthaburi, Thailand
+AD  - Massachusetts Institute of Technology, Mit Media Lab, Cambridge, MA, United States
+AD  - Kasikorn Labs, Kasikorn Business-Technology Group, Nonthaburi, Thailand
+AB  - This research full paper describes a web-based online learning platform that delivers financial literacy lessons via talking head videos of AI-generated personas with two additional core features: LLM-powered proactive chat-based question-and-answer interactivity, and personal choice of the AI instructor from a list of distinct personas. We conducted two comparative studies with a total of 233 Thai students aged 1825, which aim to 1) investigate the impact of interactivity and instructor selection on the learning experience, and 2) further explore the underlying factors at play with instructor selection by introducing AI instructors' backstories as an extra intervention. We found that enabling interactivity significantly enhanced learning motivation, perceived learning facilitation, engagement, and virtual instructors' humanness compared to the passive setting. Providing learners with a choice of AI instructors provided minimal additional benefit. However, the learner's feeling of relatedness toward the instructor is a significant positive predictor of learning motivation, positive emotion, and agent credibility, while goal alignment with the agent correlates with perceived learning facilitation, and admiration corresponds with perceived agent humanness. These findings underscore the potential of interactive virtual instructors-ones that interactively encourage learners to reflect on the teaching materials throughout the lesson through two-way interaction-in enhancing motivational and experiential aspects of remote education, even if they do not significantly impact comprehension, and the importance of promoting learner's relatedness and goal alignment with the agent in boosting other aspects of the learning experience. © 2024 IEEE.
+KW  - AI for Education
+KW  - AI-Generated Virtual Instructor
+KW  - Financial Literacy Education
+KW  - Human-AI Interaction
+KW  - Pedagogical Agent
+KW  - Personalized AI
+KW  - Adversarial machine learning
+KW  - Chatbots
+KW  - Contrastive Learning
+KW  - Decentralized finance
+KW  - Federated learning
+KW  - Finance
+KW  - Teaching
+KW  - Virtual reality
+KW  - AI for education
+KW  - AI-generated virtual instructor
+KW  - Financial literacy
+KW  - Financial literacy education
+KW  - Human-AI interaction
+KW  - Interactivity
+KW  - Learning experiences
+KW  - Pedagogical agents
+KW  - Personalized AI
+KW  - Virtual instructors
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 15394565 (ISSN); 979-835035150-7 (ISBN)
+LA  - English
+J2  - Proc. Front. Educ. Conf. FIE
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 27 June 2025; Cited By: 0; CODEN: PFECD
+ER  -
+
+TY  - JOUR
+AU  - Thurzo, A.
+TI  - Provable AI Ethics and Explainability in Medical and Educational AI Agents: Trustworthy Ethical Firewall
+PY  - 2025
+T2  - Electronics (Switzerland)
+VL  - 14
+IS  - 7
+C7  - 1294
+DO  - 10.3390/electronics14071294
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105002350991&doi=10.3390%2felectronics14071294&partnerID=40&md5=a5ea31626c678145113bf4eb6aee5f67
+AD  - Department of Orthodontics, Regenerative and Forensic Dentistry, Faculty of Medicine, Comenius University in Bratislava, Bratislava, 814 99, Slovakia
+AD  - Department of Medical Education and Simulations, Faculty of Medicine, Comenius University in Bratislava, Bratislava, 814 99, Slovakia
+AB  - Rapid advances in artificial intelligence are transforming high-stakes fields like medicine and education while raising pressing ethical challenges. This paper introduces the Ethical Firewall Architecture—a comprehensive framework that embeds mathematically provable ethical constraints directly into AI decision-making systems. By integrating formal verification techniques, blockchain-inspired cryptographic immutability, and emotion-like escalation protocols that trigger human oversight when needed, the architecture ensures that every decision is rigorously certified to align with core human values before implementation. The framework also addresses emerging issues, such as biased value systems in large language models and the risks associated with accelerated AI learning. In addition, it highlights the potential societal impacts—including workforce displacement—and advocates for new oversight roles like the Ethical AI Officer. The findings suggest that combining rigorous mathematical safeguards with structured human intervention can deliver AI systems that perform efficiently while upholding transparency, accountability, and trust in critical applications. © 2025 by the author.
+KW  - AGI precursors
+KW  - Bayesian risk thresholds
+KW  - ChatGPT
+KW  - cryptographic immutability
+KW  - deep research
+KW  - educational AI
+KW  - emergent value systems
+KW  - ethical AI frameworks
+KW  - ethical AI officer
+KW  - explainable AI
+KW  - general artificial intelligence
+KW  - human-centered oversight
+KW  - medical AI
+KW  - medical AI governance
+KW  - provable AI ethics
+KW  - trust and accountability
+PB  - Multidisciplinary Digital Publishing Institute (MDPI)
+SN  - 20799292 (ISSN)
+LA  - English
+J2  - Electronics (Switzerland)
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 27 June 2025; Cited By: 4
+ER  -
+
+TY  - JOUR
+AU  - Alier, M.
+AU  - Pereira, J.
+AU  - García-Peñalvo, F.J.
+AU  - Casañ, M.J.
+AU  - Cabré, J.
+TI  - LAMB: An open-source software framework to create artificial intelligence assistants deployed and integrated into learning management systems
+PY  - 2025
+T2  - Computer Standards and Interfaces
+VL  - 92
+C7  - 103940
+DO  - 10.1016/j.csi.2024.103940
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85208654899&doi=10.1016%2fj.csi.2024.103940&partnerID=40&md5=332358de3d6351ecc0ce0211f574c392
+AD  - UPC Universitat Politècnica de Catalunya, Barcelona Tech, Barcelona, Spain
+AD  - Computer Science Faculty, UPV/EHU, San Sebastián, Spain
+AD  - Computer Science Department, Research Institute for Educational Sciences (IUCE), Universidad de Salamanca, Salamanca, Spain
+AB  - This paper presents LAMB (Learning Assistant Manager and Builder), an innovative open-source software framework designed to create AI-powered Learning Assistants tailored for integration into learning management systems. LAMB addresses critical gaps in existing educational AI solutions by providing a framework specifically designed for the unique requirements of the education sector. It introduces novel features, including a modular architecture for seamless integration of AI assistants into existing LMS platforms and an intuitive interface for educators to create custom AI assistants without coding skills. Unlike existing AI tools in education, LAMB provides a comprehensive framework that addresses privacy concerns, ensures alignment with institutional policies, and promotes using authoritative sources. LAMB leverages the capabilities of large language models and associated generative artificial intelligence technologies to create generative intelligent learning assistants that enhance educational experiences by providing personalized learning support based on clear directions and authoritative fonts of information. Key features of LAMB include its modular architecture, which supports prompt engineering, retrieval-augmented generation, and the creation of extensive knowledge bases from diverse educational content, including video sources. The development and deployment of LAMB were iteratively refined using a minimum viable product approach, exemplified by the learning assistant: “Macroeconomics Study Coach,” which effectively integrated lecture transcriptions and other course materials to support student inquiries. Initial validations in various educational settings demonstrate the potential that learning assistants created with LAMB have to enhance teaching methodologies, increase student engagement, and provide personalized learning experiences. The system's usability, scalability, security, and interoperability with existing LMS platforms make it a robust solution for integrating artificial intelligence into educational environments. LAMB's open-source nature encourages collaboration and innovation among educators, researchers, and developers, fostering a community dedicated to advancing the role of artificial intelligence in education. This paper outlines the system architecture, implementation details, use cases, and the significant benefits and challenges encountered, offering valuable insights for future developments in artificial intelligence assistants for any sector. © 2024 The Author(s)
+KW  - Education domain
+KW  - Generative artificial intelligence
+KW  - IMS learning tools interoperability (LTI)
+KW  - Large language model (LLM)
+KW  - Learning assistant
+KW  - Retrieval-Augmented Generation (RAG)
+KW  - Adversarial machine learning
+KW  - Contrastive Learning
+KW  - Curricula
+KW  - Federated learning
+KW  - Students
+KW  - Teaching
+KW  - Education domain
+KW  - Generative artificial intelligence
+KW  - IMS learning tool interoperability
+KW  - Language model
+KW  - Large language model
+KW  - Learning assistant
+KW  - Learning tool
+KW  - Open-source softwares
+KW  - Retrieval-augmented generation
+KW  - Software frameworks
+KW  - Open source software
+PB  - Elsevier B.V.
+SN  - 09205489 (ISSN)
+LA  - English
+J2  - Comput Stand Interfaces
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 27 June 2025; Cited By: 12; Correspondence Address: F.J. García-Peñalvo; Computer Science Department, Research Institute for Educational Sciences (IUCE), Universidad de Salamanca, Salamanca, Spain; email: fgarcia@usal.es; CODEN: CSTIE
+ER  -
+
+TY  - CONF
+AU  - Lilholt, A.
+AU  - Heverin, T.
+TI  - Mapping Software-Engineering Industry AI Use to Software-Engineering Curriculum: Developing the AI-USE Framework
+PY  - 2024
+T2  - Proceedings of the 4th International Conference on AI Research, ICAIR 2024
+SP  - 234
+EP  - 242
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85215657483&partnerID=40&md5=e28e0917d4449d472dc8a3fcc6acd658
+AD  - The Baldwin School, Bryn Mawr, United States
+AB  - Estimates predict a global deficit of 4 million software engineers by 2025, further complicated by the software engineering (SE) industry's escalating use of artificial intelligence (AI). To tackle this issue, our research suggests that computer science (CS) curricula in middle and high schools need to be updated to incorporate SE industry segments that significantly employ AI. This strategic curriculum alignment is significant for preparing a workforce equipped to meet future industry demands. Our initial analysis involved reviewing nine international AI education guidelines to evaluate current methods for integrating AI into SE education. The findings indicated a pronounced lack of specific guidance connecting AI applications in the SE industry with educational content. To address this, we performed a systematic literature review of 12 research papers focusing on AI's role across the SE industry, followed by multiple rounds of inductive content analysis. An industry segment was deemed "essential" if it was referenced in 75% or more of the papers' findings. Through this method, we identified 10 essential SE industry segments for inclusion in CS education: software development, software maintenance, process improvement, software economics, knowledge management, project management, software testing, software security, quality assurance, and deployment and operations (DevOps). These findings led to the creation of the AI-USE (Artificial Intelligence Usage in Software Engineering) framework, which maps these 10 key segments to the predominant uses of SE in the industry as identified in the literature. Further inductive content analysis helped us develop subsegments for these essential areas. Ongoing framework development involves refining these subsegments and gathering feedback from industry and academic professionals. We anticipate that the fully developed AI-USE framework will significantly enhance SE education, equipping the next generation of software engineers with the AI proficiency required to address the industry’s evolving demands. © Proceedings of the 4th International Conference on AI Research, ICAIR 2024.
+KW  - Artificial intelligence in education
+KW  - Computer science education
+KW  - Generative AI
+KW  - SE education
+KW  - Software engineering
+KW  - Application programs
+KW  - Computer software maintenance
+KW  - Computer software selection and evaluation
+KW  - Curricula
+KW  - Engineering education
+KW  - Integration testing
+KW  - Software design
+KW  - Software quality
+KW  - Teaching
+KW  - Artificial intelligence in education
+KW  - Computer Science Education
+KW  - Content analysis
+KW  - Curriculum developing
+KW  - Engineering industries
+KW  - Generative artificial intelligence
+KW  - Mapping softwares
+KW  - Software engineering curricula
+KW  - Software engineering education
+KW  - Subsegments
+KW  - Project management
+A2  - Goncalves C.
+A2  - Rouco J.C.D.
+PB  - Academic Conferences International Limited
+SN  - 979-833130946-6 (ISBN)
+LA  - English
+J2  - Proc. Int. Conf. AI Res., ICAIR
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 27 June 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Feng, W.
+AU  - Lai, X.
+AU  - Zhang, X.
+AU  - Fan, X.
+AU  - Du, Y.
+TI  - Research on the construction and application of intelligent tutoring system for english teaching based on generative pre-training model
+PY  - 2025
+T2  - Systems and Soft Computing
+VL  - 7
+C7  - 200232
+DO  - 10.1016/j.sasc.2025.200232
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105003742442&doi=10.1016%2fj.sasc.2025.200232&partnerID=40&md5=c54c03f6a2c98d43507f63269b07062b
+AD  - Department of Foreign Language Teaching and Research, Hebei University of Engineering Science, Shijiazhuang, 050091, China
+AD  - School of Civil Engineering and Architecture, Hebei University of Engineering Science, Shijiazhuang, 050091, China
+AB  - In the era of globalization and information technology, English is becoming more and more important as the main language of international communication, but the traditional English teaching model is difficult to meet the diverse needs of learners due to the uneven distribution of resources and the lack of personalized tutoring. In order to meet these challenges, this study uses a generative pre-training model to build an intelligent tutoring system for English teaching, aiming to innovate the English learning experience with the help of artificial intelligence technology and achieve personalized and efficient teaching guidance. The construction solution includes collecting data such as learners' English proficiency test scores, learning history, and self-reported learning preferences to create detailed learner profiles, integrating advanced generative pre-trained models such as GPT-based and fine-tuning with data related to English language teaching, and then automatically generating exercises based on learner profiles and dynamically adjusting the difficulty. The application of the system is reflected in the integration of natural language processing technology and generative models to provide immediate feedback after learners complete the exercises, such as analyzing the grammar, vocabulary use and coherence of English passages and pointing out mistakes, giving suggestions and explanations for corrections, as well as providing intelligent tutoring in the form of dialogues, such as examples, comparisons and related exercises to enhance understanding in response to learners' questions about grammar points. The experimental results show that compared with the traditional teaching mode, the use of this intelligent tutoring system increases the learners' progress in English listening, speaking, reading and writing by an average of 30 %, and the learning satisfaction increases by 40 %, especially in the improvement of oral expression and writing skills. © 2025
+KW  - English teaching
+KW  - Generative pre-training model
+KW  - Intelligence
+KW  - Teaching method
+KW  - Contrastive Learning
+KW  - Engineering education
+KW  - Natural language processing systems
+KW  - Supervised learning
+KW  - English teaching
+KW  - Generative pre-training model
+KW  - Globalisation
+KW  - Intelligence
+KW  - Intelligent tutoring
+KW  - Learner profiles
+KW  - Pre-training
+KW  - Teaching methods
+KW  - Training model
+KW  - Tutoring system
+KW  - Teaching
+PB  - Academic Press
+SN  - 27729419 (ISSN)
+LA  - English
+J2  - Syst. Soft. Comput.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 27 June 2025; Cited By: 0; Correspondence Address: X. Lai; Department of Foreign Language Teaching and Research, Hebei University of Engineering Science, Shijiazhuang, 050091, China; email: Xinhan_Lai@outlook.com
+ER  -
+
+TY  - JOUR
+AU  - Jaldi, C.D.
+AU  - Ilkou, E.
+AU  - Schroeder, N.
+AU  - Shimizu, C.
+TI  - Education in the era of Neurosymbolic AI
+PY  - 2025
+T2  - Journal of Web Semantics
+VL  - 85
+C7  - 100857
+DO  - 10.1016/j.websem.2024.100857
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85214136464&doi=10.1016%2fj.websem.2024.100857&partnerID=40&md5=78714176ec42864d85c7cafa1d295b16
+AD  - Wright State University, United States
+AD  - L3S Research Center, Leibniz University Hannover, Germany
+AD  - University of Florida, United States
+AB  - Education is poised for a transformative shift with the advent of neurosymbolic artificial intelligence (NAI), which will redefine how we support deeply adaptive and personalized learning experiences. The integration of Knowledge Graphs (KGs) with Large Language Models (LLMs), a significant and popular form of NAI, presents a promising avenue for advancing personalized instruction via neurosymbolic educational agents. By leveraging structured knowledge, these agents can provide individualized learning experiences that align with specific learner preferences and desired learning paths, while also mitigating biases inherent in traditional AI systems. NAI-powered education systems will be capable of interpreting complex human concepts and contexts while employing advanced problem-solving strategies, all grounded in established pedagogical frameworks. In this paper, we propose a system that leverages the unique affordances of KGs, LLMs, and pedagogical agents – embodied characters designed to enhance learning – as critical components of a hybrid NAI architecture. We discuss the rationale for our system design and the preliminary findings of our work. We conclude that education in the era of NAI will make learning more accessible, equitable, and aligned with real-world skills. This is an era that will explore a new depth of understanding in educational tools. © 2025 The Authors
+KW  - Agents
+KW  - Education
+KW  - Knowledge graphs
+KW  - Large language models
+KW  - Neurosymbolic AI
+KW  - Adversarial machine learning
+KW  - Contrastive Learning
+KW  - Federated learning
+KW  - Problem solving
+KW  - Adaptive learning
+KW  - Educational agents
+KW  - Integration of knowledge
+KW  - Knowledge graphs
+KW  - Language model
+KW  - Large language model
+KW  - Learning experiences
+KW  - Neurosymbolic AI
+KW  - Personalized instruction
+KW  - Personalized learning
+KW  - Knowledge graph
+PB  - Elsevier B.V.
+SN  - 15708268 (ISSN)
+LA  - English
+J2  - J. Web Semant.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 27 June 2025; Cited By: 2; Correspondence Address: C. Shimizu; Wright State University, United States; email: cogan.shimizu@wright.edu
+ER  -
+
+TY  - JOUR
+AU  - Lai, C.-L.
+AU  - Tu, Y.-F.
+TI  - Roles, strategies, and research issues of generative AI in the mobile learning era
+PY  - 2024
+T2  - International Journal of Mobile Learning and Organisation
+VL  - 18
+IS  - 4
+SP  - 516
+EP  - 537
+DO  - 10.1504/IJMLO.2024.141836
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85206440631&doi=10.1504%2fIJMLO.2024.141836&partnerID=40&md5=054d13a61a0499bd9e4d15fd224a7af8
+AD  - Department of Education, National Taipei University of Education, #134, Sec. 2, Heping E. Rd., Taipei, 106, Taiwan
+AD  - Department of Educational Technology, Wenzhou University, Chashan University Town, Zhejiang Province, Wenzhou City, 325035, China
+AB  - The emergence of generative AI (GAI) offers students an opportunity to experience learning interaction similar to that with real humans. This technology enables students to communicate with AI in natural language; GAI can also generate content more aligned with students’ needs. Notably, in the context of mobile learning, students will have more opportunities to interact with GAI. Therefore, exploring the role of GAI in the mobile learning environment and the possible combination with learning strategies is an important topic. In this position paper, we discuss this topic from the perspective of academic research and educational objectives. We also discuss the transformation of students’ roles in various educational objectives. Furthermore, this study explores potential research and educational issues, including integrating learning strategies, discussing student learning performance, integrating with other software and hardware, student interaction with GAI, and the issue of the right to learn GAI. © 2024 Inderscience Enterprises Ltd.
+KW  - AI
+KW  - artificial intelligence
+KW  - Bloom’s taxonomy
+KW  - ChatGPT
+KW  - GAI
+KW  - generative artificial intelligence
+KW  - intelligent tutoring system
+KW  - mobile learning
+PB  - Inderscience Publishers
+SN  - 1746725X (ISSN)
+LA  - English
+J2  - Int. J. Mobile Learn. Organ.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 27 June 2025; Cited By: 17; Correspondence Address: Y.-F. Tu; Department of Educational Technology, Wenzhou University, Chashan University Town, Wenzhou City, Zhejiang Province, 325035, China; email: sandy0692@gmail.com
+ER  -
+
+TY  - JOUR
+AU  - Yuwono, E.I.
+AU  - Tjondronegoro, D.
+AU  - Riverola, C.
+AU  - Loy, J.
+TI  - Co-creation in action: Bridging the knowledge gap in artificial intelligence among innovation champions
+PY  - 2024
+T2  - Computers and Education: Artificial Intelligence
+VL  - 7
+C7  - 100272
+DO  - 10.1016/j.caeai.2024.100272
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85200825341&doi=10.1016%2fj.caeai.2024.100272&partnerID=40&md5=7eb276cda180014c2fd5c1bac11d6402
+AD  - Department of Business Strategy and Innovation, Griffith University, 4111, QLD, Australia
+AB  - The increasing significance of artificial intelligence (AI) in various industries highlights the necessity for industry leaders and professionals to comprehend and gain knowledge about AI. The urgency for AI literacy is more critical than ever due to the potential unethical use of AI resulting from insufficient knowledge. This issue is particularly crucial for educators because they need to understand and adapt to the impact of AI within educational institutions, with some needing to use and become literate in AI, given that students now have increased access to public AI tools. This research presents a multi-phase study to address the issue of bridging the knowledge gap in AI by conducting co-creation with innovation champions, illustrated by a case of Generative AI innovation in a K-12 school. Using action design research, we engaged experienced teachers who are experts in pedagogical innovation to co-create a generative AI-enhanced platform at a leading K-12 education institution known for its pedagogical innovation in Australia. The findings reveal that champions enhance their knowledge through their subject-matter expertise, organizational knowledge, and AI knowledge gained through external exposure and experience. The study also highlights the key elements that facilitate a cross-domain knowledge exchange platform, enabling champions to be exposed to and experience AI technological learning, leading to shifts in their understanding and perception of AI. The initially unaware and sceptical champions become more aware and capable of articulating more technical AI knowledge rooted in a shared value. This research demonstrates how co-creation serves as a pathway for learning AI, particularly among K-12 teachers who are innovation champions. It underscores the impact of experiential and organizational learning on AI collaborative learning and behavioral intentions. Additionally, the study presents that aligning organizational and personal visions and values can influence perceptions about AI technologies, enhancing the discourse on AI and education innovation. © 2024 The Authors
+KW  - AI co-creation
+KW  - AI innovation
+KW  - AI learning
+KW  - AI literacy
+KW  - Artificial intelligence
+KW  - K-12 AI education
+KW  - Domain Knowledge
+KW  - Artificial intelligence co-creation
+KW  - Artificial intelligence innovation
+KW  - Artificial intelligence learning
+KW  - Artificial intelligence literacy
+KW  - Artificial intelligence tools
+KW  - Co-creation
+KW  - Educational institutions
+KW  - K-12 artificial intelligence education
+KW  - K-12 schools
+KW  - Knowledge gaps
+KW  - Knowledge management
+PB  - Elsevier B.V.
+SN  - 2666920X (ISSN)
+LA  - English
+J2  - Comput. Educ.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 27 June 2025; Cited By: 8; Correspondence Address: E.I. Yuwono; Department of Business Strategy and Innovation, Griffith University, 4111, Australia; email: irenne.yuwono@griffithuni.edu.au
+ER  -
+

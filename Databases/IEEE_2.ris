@@ -1,0 +1,777 @@
+TY  - CONF
+TI  - Development of a Chat Assistant Using Large Language Models for Personalized Mathematics Tutoring to Overcome Educational Disparities in Sri Lanka
+T2  - 2025 5th International Conference on Advanced Research in Computing (ICARC)
+SP  - 1
+EP  - 6
+AU  - M. Kannangara
+AU  - C. Rajapakse
+AU  - D. Asanka
+AU  - N. Jayalath
+PY  - 2025
+KW  - Bridges
+KW  - Visualization
+KW  - Large language models
+KW  - Education
+KW  - Urban areas
+KW  - Focusing
+KW  - Iterative methods
+KW  - Problem-solving
+KW  - Faces
+KW  - STEM
+KW  - intelligent Tutoring Assistant (ITA)
+KW  - large language models (LLMs)
+KW  - personalized learning
+KW  - mathematics education
+KW  - Sri Lankan curriculum
+DO  - 10.1109/ICARC64760.2025.10963323
+JO  - 2025 5th International Conference on Advanced Research in Computing (ICARC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 5th International Conference on Advanced Research in Computing (ICARC)
+Y1  - 19-20 Feb. 2025
+AB  - The accessibility and quality of education in Sri Lanka face significant disparities, particularly between rural and urban areas. This research developed a personalized Intelligent Tutoring Assistant (ITA) powered by large language models (LLMs) to address this challenge. Focusing on the Grade 9 algebraic expressions lesson, the ITA was designed to provide personalized mathematics tutoring to Sri Lankan students. By aligning with the Sri Lankan school syllabus and incorporating iterative teacher feedback, the ITA was refined to improve its educational effectiveness. The ITA demonstrated its potential as a valuable supplementary tool that bridges classroom instruction and personalized student support. This scalable solution can address diverse learning needs and fill gaps in traditional education. Its applications extend beyond mathematics education, with potential across STEM disciplines and various educational contexts. The ITA has the potential to evolve into a comprehensive educational tool, promoting equitable access to quality education, especially in resource-constrained settings.
+ER  - 
+
+TY  - CONF
+TI  - An Intelligent Tutoring System Proposal Based on Chatbot and Learning Styles to the Project Management Study
+T2  - 2024 IEEE Frontiers in Education Conference (FIE)
+SP  - 1
+EP  - 8
+AU  - E. F. F. Silva
+AU  - D. M. Maia
+AU  - S. C. Dos Santos
+AU  - A. F. Santana
+PY  - 2024
+KW  - Productivity
+KW  - Freeware
+KW  - Scalability
+KW  - Design methodology
+KW  - Education
+KW  - Knowledge based systems
+KW  - Chatbots
+KW  - Proposals
+KW  - Internet telephony
+KW  - Monitoring
+KW  - Intelligent tutoring system
+KW  - Chatbot
+KW  - Learning styles
+KW  - Software Engineering Education
+KW  - Project Management
+DO  - 10.1109/FIE61694.2024.10893385
+JO  - 2024 IEEE Frontiers in Education Conference (FIE)
+IS  - 
+SN  - 2377-634X
+VO  - 
+VL  - 
+JA  - 2024 IEEE Frontiers in Education Conference (FIE)
+Y1  - 13-16 Oct. 2024
+AB  - This research full paper proposes an intelligent tutoring system (ITS) to support the study of software project management, considering the students' learning styles. The learning process is a complex and multifaceted phenomenon that varies significantly from one person to another. Everyone absorbs knowledge differently because each has learning characteristics that directly impact the learning process. Ignoring these differences can result in inefficient and demotivating teaching. Therefore, teachers must invest time in understanding each student's learning style, strengths, and weaknesses, which can be overwhelming, especially in classrooms with a high student-teacher ratio. In this scenario, AI-based technology can be a strong ally. For example, chatbot technology offers an opportunity to adapt to these individual differences and to enable a more engaging and friendly approach for students, contributing to an active and interactive learning environment when exercising the role of a study companion and, why not, a bit of study guide. In this context, this paper proposes developing and applying a chatbot-based ITS called Juh to identify each student's learning style and, based on this understanding, present study activities appropriate to their learning style. The ITS uses meaningful learning theory to personalize the learning journey, detecting five profiles: active, constructive, intentional, authentic, and cooperative. This study chose project management (PM) as its knowledge area, particularly project management methodologies, aiming to evaluate the benefits of this research proposal. In this context, this research proposes to answer the following research question: RQ) How can the study of project management be supported actively and interactively, considering the students' learning styles? As its main contribution, the solution aims to offer support in the introduction to the study of project management and improve the learning experience according to the individual characteristics of each student, maximizing the assimilation of knowledge. Therefore, the difference lies in exploring how and what to learn. The solution was developed using the Design Science Research method and the low code Blip platform. After prototyping and evaluating the ITS with PM and education experts, promising points about the approach were observed, with users highlighting improvements in productivity and ease of use of the tutoring system.
+ER  - 
+
+TY  - CONF
+TI  - GPTutor: A Generative AI-powered Intelligent Tutoring System to Support Interactive Learning with Knowledge-Grounded Question Answering
+T2  - 2024 International Conference on Advances in Electrical Engineering and Computer Applications (AEECA)
+SP  - 702
+EP  - 707
+AU  - R. W. C. Lui
+AU  - H. Bai
+AU  - A. W. Y. Zhang
+AU  - E. T. H. Chu
+PY  - 2024
+KW  - Industries
+KW  - Electrical engineering
+KW  - Generative AI
+KW  - Retrieval augmented generation
+KW  - Pipelines
+KW  - Education
+KW  - Learning (artificial intelligence)
+KW  - Computer applications
+KW  - User experience
+KW  - Question answering (information retrieval)
+KW  - intelligent tutoring system
+KW  - generative AI
+KW  - interactive learning
+KW  - knowledge-grounded question-answering
+KW  - retrieval-augmented generation
+DO  - 10.1109/AEECA62331.2024.00124
+JO  - 2024 International Conference on Advances in Electrical Engineering and Computer Applications (AEECA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 International Conference on Advances in Electrical Engineering and Computer Applications (AEECA)
+Y1  - 16-18 Aug. 2024
+AB  - With increasing popularity of artificial intelligence (AI) in the education industry, intelligent tutoring system (ITS) powered by AI have been widely adopted to optimize the learning experience. However, the relationship between students’ engagement level of Generative AI (GenAI) and their academic performance is still under exploration. Also current popular GenAI products like ChatGPT suffer from the hallucination problem, which includes factuality, faithfulness, and maliciousness issues in the generated answer. This paper presents GPTutor, an ITS leveraging GenAI to support students' learning processes. GPTutor integrates a Retrieval-Augmented Generation (RAG) pipeline to deliver actual and contextually rich answers aligned to student questions and intended learning outcomes (ILO). A pilot evaluation involving undergraduate and postgraduate students assessed the system’s association with user experience, engagement, and academic performance. Results demonstrated that students generally recognize the effectiveness of GPTutor. Some students also provided insightful feedback on the benefits of GPTutor in improving learning efficiency and some limitations to be addressed. Notably, students with higher engagement levels showed significantly better academic performance on the final exam. This study proposed GPTutor to provide an interactive and knowledge-grounded learning experience and showed the strong association between students’ engagement in GPTutor and academic performance.
+ER  - 
+
+TY  - CONF
+TI  - Concepts for Teaching Software Development in the Age of AI-Tools
+T2  - 2025 IEEE Global Engineering Education Conference (EDUCON)
+SP  - 1
+EP  - 10
+AU  - A. Böttcher
+AU  - V. Thurner
+AU  - B. Zönnchen
+PY  - 2025
+KW  - Learning systems
+KW  - Systematics
+KW  - Generative AI
+KW  - Education
+KW  - Chatbots
+KW  - Software
+KW  - Engineering education
+KW  - Programming profession
+KW  - Software development management
+KW  - Generative AI
+KW  - programming education
+KW  - student struggle
+KW  - constructive alignment
+DO  - 10.1109/EDUCON62633.2025.11016505
+JO  - 2025 IEEE Global Engineering Education Conference (EDUCON)
+IS  - 
+SN  - 2165-9567
+VO  - 
+VL  - 
+JA  - 2025 IEEE Global Engineering Education Conference (EDUCON)
+Y1  - 22-25 April 2025
+AB  - LLM-based tools such as ChatGPT, GitHub Copilot, and the like have already arrived in software development practice, and continue to change the way of how software is created. Students use Generative AI tools for any purpose, whether we agree with the use or not. In this paper, we argue that in order to appropriately prepare our students for professional life, we educators need to incorporate the use of these tools explicitly into the teaching and learning process, so that students will learn a systematic and professional usage of these tools. Teaching basic software development concepts to students with only little or no prior knowledge has always been a challenge. Incorporating GenAI-based tools into software development education requires some careful rethinking of teaching concepts, especially with respect to constructive alignment, i. e. aligning learning objectives, teaching and learning methods, and exams to address GenAI-based support. Based upon first observations on the usage of GenAI tools in class, in this paper we suggest and compare concepts for teaching and learning basic software development that integrate GenAI tools at different levels of intensity and at different points during a semester. From these observations, we derive recommendations both for teaching and learning settings and for corresponding assessments, for teaching software development in a constructively aligned way in the age of GenAI tools.
+ER  - 
+
+TY  - CONF
+TI  - AI Tutor Enhanced with Prompt Engineering and Deep Knowledge Tracing
+T2  - 2024 IEEE International Conference on Interdisciplinary Approaches in Technology and Management for Social Innovation (IATMSI)
+SP  - 1
+EP  - 6
+AU  - R. Makharia
+AU  - Y. C. Kim
+AU  - S. Bin Jo
+AU  - M. A. Kim
+AU  - A. Jain
+AU  - P. Agarwal
+AU  - A. Srivastava
+AU  - A. V. Agarwal
+AU  - P. Agarwal
+PY  - 2024
+KW  - Knowledge engineering
+KW  - Performance evaluation
+KW  - Technological innovation
+KW  - Databases
+KW  - Oral communication
+KW  - Chatbots
+KW  - Transformers
+KW  - prompt engineering
+KW  - deep knowledge tracing
+KW  - large language models
+KW  - chatbots
+KW  - virtual instructors
+KW  - educational technology
+DO  - 10.1109/IATMSI60426.2024.10503187
+JO  - 2024 IEEE International Conference on Interdisciplinary Approaches in Technology and Management for Social Innovation (IATMSI)
+IS  - 
+SN  - 
+VO  - 2
+VL  - 2
+JA  - 2024 IEEE International Conference on Interdisciplinary Approaches in Technology and Management for Social Innovation (IATMSI)
+Y1  - 14-16 March 2024
+AB  - The evolving educational landscape necessitates creative solutions to address the demand for immediate and personalized academic support. This study explores the integration of prompt engineering of the OpenAI’s Generative Pre-trained Transformer (GPT) and Deep Knowledge Tracing (DKT) to develop an AI tutor capable of shaping responses to students’ knowledge levels, promoting a dynamic and adaptive learning experience. By leveraging Large Language Models (LLMs) like GPT-3.5 and integrating DKT, our AI tutor addresses the need for real-time, tailored academic assistance. LLMs serve as virtual instructors, explaining concepts and providing detailed solutions, while DKT ensures responses align with the student’s knowledge level, optimizing challenge and engagement. Our research introduces an AI tutor that revolutionizes personalized learning experiences. Students can interact with the AI tutor by shaking their device during quizzes, initiating customized assistance and encouraging a deeper understanding of concepts, ultimately enhancing academic performance through individualized learning experiences.
+ER  - 
+
+TY  - CONF
+TI  - Comparative Analysis and Application of Large Language Models on FAQ Chatbots
+T2  - 2024 International Conference on Computational Intelligence and Network Systems (CINS)
+SP  - 1
+EP  - 6
+AU  - F. Khennouche
+AU  - Y. Elmir
+AU  - N. Djebari
+AU  - L. Boubchir
+AU  - A. Laouid
+AU  - A. Bounceur
+PY  - 2024
+KW  - Analytical models
+KW  - Accuracy
+KW  - Reviews
+KW  - Large language models
+KW  - Education
+KW  - Loss measurement
+KW  - Question answering (information retrieval)
+KW  - Computational intelligence
+KW  - Context modeling
+KW  - Network systems
+KW  - LLM
+KW  - fine-tunning
+KW  - FAQ Chatbot
+KW  - GPT
+KW  - BART
+KW  - T5
+KW  - BERT
+DO  - 10.1109/CINS63881.2024.10864428
+JO  - 2024 International Conference on Computational Intelligence and Network Systems (CINS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 International Conference on Computational Intelligence and Network Systems (CINS)
+Y1  - 28-29 Nov. 2024
+AB  - This paper presents a comprehensive evaluation of advanced large language models (LLMs) including GPT, BART, BERT, and T5, fine-tuned using a specialized FAQ dataset from ESTIN, a higher education institution. The study aims to assess the performance of these LLM models in generating accurate and contextually relevant responses to common queries. These models were evaluated using key metrics such as evaluation loss (eval loss) and ROUGE scores (ROUGE-1 and ROUGE-2), which measure the alignment between the generated responses and the reference answers. The experiment results show that BERT outperforms the other models, achieving a lowest eval loss and highest ROUGE-1 and ROUGE-2 scores, making it the most effective model in this context. The findings underscore the potential of BERT in educational AI applications. Finally, some future research directions are discussed, including the integration of additional models and the enhancement of the FAQ dataset to further improve performance.
+ER  - 
+
+TY  - CONF
+TI  - Development of a Pedagogical Agent Utilizing ChatGPT as a Response Mechanism and Scaffolding Method for CSS Learning
+T2  - 2024 International Conference on Intelligent Cybernetics Technology & Applications (ICICyTA)
+SP  - 99
+EP  - 104
+AU  - A. B. Yosobumi
+AU  - A. S. D. Martha
+AU  - K. A. Laksitowening
+PY  - 2024
+KW  - Adaptive learning
+KW  - Adaptation models
+KW  - Systematics
+KW  - Adaptive systems
+KW  - Navigation
+KW  - Syntactics
+KW  - Chatbots
+KW  - Artificial intelligence
+KW  - Cascading style sheets
+KW  - cascading style sheets
+KW  - pedagogical agent
+KW  - scaffolding methodology
+KW  - ChatGPT integration
+KW  - interactive learning
+DO  - 10.1109/ICICYTA64807.2024.10913323
+JO  - 2024 International Conference on Intelligent Cybernetics Technology & Applications (ICICyTA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 International Conference on Intelligent Cybernetics Technology & Applications (ICICyTA)
+Y1  - 17-19 Dec. 2024
+AB  - Cascading Style Sheets (CSS) are fundamental to modern web development, yet many learners encounter significant challenges with its intricate syntax and extensive styling capabilities. Approximately 85.7% of students report difficulties in mastering CSS concepts, which are often compounded by motivational issues that hinder the learning process. To tackle these challenges, this paper introduces a web-based educational application designed to enhance CSS learning through the integration of an innovative pedagogical agent that employs advanced scaffolding methods. The application utilizes a dual-phase scaffolding approach, including procedural scaffolding, which offers structured guidance through pre-designed dialogues, and strategic scaffolding, which employs ChatGPT to deliver personalized, adaptive feedback tailored to individual learning needs. The implementation of these scaffolding techniques has led to significant improvements in both user engagement and learning outcomes. Thematic analysis revealed that 80% of participants found the learning style provided by the pedagogical agent aligned with their personal preferences, compared to only 40% with conventional methods. Additionally, 90% of participants experienced increased motivation using the application with the pedagogical agent, versus 40% with the conventional approach. These findings highlight the effectiveness of the pedagogical agent in fostering a personalized and engaging learning experience, enhancing both motivation and learning. This research lays the chance for future advancements in interactive and adaptive learning systems, demonstrating the potential of combining pedagogical agents with sophisticated language models like ChatGPT to address educational and motivational challenges.
+ER  - 
+
+TY  - CONF
+TI  - Teaching Security in the Era of Generative AI: A Course Design of Security + ChatGPT
+T2  - 2024 IEEE Integrated STEM Education Conference (ISEC)
+SP  - 01
+EP  - 06
+AU  - Y. Wang
+AU  - M. McCoey
+AU  - Q. Hu
+AU  - M. Jalalitabar
+PY  - 2024
+KW  - Ethics
+KW  - Generative AI
+KW  - Education
+KW  - Information security
+KW  - Chatbots
+KW  - Security
+KW  - Computer crime
+KW  - Security
+KW  - Generative AI
+KW  - ChatGPT
+DO  - 10.1109/ISEC61299.2024.10664905
+JO  - 2024 IEEE Integrated STEM Education Conference (ISEC)
+IS  - 
+SN  - 2473-7623
+VO  - 
+VL  - 
+JA  - 2024 IEEE Integrated STEM Education Conference (ISEC)
+Y1  - 9-9 March 2024
+AB  - The 2023 CS curriculum by ACM, IEEE, and AAAI identifies security as an independent knowledge area that develops the “security mindset” so that students are ready for the “continual changes” in computing. Likewise, the curriculum emphasises the coverage of “uses”, and “shortcomings/pitfalls” of practical AI-tools like ChatGPT. This paper presents our endeavors to approach those goals with the design of an Information Security course. Our course design bears the following distinct features: Certificate-readiness, where we align the knowledge areas with major security/ethical hacking certificates; Coverage of ChatGPT, where the uses of ChatGPT for assisting security tasks and security issues caused by ChatGPT usage are both addressed for the first time in the teaching; “Learn defending from attackers' perspective”, where labs of both offensive and defensive natures are developed to equally sharpen ethical hacking and hardening skills, and to facilitate the discussion on legal/ethical implications; Current and Representative, where ajust-enough set of representative and/or current security topics are selected in order and covered in respective modules in the most current form. In addition, we generalize our design principles and strategies, with the hope to shed lights on similar efforts in other institutions.
+ER  - 
+
+TY  - CONF
+TI  - Fostering Personalized Learning in Data Science: Integrating Innovative Tools and Strategies for Diverse Pathways
+T2  - 2024 IEEE 13th International Conference on Engineering Education (ICEED)
+SP  - 1
+EP  - 6
+AU  - G. Rafiee
+AU  - F. Ahmadli
+AU  - M. Collins
+PY  - 2024
+KW  - Surveys
+KW  - Generative AI
+KW  - Education
+KW  - Virtual reality
+KW  - Games
+KW  - Data science
+KW  - Complexity theory
+KW  - Information technology
+KW  - Engineering education
+KW  - Standards
+KW  - Content recommendation
+KW  - data science education
+KW  - individualized learning experience framework
+KW  - prerequisite skill identification
+KW  - self-directed learning
+KW  - ChatGPT-4
+KW  - Virtual Reality
+DO  - 10.1109/ICEED62316.2024.10923798
+JO  - 2024 IEEE 13th International Conference on Engineering Education (ICEED)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 IEEE 13th International Conference on Engineering Education (ICEED)
+Y1  - 19-20 Nov. 2024
+AB  - This paper introduces an innovative teaching approach in data science tailored for students in non-computer science pathways, specifically Business Information Technology (BIT) and Computing and Information Technology (CIT). Over a five-year period, a unique teaching approach has been developed incorporating a virtual reality (VR) game event and ChatGPT-4 as a generative artificial intelligence (AI) tool. To address the inherent complexities of learning data science, particularly the diverse prerequisite skills, this study introduces a framework including a diagnostic assessment centered around a specific education research question: “How can the learning experiences of individual students be customized to address the multifaceted challenges of data science education?” Through a diagnostic assessment process, conducted via a survey completed by students, this framework identifies students' unique requirements and skill areas facilitating the delivery of personalized content recommendations within the initial week of teaching. By fostering a culture of self-directed learning, the approach aims to enable students to concentrate on essential customized learning materials. This paper also highlights the overall student satisfaction with the module averaged 4.5 out of 5 with a standard deviation of 0.9 indicating a high level of contentment with the teaching approach. The discussion encompasses the framework's implications for teaching and its alignment with educational theories. This paper contributes to the computing education field by addressing the research question and offering insights for future research and teaching practices.
+ER  - 
+
+TY  - CONF
+TI  - Driving Sex-Gender Equity and Ethical Integration in Edu X.0: Harnessing GenAI for Human-Centric Innovation, Responsibility, and Industry X.0 (When X.0 = 5.0)
+T2  - 2025 IEEE Global Engineering Education Conference (EDUCON)
+SP  - 1
+EP  - 10
+AU  - H. Mattiello
+AU  - D. Mattiello
+AU  - V. Wittberg
+PY  - 2025
+KW  - Industries
+KW  - Ethics
+KW  - Technological innovation
+KW  - Privacy
+KW  - Navigation
+KW  - Gender equity
+KW  - Education
+KW  - Decision making
+KW  - Cultural differences
+KW  - Artificial intelligence
+KW  - GenAI
+KW  - Sex-Gender Equity
+KW  - Ethical Integration
+KW  - Edu X.0
+KW  - The X.0 Wave Theory
+KW  - Ethical AI
+KW  - Industry X.0 Responsible Innovation
+DO  - 10.1109/EDUCON62633.2025.11016475
+JO  - 2025 IEEE Global Engineering Education Conference (EDUCON)
+IS  - 
+SN  - 2165-9567
+VO  - 
+VL  - 
+JA  - 2025 IEEE Global Engineering Education Conference (EDUCON)
+Y1  - 22-25 April 2025
+AB  - The transformative potential of Generative AI (GenAI) in higher education necessitates a critical examination of its ethical integration, particularly in fostering sex-gender equity and ensuring human-centric innovation. This paper addresses the multifaceted impact of GenAI, exploring both its opportunities and the ethical challenges it presents within educational contexts. As AI technologies, including large language models and diffusion models, rapidly advance, concerns regarding bias, privacy, accountability, and explainability in their application to educational settings must be addressed. It argues that ethical considerations must guide the integration of AI into educational systems, with a particular focus on gender equity and the promotion of inclusive learning environments. The rise of personalized learning, facilitated by AI systems, offers vast potential for tailoring educational experiences to individual needs. However, it also raises significant risks, including algorithmic bias, privacy violations, and the unintended misuse of AI technologies by students in ways that may perpetuate social inequities or ethical lapses. It underscores the urgent need for higher education institutions to address the ethics education gap, ensuring that students are not only equipped with cutting-edge technical knowledge but also a deep understanding of the societal and ethical implications of AI technologies. To bridge this gap, we propose practical strategies for the ethical integration of GenAI in education. These include project-based learning, cross-disciplinary collaboration, and comprehensive faculty development programs aimed at embedding ethical decision-making frameworks within AI curricula. By cultivating a cultural ethical responsibility, higher education can foster an environment where AI innovation is pursued with a commitment to social justice, diversity, and inclusion. Rooted in the X.0 wave, which highlights the evolution of technological paradigms from traditional models to the next wave of innovation, this paper aligns with the principles of Industry X.0 (when X.0 = 5.0). This theory emphasizes humancentric innovation, sustainability, and ethical responsibility as foundational elements for future technological advancements. In this context, it provides a roadmap for the responsible use of AI in education, advocating for the integration of human welfare as a guiding principle in AI-driven innovation. This ensures that AI technologies are utilized as tools for advancing societal well-being rather than exacerbating existing inequalities. By applying X.0 theory, this research calls for a paradigm shift in higher education—one that prioritizes ethical AI education and prepares students to lead with responsibility, equity, and integrity as they navigate the evolving technological landscape.
+ER  - 
+
+TY  - CONF
+TI  - Effects of Proactive Interaction and Instructor Choice in AI-Generated Virtual Instructors for Financial Education
+T2  - 2024 IEEE Frontiers in Education Conference (FIE)
+SP  - 1
+EP  - 9
+AU  - T. Prasongpongchai
+AU  - P. Pataranutaporn
+AU  - A. Lapapirojn
+AU  - C. Kanapornchai
+AU  - J. Leong
+AU  - P. Ouppaphan
+AU  - K. Winson
+AU  - M. Lertsutthiwong
+AU  - P. Maes
+PY  - 2024
+KW  - Hands
+KW  - Distance learning
+KW  - Education
+KW  - Aging
+KW  - Boosting
+KW  - Artificial intelligence
+KW  - Videos
+KW  - AI-Generated Virtual Instructor
+KW  - Human-AI Interaction
+KW  - Personalized AI
+KW  - AI for Education
+KW  - Pedagogical Agent
+KW  - Financial Literacy Education
+DO  - 10.1109/FIE61694.2024.10893581
+JO  - 2024 IEEE Frontiers in Education Conference (FIE)
+IS  - 
+SN  - 2377-634X
+VO  - 
+VL  - 
+JA  - 2024 IEEE Frontiers in Education Conference (FIE)
+Y1  - 13-16 Oct. 2024
+AB  - This research full paper describes a web-based online learning platform that delivers financial literacy lessons via talking head videos of AI-generated personas with two additional core features: LLM-powered proactive chat-based question-and-answer interactivity, and personal choice of the AI instructor from a list of distinct personas. We conducted two comparative studies with a total of 233 Thai students aged 1825, which aim to 1) investigate the impact of interactivity and instructor selection on the learning experience, and 2) further explore the underlying factors at play with instructor selection by introducing AI instructors' backstories as an extra intervention. We found that enabling interactivity significantly enhanced learning motivation, perceived learning facilitation, engagement, and virtual instructors' humanness compared to the passive setting. Providing learners with a choice of AI instructors provided minimal additional benefit. However, the learner's feeling of relatedness toward the instructor is a significant positive predictor of learning motivation, positive emotion, and agent credibility, while goal alignment with the agent correlates with perceived learning facilitation, and admiration corresponds with perceived agent humanness. These findings underscore the potential of interactive virtual instructors-ones that interactively encourage learners to reflect on the teaching materials throughout the lesson through two-way interaction-in enhancing motivational and experiential aspects of remote education, even if they do not significantly impact comprehension, and the importance of promoting learner's relatedness and goal alignment with the agent in boosting other aspects of the learning experience.
+ER  - 
+
+TY  - CONF
+TI  - Comparative Analysis of Generative Language Tools for Higher Education
+T2  - 2024 IEEE International Conference on Engineering Veracruz (ICEV)
+SP  - 1
+EP  - 6
+AU  - A. -D. O. Escobar
+AU  - E. Suárez Jasso
+AU  - M. -M. M. Anota
+PY  - 2024
+KW  - Costs
+KW  - Correlation
+KW  - Scalability
+KW  - Education
+KW  - Chatbots
+KW  - Security
+KW  - Usability
+KW  - Sustainable development
+KW  - Faces
+KW  - Software development management
+KW  - analysis
+KW  - tools
+KW  - higher education
+KW  - generative language
+DO  - 10.1109/ICEV63254.2024.10765986
+JO  - 2024 IEEE International Conference on Engineering Veracruz (ICEV)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 IEEE International Conference on Engineering Veracruz (ICEV)
+Y1  - 21-24 Oct. 2024
+AB  - The development of technology has marked great changes in all areas, especially in education, the incorporation of various tools supported by artificial intelligence has brought positive and negative consequences, in many cases there is a lack of knowledge of these and therefore they have not been properly used. This study attempts to evaluate and compare some generative language tools through a literature search and their practical use. Using content analysis, the seven selected tools were compared considering the criteria of: Efficiency, Quality, Usability, Scalability and Costs. The results show that tools such as ChatGPT, GitHub Copilot, Whisper, Hugging Face and Grammarly stand out for their high efficiency, quality, usability and scalability, being the most robust options for various educational applications. While tools such as Google Bard and Khan Academy's AI Tutor offer good evaluations in usability and scalability, with relatively low costs, making them accessible and effective in educational environments. Some limitations were identified in tools such as Talk to Books and ChatPDF that present challenges in efficiency and usability, limiting their applicability compared to more advanced tools. In addition, GPT for Slides, although functional for presentations, shows limitations in scalability and security. It was identified that there is a positive correlation between efficiency and quality in most tools, although there are exceptions where these aspects are not aligned. It is concluded that generative tools in Higher Education are crucial to modernize teaching and are aligned with the UN Sustainable Development Goals. Choosing the right tool should consider factors such as security, costs and ease of use to maximize its educational impact.
+ER  - 
+
+TY  - CONF
+TI  - Redefining the Concept of Literacy: a DigCompEdu extension for Critical Engagement with AI tools
+T2  - 2024 9th South-East Europe Design Automation, Computer Engineering, Computer Networks and Social Media Conference (SEEDA-CECNSM)
+SP  - 98
+EP  - 102
+AU  - M. S. Georgopoulou
+AU  - A. Krouska
+AU  - C. Troussas
+AU  - C. Sgouropoulou
+PY  - 2024
+KW  - Design automation
+KW  - Social networking (online)
+KW  - Generative AI
+KW  - Education
+KW  - Europe
+KW  - Computer networks
+KW  - Artificial intelligence
+KW  - literacy
+KW  - Artificial Intelligence
+KW  - DigCompEdu
+KW  - four pillars of education
+KW  - critical engagement
+KW  - digital citizens
+DO  - 10.1109/SEEDA-CECNSM63478.2024.00026
+JO  - 2024 9th South-East Europe Design Automation, Computer Engineering, Computer Networks and Social Media Conference (SEEDA-CECNSM)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 9th South-East Europe Design Automation, Computer Engineering, Computer Networks and Social Media Conference (SEEDA-CECNSM)
+Y1  - 20-22 Sept. 2024
+AB  - Artificial Intelligence (AI) is rapidly transforming our world, and education is no exception. The growing popularity and use of AI systems calls for a new understanding of what it means to be literate in the modern world. Thus, it is crucial for individuals to develop AI-driven critical thinking skills to effectively interact with these technologies. However, existing research focuses mainly on the "how" of AI integration, with limited exploration of the "why" and "how" of fostering critical engagement with AI tools. In this article, we propose an extension to DigCompEdu that aligns with the UNESCO pillars of education. This extension highlights five key elements that challenge critical thinking capabilities in relation to AI: "know-what," "know-who," "know-where," "know-how," and "know-why". By combining critical thinking skills with AI functionalities, educators can empower students to become responsible and informed digital citizens in the era of generative AI.
+ER  - 
+
+TY  - JOUR
+TI  - Open-Domain Factoid Question-Answering in Urdu: Data and Methods
+T2  - IEEE Access
+SP  - 30167
+EP  - 30185
+AU  - M. Shakeel
+AU  - R. Muhammad Adeel Nawab
+PY  - 2025
+KW  - Internet
+KW  - Encyclopedias
+KW  - Online services
+KW  - Benchmark testing
+KW  - Translation
+KW  - Transformers
+KW  - Context modeling
+KW  - Multilingual
+KW  - Large language models
+KW  - Cultural differences
+KW  - Corpus
+KW  - factoid
+KW  - GPT
+KW  - large language models
+KW  - multilingual
+KW  - open-domain
+KW  - question-answering
+KW  - RAG
+KW  - transformers
+KW  - Urdu
+DO  - 10.1109/ACCESS.2025.3540939
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 13
+VL  - 13
+JA  - IEEE Access
+Y1  - 2025
+AB  - Open-domain factoid question-answering (ODFQA) aims to answer questions posed in natural language by retrieving and extracting relevant information from large, unstructured text sources. A range of applications have benefited from ODFQA including improved search relevancy in search engines and information retrieval, enable semantic searches, interactive and personalized learning systems, and the creation of large language models. Although significant research on ODFQA for English and other languages has been done, Urdu-specific research in this area remains limited. This is due to the lack of high-quality datasets and the challenges associated with processing Urdu text. To address the unavailability of Urdu-specific resources for the ODFQA task, we developed a benchmark corpus, comprising  $3,985$  Urdu questions and corresponding Urdu Wikipedia articles, with  $1,006$  answerable and  $2,979$  unanswerable questions. Each question in our proposed corpus was manually annotated by three independent annotators. As a secondary contribution, we carried out extensive experimentation using a range of state- of-the-art models, including retrievers (BM25 and Sentence-BERT), multilingual transformers (mBERT, XLM-RoBERTa-Large, XLM-RoBERTa-Large-Squad2), and large language models (GPT-3.5-Turbo-0125, GPT-4o-mini-2024-07-18) on our proposed corpus. Best results were obtained using the XLM-RoBERTa-Large-Squad2 model with  $F_{1} = 0.61$  and  $EM = 0.41 \text{@}k = 20$ . While the finetuned GPT-4o-mini model was the best model, with  $F_{1} = 0.81$  and  $EM = 0.81 \text{@}k=1$ . To foster research in the Urdu ODFQA, our proposed corpus is freely available under the Creative Commons license.
+ER  - 
+
+TY  - CONF
+TI  - Game-Based Learning Framework for Business Analysis Education
+T2  - 2024 5th International Conference on Emerging Trends in Electrical, Electronic and Communications Engineering (ELECOM)
+SP  - 1
+EP  - 6
+AU  - Y. Z. Rosunally
+PY  - 2024
+KW  - Measurement
+KW  - Electric potential
+KW  - Generative AI
+KW  - Education
+KW  - Games
+KW  - Transforms
+KW  - Market research
+KW  - Stakeholders
+KW  - Faces
+KW  - Business
+KW  - game-based learning
+KW  - generative artificial intelligence
+KW  - business analysis education
+KW  - serious games
+KW  - ludic pedagog
+DO  - 10.1109/ELECOM63163.2024.10892184
+JO  - 2024 5th International Conference on Emerging Trends in Electrical, Electronic and Communications Engineering (ELECOM)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 5th International Conference on Emerging Trends in Electrical, Electronic and Communications Engineering (ELECOM)
+Y1  - 20-22 Nov. 2024
+AB  - This paper presents a novel framework for integrating AI-generated mini-games into business analysis education. As the field of business analysis evolves rapidly, educators face challenges in keeping curricula current and bridging the gap between theory and practice. Our framework addresses these issues by combining game-based learning principles with the capabilities of generative AI. We outline a structured approach for developing mini-games aligned with business analysis course topics and learning outcomes, incorporating key game design elements and evaluation metrics. To demonstrate the framework's application, we present a case study of an AI-generated stakeholder analysis game, showcasing how generative AI can facilitate rapid game development and content creation. The paper discusses the potential benefits of this approach, including enhanced student engagement, improved practical skill development, and the ability to quickly adapt to emerging topics in business analysis. We also address challenges and limitations, such as technical resource requirements and the need for empirical validation. This research contributes to the growing body of knowledge on innovative educational techniques in business analysis and opens new avenues for leveraging AI in educational game development.
+ER  - 
+
+TY  - CONF
+TI  - Automated feedback generation in an intelligent tutoring system for counselor education
+T2  - 2024 19th Conference on Computer Science and Intelligence Systems (FedCSIS)
+SP  - 501
+EP  - 512
+AU  - E. Rudolph
+AU  - H. Seer
+AU  - C. Mothes
+AU  - J. Albrecht
+PY  - 2024
+KW  - Employee welfare
+KW  - Surveys
+KW  - Measurement
+KW  - Training
+KW  - Ethics
+KW  - Prevention and mitigation
+KW  - Training data
+KW  - Resonance
+KW  - Artificial intelligence
+KW  - Risk mitigation
+DO  - 10.15439/2024F1649
+JO  - 2024 19th Conference on Computer Science and Intelligence Systems (FedCSIS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 19th Conference on Computer Science and Intelligence Systems (FedCSIS)
+Y1  - 8-11 Sept. 2024
+AB  - This paper investigates the implementation of AI-driven feedback in an intelligent tutoring system (ITS) developed for training of counselors. By using LLMs, the study explores the automatic generation of feedback for communication-intensive tasks such as online counseling. The evaluation compares different feedback methods, including the sandwich, WWW and STATE methods, and assesses their emotional and objective impact. The results show that AI-generated feedback fulfills objective criteria better than emotional ones. Fine-tuning an open source LLM can improve both the emotional and objective quality of feedback. Furthermore, the study examines the acceptance of AI feedback among aspiring counselors, highlighting the influence of familiarity with AI on acceptance levels. Ethical considerations, including bias and hallucination, are addressed, with recommendations for risk mitigation through multi-feedback options and expert supervision. This research contributes to the understanding of the role of AI in improving digital counseling practices and highlights the need for continuous evaluation and ethical considerations.
+ER  - 
+
+TY  - CONF
+TI  - Natural Language Processing-Driven Learning Platform for Personalized Education
+T2  - 2025 International Conference on Visual Analytics and Data Visualization (ICVADV)
+SP  - 174
+EP  - 180
+AU  - S. R S
+AU  - V. M
+AU  - S. N
+AU  - S. K
+PY  - 2025
+KW  - Sentiment analysis
+KW  - Adaptive learning
+KW  - Adaptation models
+KW  - Analytical models
+KW  - Conversational artificial intelligence
+KW  - Visual analytics
+KW  - Data visualization
+KW  - Learning (artificial intelligence)
+KW  - Turning
+KW  - Natural Language Processing
+KW  - Sentiment Analysis
+KW  - Rasa Framework
+KW  - Personalized Learning
+KW  - Gamification in Learning
+KW  - Conversational AI
+KW  - Emotional Support in Education
+DO  - 10.1109/ICVADV63329.2025.10961687
+JO  - 2025 International Conference on Visual Analytics and Data Visualization (ICVADV)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 International Conference on Visual Analytics and Data Visualization (ICVADV)
+Y1  - 4-6 March 2025
+AB  - The NLP-driven Learning Platform for Personalized Education will revolutionize educational experiences through the integration of Artificial Intelligence in improved adaptive learning. Other than typical systems, this platform powered by adaptive learning models, sentiment analysis, and gamification creates personalized instruction that best aligns with each student's cognitive and emotional state. For instance, the platform makes use of NLP models in the forms of Rasa for dialogue management and TensorFlow for adaptive algorithms [2]; it measures learning patterns, emotional signals, and progress for its system of adjusting difficulty levels, feedback, and engagement. Preliminary test results indicate that this system can improve academic outcomes and increase student satisfaction through enhanced interactivity and support [4]. This paper covers the design, implementation, and expected impacts of such an innovative approach to the educational landscape, particularly in view of the Education 4.0 and 5.0 frameworks that are turning more personalized and adaptive.
+ER  - 
+
+TY  - CONF
+TI  - Based on the impact of AIGC on the innovative practical capabilities of students in secondary vocational schools
+T2  - 2024 14th International Conference on Information Technology in Medicine and Education (ITME)
+SP  - 376
+EP  - 381
+AU  - X. Jiang
+AU  - P. Liu
+AU  - R. Lu
+AU  - M. Liu
+PY  - 2024
+KW  - Technological innovation
+KW  - Solid modeling
+KW  - Generative AI
+KW  - Education
+KW  - Buildings
+KW  - Learning (artificial intelligence)
+KW  - Solids
+KW  - Information retrieval
+KW  - Floods
+KW  - Information technology
+KW  - AIGC Generative artificial intelligence
+KW  - Secondary vocational education
+KW  - Innovation practice ability
+DO  - 10.1109/ITME63426.2024.00081
+JO  - 2024 14th International Conference on Information Technology in Medicine and Education (ITME)
+IS  - 
+SN  - 2474-3828
+VO  - 
+VL  - 
+JA  - 2024 14th International Conference on Information Technology in Medicine and Education (ITME)
+Y1  - 13-15 Sept. 2024
+AB  - AIGC is leading an unprecedented and profound change in the field of education, and its core value is to significantly enhance students' innovative ability. By promoting immersive, independent and autonomous learning models, AIGC is closely aligned with the fundamental purpose of education and breathes new energy into building a solid framework for innovative thinking. It not only provides students with a rich and diversified case base of innovation practice, urging students to sharpen their skills and enhance their independent innovation ability in practice, but also optimizes the information screening and retrieval mechanism to ensure that students' innovation practice can be accurately, efficiently and accurately focused on the key areas of innovation practice in the flood of massive information. Therefore, the remarkable results and potential value of AIGC in cultivating contemporary students' practical and innovative ability are worthy of in-depth exploration and careful consideration by educators and scholars.
+ER  - 
+
+TY  - JOUR
+TI  - Transformer-LSTM Models for Automatic Scoring and Feedback in English Writing Assessment
+T2  - IEEE Access
+SP  - 82084
+EP  - 82096
+AU  - Y. Xuan
+PY  - 2025
+KW  - Transformers
+KW  - Long short term memory
+KW  - Accuracy
+KW  - Numerical models
+KW  - Grammar
+KW  - Coherence
+KW  - Context modeling
+KW  - Linguistics
+KW  - Analytical models
+KW  - Deep learning
+KW  - Automated writing assessment
+KW  - feedback generation
+KW  - grammar and coherence scoring
+KW  - educational AI
+KW  - transformer-LSTM models
+DO  - 10.1109/ACCESS.2025.3562493
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 13
+VL  - 13
+JA  - IEEE Access
+Y1  - 2025
+AB  - Writing assessment is one of the most important stages in the educational process, but it is also the most resource-demanding one. To address the challenges of scalability and inconsistency, this study proposes a Transformer-LSTM model for automated scoring and feedback generation, enhancing accuracy and reliability in assessment. Integrating the contextual reading abilities of transformers with the sequential analysis strength of LSTMs, the model analyzes significant metrics of writing quality, including grammar, coherence, and structure, while providing individualized, actionable feedback. Using annotated datasets and evaluation metrics like RMSE and feedback relevance, it was established that the model performs well overall and that improvements in grammar and coherence seemed to be the most significant contributors to writing ability. It was also demonstrated that feedback relevance enhances these outcomes, thus confirming its valuable role in promoting structural and grammatical accuracy. Understanding that most existing systems do not encourage significant human feedback, this work demonstrates a scalable approach with potential alignment with human evaluation standards. Finally, this study shows hybrid models’ promise for automated writing assessment as promising scalable, equitable, impact-based tools for global enhancement of educational outcomes.
+ER  - 
+
+TY  - JOUR
+TI  - Adaptive Question–Answer Generation With Difficulty Control Using Item Response Theory and Pretrained Transformer Models
+T2  - IEEE Transactions on Learning Technologies
+SP  - 2186
+EP  - 2198
+AU  - Y. Tomikawa
+AU  - A. Suzuki
+AU  - M. Uto
+PY  - 2024
+KW  - Transformers
+KW  - Question generation
+KW  - Knowledge graphs
+KW  - Adaptation models
+KW  - Training
+KW  - Estimation
+KW  - Encoding
+KW  - Bidirectional control
+KW  - Artificial neural networks
+KW  - Vectors
+KW  - Adaptive learning
+KW  - adaptive testing
+KW  - automated question generation (QG) for reading comprehension
+KW  - deep neural networks
+KW  - item response theory (IRT)
+KW  - natural language processing
+DO  - 10.1109/TLT.2024.3491801
+JO  - IEEE Transactions on Learning Technologies
+IS  - 
+SN  - 1939-1382
+VO  - 17
+VL  - 17
+JA  - IEEE Transactions on Learning Technologies
+Y1  - 2024
+AB  - The automatic generation of reading comprehension questions, referred to as question generation (QG), is attracting attention in the field of education. To achieve efficient educational applications of QG methods, it is desirable to generate questions with difficulty levels that are appropriate for each learner's reading ability. Therefore, in recent years, several difficulty-controllable QG methods have been proposed. However, conventional methods generate only questions and cannot produce question–answer pairs. Furthermore, such methods ignore the relationship between question difficulty and learner ability, making it challenging to ascertain the appropriate difficulty levels for each learner. To address these issues, in this article, we propose a method for generating question–answer pairs based on difficulty, defined using a statistical model known as item response theory. The proposed difficulty-controllable generation is achieved by extending two pretrained transformer models: bidirectional encoder representations from transformers and text-to-text transfer transformer. In addition, because learners' abilities are generally not knowable in advance, we propose an adaptive QG framework that efficiently estimates the learners' abilities while generating and presenting questions with difficulty levels suitable for their abilities. Through experiments involving real data, we confirmed that the proposed method can generate question–answer pairs with difficulty levels that align with the learners' abilities while efficiently estimating their abilities.
+ER  - 
+
+TY  - JOUR
+TI  - OPKT: Enhancing Knowledge Tracing With Optimized Pretraining Mechanisms in Intelligent Tutoring
+T2  - IEEE Transactions on Learning Technologies
+SP  - 841
+EP  - 855
+AU  - L. Qiu
+AU  - M. Zhu
+AU  - J. Zhou
+PY  - 2024
+KW  - Training
+KW  - Task analysis
+KW  - Hidden Markov models
+KW  - Computational modeling
+KW  - Feature extraction
+KW  - Encoding
+KW  - Context modeling
+KW  - Bidirectional encoder representations from transformers (BERT)
+KW  - intelligent tutoring
+KW  - knowledge tracing (KT)
+KW  - pretraining
+KW  - self-supervised learning
+DO  - 10.1109/TLT.2023.3336240
+JO  - IEEE Transactions on Learning Technologies
+IS  - 
+SN  - 1939-1382
+VO  - 17
+VL  - 17
+JA  - IEEE Transactions on Learning Technologies
+Y1  - 2024
+AB  - Knowledge tracing (KT) is essential in intelligent tutoring systems for tracking learners' knowledge states and predicting their future performance. Numerous prevailing KT methods prioritize modeling learners' behavioral patterns in acquiring knowledge and the relationship among interactions. However, due to the sparsity problem, they frequently encounter challenges in effectively uncovering latent contextual features embedded within the learning sequences. This limitation may impose certain constraints on the predictive performance. In light of this concern, this article focuses on extracting latent features from learning sequences to enhance the assessment of knowledge states. Consequently, we design optimized pretraining mechanisms and introduce an enhanced deep KT method, optimized pretraining deep KT (OPKT). In the pretraining phase, the self-supervised learning approach is effectively employed to train comprehensive contextual encodings of the learning sequences. During fine-tuning, the contextual encodings are transferred to the downstream KT model, which then generates the knowledge states and makes predictions. Through our experiments, the superiority of our method over six existing KT models on five publicly available datasets is demonstrated. Furthermore, extensive ablation studies and visualized analysis validate the rationality and effectiveness of every component of the OPKT architecture.
+ER  - 
+
+TY  - JOUR
+TI  - Personalized Learning Through MBTI Prediction: A Deep Learning Approach Integrated With Learner Profile Ontology
+T2  - IEEE Access
+SP  - 30861
+EP  - 30873
+AU  - S. Bousalem
+AU  - F. Benchikha
+AU  - N. Marir
+PY  - 2025
+KW  - Ontologies
+KW  - Accuracy
+KW  - Social networking (online)
+KW  - Deep learning
+KW  - Education
+KW  - Transformers
+KW  - Predictive models
+KW  - Adaptation models
+KW  - Electronic learning
+KW  - Semantics
+KW  - MBTI
+KW  - ontology
+KW  - personalized learning system
+KW  - recommendation
+KW  - transformer
+DO  - 10.1109/ACCESS.2025.3542701
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 13
+VL  - 13
+JA  - IEEE Access
+Y1  - 2025
+AB  - Personalized e-learning systems have transformed the delivery of educational content, aligning it more closely with individual learners’ needs. Among the various approaches to achieving this personalization, the Myers-Briggs Type Indicator (MBTI) personality prediction emerged as a valuable tool for adapting learning content to match individual preferences and learning styles. Despite these advancements, personalized e-learning systems quite struggle with handling large volumes of information, often facing difficulties in balancing prediction accuracy and learning efficiency. To ensure personalization, integrating advanced technologies such as machine learning and deep learning is crucial for creating more sustainable and effective learning environments. This paper proposes a novel framework that integrates MBTI personality prediction with a deep learning approach and a Learner Profile ontology (LPO) to enhance the personalization and recommendation process. The proposed method employs the BERT model, a Transformer-based architecture, for personality prediction, combined with an oversampling technique to handle data imbalance. The predicted personality type is incorporated into a Semantic Web Rule Language (SWRL)-based ontology enriched with WordNet, enabling better alignment of learning resources with individual learner traits. Experimental results validate the efficacy of this integrated approach, demonstrating significant improvements in learner satisfaction and educational outcomes.
+ER  - 
+
+
